@@ -1,0 +1,47 @@
+{
+  "name": "c4tk",
+  "description": "C4tk hackathon site generator.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/chrislim/c4tk",
+  "author": {
+    "name": "Chris",
+    "url": "http://github.com/chrislim/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrislim/c4tk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chrislim/c4tk/issues"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "grunt assemble"
+  },
+  "devDependencies": {
+    "assemble": "~0.4.37",
+    "grunt": "~0.4.4",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "load-grunt-tasks": "~0.4.0",
+    "time-grunt": "~0.3.1",
+    "handlebars-helper-compose": "^0.2.12"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/chrislim/c4tk/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "assemble",
+    "templates",
+    "handlebars",
+    "site generator",
+    "site builder",
+    "grunt"
+  ]
+}

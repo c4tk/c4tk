@@ -1,0 +1,67 @@
+---
+component: header
+---
+<!-- Header -->
+<header id="header" class="alt">
+  <h1 id="logo"><a href="{{relative page.dest "dist/index.html"}}">{{ site.title }}</a></h1>
+  <nav id="nav">
+    <ul>
+      <li class="current"><a href="index.html">Welcome</a></li>
+      <li class="submenu">
+        <a href="">Menu</a>
+        <ul>
+          {{#each pages}}
+            {{#is data.main true}}
+            <li>
+              <a href="{{relative dest this.dest}}">{{ data.title }}</a>
+            </li>
+            {{/is}}
+          {{/each}}
+          <li><a href="left-sidebar.html">Left Sidebar</a></li>
+          <li><a href="right-sidebar.html">Right Sidebar</a></li>
+          <li><a href="no-sidebar.html">No Sidebar</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="">Sponsor</a></li>
+          <li class="submenu"><a href="#">Events</a>
+            <ul>
+              {{#each pages}}
+                {{#is data.event "latest"}}
+                <li>
+                  <a href="{{relative dest this.dest}}">{{data.title}}</a>
+                </li>
+                {{/is}}
+              {{/each}}
+            </ul>
+          </li>
+          <li class="submenu"><a href="">About us</a>
+            <ul>
+              <li><a href="#">Our Team</a></li>
+              <li><a href="#">Contact Us</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Services</a>
+            <ul>
+              <li><a href="#">Hackathon Marketing</a></li>
+              <li><a href="#">Hackathon Planning</a></li>
+              <li><a href="#">Community Management</a></li>
+              <li><a href="#">Rapid Prototyping</a></li>
+              <li><a href="#">Technical Consulting</a></li>
+              <li><a href="#">Recruiting</a></li>
+            </ul>
+          </li>
+          <li class="submenu">
+            <a href="">Submenu</a>
+            <ul>
+              <li><a href="#">Dolore Sed</a></li>
+              <li><a href="#">Consequat</a></li>
+              <li><a href="#">Lorem Magna</a></li>
+              <li><a href="#">Sed Magna</a></li>
+              <li><a href="#">Ipsum Nisl</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><a href="#" class="button special">Sign Up</a></li>
+    </ul>
+  </nav>
+</header>

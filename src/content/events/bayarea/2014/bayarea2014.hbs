@@ -1,0 +1,39 @@
+---
+title: Bay Area 2014
+event: latest
+basePath: src/content/events/bayarea/2014/
+---
+<h1>{{title}}</h1>
+{{#markdown}}
+  {{#compose src='about.md' cwd=basePath}}
+    {{{@content}}}
+  {{/compose}}
+{{/markdown}}
+
+  {{#compose src='schedule.md' cwd=basePath}}
+    {{{@content}}}
+  {{/compose}}
+
+{{#markdown}}
+  {{#compose src='prizes.md' cwd=basePath}}
+    {{{@content}}}
+  {{/compose}}
+  {{#compose src='people.md' cwd=basePath}}
+    {{{@content}}}
+  {{/compose}}
+  {{#compose src='sponsors.md' cwd=basePath}}
+    {{{@content}}}
+  {{/compose}}
+  {{#compose src='api.md' cwd=basePath}}
+    {{{@content}}}
+  {{/compose}}
+  {{#compose src='rules.md' cwd=basePath}}
+    {{{@content}}}
+  {{/compose}}
+  {{#compose src='faq.md' cwd=basePath}}
+    {{{@content}}}
+  {{/compose}}
+  {{#compose src='footer.md' cwd=basePath}}
+    {{{@content}}}
+  {{/compose}}
+{{/markdown}}
