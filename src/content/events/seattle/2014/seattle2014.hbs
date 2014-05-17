@@ -2,45 +2,28 @@
 title: Seattle 2014
 event: latest
 basePath: src/content/events/seattle/2014/
+cwd: src/content/events/seattle/2014/
 layout: src/templates/layouts/event.hbs
 registrationLink: http://c4tkbayarea.eventbrite.com/
+sections:
+- about.md
+- schedule.md
+- challenges.md
+- prizes.md
+- people.md
+- api.md
+- sponsors.md
+- rules.md
+- faq.md
+- footer.md
 ---
 {{#markdown}}
-{{#compose src='about.md' cwd=basePath}}
+{{#each sections}}
+{{#compose cwd=../cwd src=this}}
 {{{@content}}}
 {{/compose}}
+<hr/>
+{{/each}}
 {{/markdown}}
-<hr/>
-{{#compose src='schedule.md' cwd=basePath}}
-{{{@content}}}
-{{/compose}}
-<hr/>
-{{#markdown}}
-{{#compose src='prizes.md' cwd=basePath}}
-{{{@content}}}
-{{/compose}}
-<hr/>
-{{#compose src='people.md' cwd=basePath}}
-  {{{@content}}}
-{{/compose}}
-<hr/>
-{{#compose src='sponsors.md' cwd=basePath}}
-  {{{@content}}}
-{{/compose}}
-<hr/>
-{{#compose src='api.md' cwd=basePath}}
-  {{{@content}}}
-{{/compose}}
-<hr/>
-{{#compose src='rules.md' cwd=basePath}}
-  {{{@content}}}
-{{/compose}}
-<hr/>
-{{#compose src='faq.md' cwd=basePath}}
-  {{{@content}}}
-{{/compose}}
-<hr/>
-{{#compose src='footer.md' cwd=basePath}}
-  {{{@content}}}
-{{/compose}}
-{{/markdown}}
+
+

@@ -1,11 +1,11 @@
 # Prizes
 A panel of judges will award over $10,000 in cash prizes.
 
-* $2,500 to Best Overall started at the hackathon
-* $2,500 to Best Overall started before the hackathon
-* $1,500 to Runner-up started at the hackathon
-* $1,500 to Runner-up started before the hackathon
-* $1,000 to People’s choice (voted by all participants across all submitted projects)
+* <i class="icon fa-money"></i> $2,500 to Best Overall started at the hackathon
+* <i class="icon fa-money"></i> $2,500 to Best Overall started before the hackathon
+* <i class="icon fa-money"></i> $1,500 to Runner-up started at the hackathon
+* <i class="icon fa-money"></i> $1,500 to Runner-up started before the hackathon
+* <i class="icon fa-money"></i> $1,000 to People’s choice (voted by all participants across all submitted projects)
 
 Plus, other cash prizes for best use of sponsors’ platforms and judges’ special awards.
 
