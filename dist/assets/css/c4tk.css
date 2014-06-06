@@ -1,0 +1,45 @@
+.toggle-switch {
+  color: #ffffff;
+  border-color: #f1532c;
+  background-color: #f1532c;
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  overflow: hidden;
+  border-width: 1px;
+  margin: 0 5px;
+  padding: 0;
+  border-style: solid;
+  border-radius: 3px;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  cursor: pointer;
+}
+
+.toggle-switch:before {
+  opacity: 1;
+  display: block;
+  transition: all 0.375s ease-in-out;
+  content: "\f067";
+  width: 24px;
+  height: 24px;
+  text-align: center;
+  font: 14px/24px FontAwesome;
+  cursor: pointer;
+}
+
+.toggle-switch:after {
+  opacity: 0;
+  display: block;
+  transition: all 0.375s ease-in-out;
+  content: "\f068";
+  width: 24px;
+  height: 24px;
+  text-align: center;
+  font: 14px/24px FontAwesome;
+  font-weight: bold;
+  line-height: 22px;
+  text-align: justify;
+  cursor: pointer;
+}

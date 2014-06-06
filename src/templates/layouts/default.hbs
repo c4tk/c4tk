@@ -10,6 +10,7 @@
     <!--[if lte IE 8]><script src="{{assets}}/css/ie/html5shiv.js"></script><![endif]-->
     <script src="{{assets}}/js/jquery.min.js"></script>
     <script src="{{assets}}/js/jquery.dropotron.min.js"></script>
+    <script src="{{assets}}/js/simple-expand.min.js"></script>
     <script src="{{assets}}/js/skel.min.js"></script>
     <script src="{{assets}}/js/skel-layers.min.js"></script>
     <script src="{{assets}}/js/init.js"></script>
@@ -24,6 +25,9 @@
       <link rel="stylesheet" href="{{assets}}/css/style.css" />
       <link rel="stylesheet" href="{{assets}}/css/style-noscript.css" />
     </noscript>
+    <link rel="stylesheet" href="{{assets}}/css/simple-expand.css" />
+    <link rel="stylesheet" href="{{assets}}/css/c4tk.css" />
+
     <!--[if lte IE 8]><link rel="stylesheet" href="{{assets}}/css/ie/v8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="{{assets}}/css/ie/v9.css" /><![endif]-->
   </head>
@@ -42,5 +46,8 @@
     </div>
 
     {{> footer}}
+    <script type="text/javascript">
+      $('.expander').simpleexpand();
+    </script>
    </body>
 </html>
