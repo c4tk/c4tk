@@ -1,0 +1,13 @@
+.expander.expanded {
+  padding-left: 13px;
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-image: url(assets/images/expanded.gif);
+}
+
+.expander.collapsed {
+  padding-left: 13px;
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-image: url(assets/images/collapsed.gif);
+}
