@@ -48,12 +48,12 @@
   margin: 10px 0px;
 }
 
-.qa .question, .api-description .headline {
+.qa .question, .api-description .headline, .challenge-description .intro {
   font-weight: bold;
   cursor: pointer;
 }
 
-.qa .content, .api-description .content {
+.qa .content, .api-description .content, .challenge-description .content {
   margin-left: 48px;
 }
 
