@@ -48,21 +48,21 @@
   margin: 10px 0px;
 }
 
-.qa .question {
+.qa .question, .api-description .headline {
   font-weight: bold;
   cursor: pointer;
 }
 
-.qa .content {
+.qa .content, .api-description .content {
   margin-left: 48px;
+}
+
+.smaller-paragraphs, .api-description p {
+  font-size: .85em;
 }
 
 .money {
   color: #209f59;
-}
-
-.smaller-paragraphs {
-  font-size: .8em;
 }
 
 .mentor-card {
@@ -106,3 +106,10 @@
   max-height: 300px;
   overflow: auto;
 }
+
+.sponsor-image img {
+  width: 300px;
+  height: 110px;
+  border: 1px solid gray;
+}
+

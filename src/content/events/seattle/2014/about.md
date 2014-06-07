@@ -14,13 +14,13 @@ Code for the Kingdom is a weekend Hackathon where global issues are tackled with
   <div class="row">
     <div class="6u">
       <section>
-        <span class="icon feature fa-gavel"></span>
+        <span class="icon feature fa-fighter-jet"></span>
         <header>
-          <h3>SOCIAL JUSTICE</h3>
+          <h3>ENGAGING AND RELEASING OUR BEST</h3>
         </header>
-        <p>
-How can technology alleviate the social maladies that oppress so many? How can you help knock off a little corner of darkness?
-      </section>
+        <p>Every person has something unique to contribute to the community, society, and church. Yet, less than 20% of us are actively engaged in doing what we could do. Most of us do not understand how we can leverage our skills and ideas to improve the lives of others.
+
+What if we could discover how to use our unique gifts for God’s Kingdom? Build technologies to mobilize and equip every member of your community, church and family. Empower them to release their skills as well as to accelerate great ideas and initiatives that could transform the lives of the child or adult down your street.</p></section>
     </div>
     <div class="6u">
       <section>
@@ -46,13 +46,13 @@ Build mobile applications to help children learn the Word of God, bury it in the
     </div>
     <div class="6u">
       <section>
-        <span class="icon feature fa-fighter-jet"></span>
+        <span class="icon feature fa-gavel"></span>
         <header>
-          <h3>ENGAGING AND RELEASING OUR BEST</h3>
+          <h3>SOCIAL JUSTICE</h3>
         </header>
-        <p>Every person has something unique to contribute to the community, society, and church. Yet, less than 20% of us are actively engaged in doing what we could do. Most of us do not understand how we can leverage our skills and ideas to improve the lives of others.
-
-What if we could discover how to use our unique gifts for God’s Kingdom? Build technologies to mobilize and equip every member of your community, church and family. Empower them to release their skills as well as to accelerate great ideas and initiatives that could transform the lives of the child or adult down your street.</p></section>
+        <p>
+How can technology alleviate the social maladies that oppress so many? How can you help knock off a little corner of darkness?
+      </section>
     </div>
   </div>
 </div>

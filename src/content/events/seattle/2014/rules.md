@@ -6,6 +6,8 @@ The rules are in place to give every participant the same opportunity for succes
 
 Importantly, you can start coding ahead of the hackathon or at the hackathon. So what are you waiting for? Register now and get started!
 
+{{> register-button}}
+<br/>
 ## Read the rules
 
 You can start coding ahead of the hackathon or at the hackathon.
