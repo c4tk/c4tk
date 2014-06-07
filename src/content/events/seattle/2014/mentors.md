@@ -10,7 +10,7 @@ Meet with Mentors is a great opportunity to connect with industry experts who ca
 <div class="6u">
   <div class="mentor-card expander">
       <span class="mentor-picture">
-       ![Alternate]({{assets}}/images/mentors/{{@picture}} "{{@name}}")       
+       ![{{@name}}]({{assets}}/images/mentors/{{@picture}} "{{@name}}")       
       </span>
       <p class="mentor-titles">
         {{@name}}<br/>
@@ -24,10 +24,4 @@ Meet with Mentors is a great opportunity to connect with industry experts who ca
 {{/compose}}
 </div>
 
-# Organizers
-
-* Leadership Network
-* Carpentar's Labs
-* SF Bay Christian Entrepreneurs
-* Crazy Love
-
+{{> register-button}}
