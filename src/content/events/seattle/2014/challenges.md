@@ -1,4 +1,4 @@
-# Challenges
+## <i class="icon fa-flag"></i> Challenges
 
 The challenges will be announce on May 16th. Please come back then to learn more about our challenges.
 

@@ -1,4 +1,4 @@
-# Schedule
+## <i class="icon fa-clock-o"></i> Schedule
 
 <table class="default">
 <thead>

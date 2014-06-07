@@ -1,4 +1,4 @@
-# Rules
+## <i class="icon fa-check-circle"></i> Rules
 
 ## Why the rules?
 

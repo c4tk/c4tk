@@ -2,7 +2,7 @@
 title: Mentors
 cwd: src/content/events/seattle/2014/mentors
 ---
-# Mentors
+## <i class="icon fa-group"></i> Mentors
 
 Meet with Mentors is a great opportunity to connect with industry experts who can guide you and your concepts. Schedule your sessions with mentors of your choice on Friday/Saturday and get connected.
 <hr/>

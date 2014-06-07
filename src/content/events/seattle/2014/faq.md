@@ -87,7 +87,7 @@ questions:
 - question:
     What's the hashtag?   
   answer:
-    #C4TK 
+    \#C4TK 
 - question:
     Who is on the Jury?   
   answer:
@@ -97,7 +97,7 @@ questions:
   answer:
     The judges will consider Kingdom impact, viability, innovativeness / originality, and completeness.   
 ---
-# FAQ
+## <i class="icon fa-question-circle"></i> FAQ
 {{#each questions}}
   {{> qa}}
 {{/each}}

@@ -13,7 +13,7 @@
   border-radius: 3px;
   outline: 0;
   font-size: 100%;
-  vertical-align: baseline;
+  vertical-align: top;
   cursor: pointer;
 }
 
@@ -42,4 +42,25 @@
   line-height: 22px;
   text-align: justify;
   cursor: pointer;
+}
+
+.qa {
+  margin: 10px 0px;
+}
+
+.qa .question {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.qa .content {
+  margin-left: 48px;
+}
+
+.money {
+  color: #209f59;
+}
+
+.smaller-paragraphs {
+  font-size: .8em;
 }
