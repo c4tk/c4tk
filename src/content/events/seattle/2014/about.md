@@ -1,6 +1,8 @@
 ## <i class="icon fa-book"></i> About
 ---
 <img src="{{assets}}/images/child.png" style="float:right"/>
+Code for the Kingdom is a weekend hackathon and ongoing ecosystem where global issues are tackled from a Christian perspective.
+
 How can technology help alleviate and eradicate all forms of injustices, teach about God’s unconditional love, and build a healthier and stronger society?
 
 This May, we want to develop new technologies to transform lives through a holistic Christian approach that combats social injustice, creates a culture of generosity, facilitates spiritual justice and unleashes the fullest capacity of each individual.
