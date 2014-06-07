@@ -8,15 +8,17 @@ Meet with Mentors is a great opportunity to connect with industry experts who ca
 <hr/>
 <div class="row">
 {{#compose src='*.md' cwd=cwd}}
-<div style="float: left; width: 50%">
-  <div>
-    ![Alternate]({{assets}}/images/mentors/{{@picture}} "piano man")
+<div style="float: left; width: 50%; position: relative">
+  <div class="expander">
+    <span style="float:left">
+    ![Alternate]({{assets}}/images/mentors/{{@picture}} "{{@name}}")
+    </span>
     <span>{{@name}}</span>
     {{@description}}
     {{@twitter}}
 
   </div>
-  <div>
+  <div class="content" style="position:absolute; background-color:gray; color: white; z-index:1">
         {{{@content}}}
   </div>
 </div>

@@ -23,5 +23,5 @@ Participant must submit their project by the submission time on Sunday afternoon
 ### TAXES 
 Prizes are non- transferable by the winner. Prize winners will be solely responsible for all applicable taxes related to accepting a prize.
 
-Register Now
+{{> register-button}}
 
