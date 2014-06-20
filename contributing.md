@@ -9,26 +9,28 @@
 Go to your repository folder. There are two top-level folders: dist and src
 
 ## dist
-`dist/assets/downloads` is where files users can download go. For example, a PDF explaining different sponsorship levels would go here.
-`dist/assets/images` is where images to be shown on the site go. For example, a profile picture of a mentor goes in `dist/assets/images/mentors`.
+Files that users can download belong in `dist/assets/downloads`. For example, a PDF explaining different sponsorship levels would go here.
+
+Images to be used on the site go in `dist/assets/images`. For example, a profile picture of a mentor goes in `dist/assets/images/mentors`.
 
 ## src
-The src directory is where your actual content goes. 
+Actual content for events and pages goes in the src directory. 
+
 To create a new landing page for an event go to:
 `src/content/events/`
 In this directory you will see a folder for each location. 
 In each location, you will see a folder for each event.
 
 # How to view the site locally on your machine
-In the repository you should see Gruntfile.js which makes available two tasks: server and build.
+In the repository you should see Gruntfile.js which makes available two tasks: `server` and `build`.
 server is used to run the site locally so you can play with it while making your changes.
 build is used to compile the site into the `dist/` directory. When the site is built, the contents of the `dist/` folder can be copied to any server and you can start using the site.
 
-To view your site locally run grunt server.
+To view your site locally run `grunt server`.
 It should open a browser to a location like: http://0.0.0.0:9000
 You can then play with the site.
 When you make changes to the underlying files, the site will automatically refresh.
-If your changes are not getting picked up, you can refresh the page manually and if that does not work, restart the grunt server command.
+If your changes are not getting picked up, you can refresh the page manually and if that does not work, restart the `grunt server` command.
 
 # Creating a new event
 If you are creating a page for a new event at an existing location like Seattle,
