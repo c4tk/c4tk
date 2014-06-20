@@ -5,6 +5,17 @@
 4. Install grunt
 5. Run npm install
 
+# How to view the site locally on your machine
+In the repository you should see Gruntfile.js which makes available two tasks: `server` and `build`.
+server is used to run the site locally so you can play with it while making your changes.
+build is used to compile the site into the `dist/` directory. When the site is built, the contents of the `dist/` folder can be copied to any server and you can start using the site.
+
+To view your site locally run `grunt server`.
+It should open a browser to a location like: http://0.0.0.0:9000
+You can then play with the site.
+When you make changes to the underlying files, the site will automatically refresh.
+If your changes are not getting picked up, you can refresh the page manually and if that does not work, restart the `grunt server` command.
+
 # Where things are and where they go
 Go to your repository folder. There are two top-level folders: dist and src
 
@@ -16,21 +27,11 @@ Images to be used on the site go in `dist/assets/images`. For example, a profile
 ## src
 Actual content for events and pages goes in the src directory. 
 
-To create a new landing page for an event go to:
-`src/content/events/`
-In this directory you will see a folder for each location. 
-In each location, you will see a folder for each event.
+To create a new landing page for an event go to `src/content/events/`.
 
-# How to view the site locally on your machine
-In the repository you should see Gruntfile.js which makes available two tasks: `server` and `build`.
-server is used to run the site locally so you can play with it while making your changes.
-build is used to compile the site into the `dist/` directory. When the site is built, the contents of the `dist/` folder can be copied to any server and you can start using the site.
+In this directory you will see a folder for each location like `src/content/events/seattle`.
 
-To view your site locally run `grunt server`.
-It should open a browser to a location like: http://0.0.0.0:9000
-You can then play with the site.
-When you make changes to the underlying files, the site will automatically refresh.
-If your changes are not getting picked up, you can refresh the page manually and if that does not work, restart the `grunt server` command.
+In each location, you will see a folder for each event like `src/content/events/seattle/2014`.
 
 # Creating a new event
 If you are creating a page for a new event at an existing location like Seattle,
