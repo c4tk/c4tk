@@ -1,9 +1,13 @@
 # Getting Started
-1. Download and install node
-2. Download and install the GitHub Windows Client
-3. Fork the c4tk repository
-4. Install grunt
-5. Run npm install
+1. Download and install [node](http://nodejs.org/)
+2. Download and install the GitHub Client for [Windows](https://windows.github.com/) or [Mac](https://mac.github.com/)
+3. Fork the [c4tk repository](https://github.com/chrislim/c4tk) to get your own version to play with.
+4. Clone it to your local machine through the GitHub Client.
+5. Open a command prompt in the repository.
+6. Install grunt by running `npm install grunt-cli -g`
+7. Install the software to generate the site by running `npm install`
+8. Run `grunt server` to start a local version of the site.
+9. Visit http://localhost:9000 to view the site on your local machine.
 
 # How to view the site locally on your machine
 In the repository you should see Gruntfile.js which makes available two tasks: `server` and `build`.
