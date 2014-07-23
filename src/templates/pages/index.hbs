@@ -2,12 +2,58 @@
 title: Home
 heading: 'What is code for the kingdom?!'
 lead: Write code that matters
+cwd: src/content/landing
+sections:
+- path:
+    about.md
+  title:
+    What is Code for the Kingdom?
+- path:
+    press.md
+  title:
+    What others are saying
+- path:
+    upcoming_events.md
+  title:
+    Upcoming Events
+- path:
+    past_events.md
+  title:
+    Past Events
+- path:
+    contact.md
+  title:
+    Contact Us
+- path:
+    social.md
+  title:
+    We're social
 ---
-{{> main}}
+<article id="main">
+{{#each sections}}
+  {{#compose cwd=../cwd src=this.path}}
+    {{{@content}}}
+  {{/compose}}
+{{/each}}
+</article>
+<!--
 
+Content:
+1. Brand + Home + Menu + Default Action
+2. Banner slider (1. Next Event, 2. Recent Event, 3. Other)
+3. What is Code for the Kingdom?
+4. Press
+5. Upcoming Events (Austin)
+6. Past Events (Bay Area, Seattle, etc.)
+7. Contact Us
+8. Social Media
+
+Default Action:
+A modal that lets people:
+1. Connect to the G+ community
+2. Contact to become a sponsor
+3. Register for an upcoming event
+4. Start your own C4TK
+
+ -->
 {{> cta}}
-<div class="jumbotron">
-  <h1>{{ heading }}</h1>
-  <p>This is a Assemble Generator template using <a href="http://getbootstrap.com">Bootstrap</a>. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-  <p><a href="blog.html" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
-</div>
