@@ -9,10 +9,6 @@ sections:
   title:
     What is Code for the Kingdom?
 - path:
-    press.md
-  title:
-    What others are saying
-- path:
     upcoming_events.md
   title:
     Upcoming Events
@@ -20,6 +16,10 @@ sections:
     past_events.md
   title:
     Past Events
+- path:
+    press.md
+  title:
+    What others are saying
 - path:
     contact.md
   title:
@@ -31,6 +31,7 @@ sections:
 ---
 <article id="main">
 {{#each sections}}
+  <span id="{{this.path}}"></span>
   {{#compose cwd=../cwd src=this.path}}
     {{{@content}}}
   {{/compose}}

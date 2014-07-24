@@ -113,3 +113,16 @@
   border: 1px solid gray;
 }
 
+.event-image {
+  position: relative;
+  min-height: 300px;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+
+.image-overlay {
+  position: absolute;
+  bottom: 0px;
+  background-color: rgba(243, 246, 250, 0.8);
+  width:100%;
+}

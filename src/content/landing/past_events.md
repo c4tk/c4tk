@@ -1,52 +1,69 @@
+---
+events:
+- name:
+    Bay Area 2014
+  photo:
+    bayarea2014_c4tk_prizes.jpg
+  location:
+    NestGSV
+  date:
+    May 31st-June 2nd, 2014
+  link:
+    bayarea2014.html
+- name:
+    Seattle 2014
+  photo:
+    seattle2014_c4tk.jpg
+  location:
+    Impact HUB Seattle
+  date:
+    March 30th-April 1st, 2014
+  link:
+    seattle2014.html
+- name:
+    Austin 2013
+  photo:
+    austin2013_c4tk.jpg   
+  location:
+    Action MBA School
+  date:
+    The Date goes here
+  link:
+    austin2013.html
+- name:
+    Bay Area 2013
+  photo:
+    bayarea2013_c4tk.jpg  
+  location:
+    YetiZen
+  date:
+    Date goes here
+  link:
+    bayarea2013.html
+---
 <section class="wrapper style3 container special">
-      <header class="major">
-        <h2>See <strong>past events</strong></h2>
-      </header>
-      <div class="row">
-        <div class="6u">
-          <section>
-            <a href="#" class="image feature"><img src="{{assets}}/images/events/bayarea2014_c4tk_prizes.jpg" alt="" /></a>
-            <header>
-              <h3>Bay Area 2014</h3>
-            </header>
-            <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
+  <header class="major">
+    <h2> See <strong>past events</strong></h2>
+  </header>
+  <div class="row">
+    {{#each events}}
+      <div class="6u">
+        <a href="{{this.link}}">
+          <section class="event-image" style="background-image: url({{../assets}}/images/events/{{this.photo}});">
+            <div class="image-overlay">
+              <h3>{{this.name}}</h3>
+              <p>{{this.date}} at {{this.location}}</p>
+            </div>
           </section>
-        </div>
-        <div class="6u">
-          <section>
-            <a href="#" class="image feature"><img src="{{assets}}/images/events/seattle2014_c4tk.jpg" alt="" /></a>
-            <header>
-              <h3>Seattle 2014</h3>
-            </header>
-            <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-          </section>
-        </div>
+        </a>
       </div>
-      <div class="row">
-        <div class="6u">
-          <section>
-            <a href="#" class="image feature"><img src="{{assets}}/images/events/austin2013_c4tk.jpg" alt="" /></a>
-            <header>
-              <h3>Austin 2013</h3>
-            </header>
-            <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-          </section>
-        </div>
-        <div class="6u">
-          <section>
-            <a href="#" class="image feature"><img src="{{assets}}/images/events/bayarea2013_c4tk.jpg" alt="" /></a>
-            <header>
-              <h3>Bay Area 2013</h3>
-            </header>
-            <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-          </section>
-        </div>
-      </div>
-       <!--
+    {{/each}}
+  </div>
+<!--
        <footer class="major">
         <ul class="buttons">
           <li><a href="#" class="button">See More</a></li>
         </ul>
       </footer>
       -->
-    </section>
+</section>

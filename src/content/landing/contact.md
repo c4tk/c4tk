@@ -2,20 +2,20 @@
   <header class="special container">
     <span class="icon fa-envelope"></span>
     <h2>{{title}}</h2>
-    <p>Use the form below to reach us.</p>
+    <p>To learn more about Code for the Kingdom, how you can help organize a hackathon, or sponsorship opportunities please use the form below.</p>
   </header>
 
   <!-- One -->
-    <section style="background-color: #ddd" class="wrapper style4 special container">
+    <section class="contact-form wrapper style4 special container">
       <!-- Content -->
         <div class="content">
-          <form>
+          <form action="http://forms.brace.io/chris.armas@leadnet.org">
             <div class="row half no-collapse-1">
               <div class="6u">
                 <input type="text" name="name" placeholder="Name" />
               </div>
               <div class="6u">
-                <input type="text" name="email" placeholder="Email" />
+                <input type="email" name="_replyto" placeholder="Email" />
               </div>
             </div>
             <div class="row half">
@@ -31,7 +31,7 @@
             <div class="row">
               <div class="12u">
                 <ul class="buttons">
-                  <li><a href="#" class="button special">Send Message</a></li>
+                  <li><button type="submit" class="button special">Send Message</button></li>
                 </ul>
               </div>
             </div>

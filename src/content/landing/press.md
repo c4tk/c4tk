@@ -1,4 +1,4 @@
-<section class="wrapper style1 container special">
+<section class="wrapper style4 container special">
   <header class="special container">
     <h2><span class="icon fa-comments-o"></span> What Others Are Saying</h2>
   </header>
