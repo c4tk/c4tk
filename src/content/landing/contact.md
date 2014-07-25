@@ -9,7 +9,7 @@
     <section class="contact-form wrapper style4 special container">
       <!-- Content -->
         <div class="content">
-          <form action="http://forms.brace.io/chris.armas@leadnet.org">
+          <form action="http://forms.brace.io/chris.armas@leadnet.org" method="post">
             <div class="row half no-collapse-1">
               <div class="6u">
                 <input type="text" name="name" placeholder="Name" />
