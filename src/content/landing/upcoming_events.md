@@ -1,34 +1,51 @@
-<section class="wrapper style2 container special-alt" style="background-image:url(assets/images/seattle_c4tk.jpg); background-size:cover">
-  <div class="row half">
-    <div class="8u">
+---
+events:
+- name:
+    Austin 2014
+  photo:
 
-      <header>
-        <h2>Upcoming Events</h2>
-      </header>
-      <div>
-        <ul>
-          <li>Austin 2014</li>
-          <li>Bangalore 2014</li>
-        </ul> 
+  location:
+    TBD
+  date:
+    TBD
+  link:
+    austin2014.html
+- name:
+    Bangalore 2014
+  photo:
+
+  location:
+    TBD
+  date:
+    TBD
+  link:
+    bangalore2014.html
+---
+
+
+<section class="wrapper style3 container special-alt">
+  <header class="major">
+    <h2>Check out <strong>upcoming events</strong></h2>
+  </header>
+  <div class="row">
+    {{#each events}}
+      <div class="6u">
+        <a href="{{this.link}}">
+          <section class="event-image" style="background-image: url({{../assets}}/images/events/{{this.photo}});">
+            <div class="image-overlay">
+              <h3>{{this.name}}</h3>
+              <p>{{this.date}} at {{this.location}}</p>
+            </div>
+          </section>
+        </a>
       </div>
-      <footer>
+    {{/each}}
+  </div>
+<!--
+       <footer class="major">
         <ul class="buttons">
-          <li><a href="#" class="button">Find Out More</a></li>
+          <li><a href="#" class="button">See More</a></li>
         </ul>
       </footer>
-
-    </div>
-    <div class="4u skel-cell-important">
-
-      <ul class="feature-icons">
-        <li><span class="icon fa-clock-o"><span class="label">Feature 1</span></span></li>
-        <li><span class="icon fa-volume-up"><span class="label">Feature 2</span></span></li>
-        <li><span class="icon fa-laptop"><span class="label">Feature 3</span></span></li>
-        <li><span class="icon fa-inbox"><span class="label">Feature 4</span></span></li>
-        <li><span class="icon fa-lock"><span class="label">Feature 5</span></span></li>
-        <li><span class="icon fa-cog"><span class="label">Feature 6</span></span></li>
-      </ul>
-
-    </div>
-  </div>
+      -->
 </section>
