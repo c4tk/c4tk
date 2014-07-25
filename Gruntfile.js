@@ -85,7 +85,7 @@ module.exports = function(grunt) {
         },
         files: {
           '<%= config.dist %>/': ['<%= config.src %>/templates/pages/*.hbs',
-          '<%= config.src %>/content/**/*.hbs']
+          '<%= config.src %>/content/events/**/*.hbs']
         }
       }
     },
