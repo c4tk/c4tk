@@ -1,7 +1,7 @@
 ---
 events:
 - name:
-    Austin 2014
+    Austin Sep 12-14, 2014
   photo:
     austin2.jpg
   location:
@@ -34,7 +34,7 @@ events:
           <section class="event-image" style="background-image: url({{../assets}}/images/events/{{this.photo}});">
             <div class="image-overlay">
               <h3>{{this.name}}</h3>
-              <p>{{this.date}} at {{this.location}}</p>
+
             </div>
           </section>
         </a>
