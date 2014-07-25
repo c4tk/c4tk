@@ -3,7 +3,7 @@
 <table id="tablepress-1" class="tablepress tablepress-id-1 dataTable">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Friday May 30th, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Friday September 12th, 2014</div></th>
 </tr>
 </thead>
 <tbody class="row-hover" role="alert" aria-live="polite" aria-relevant="all">
@@ -56,7 +56,7 @@ Keynote</td>
 <table id="tablepress-2" class="tablepress tablepress-id-2">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Saturday May 31st, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Saturday September 13, 2014</div></th>
 </tr>
 </thead>
 <tbody class="row-hover">
@@ -91,7 +91,7 @@ Keynote</td>
 <table id="tablepress-3" class="tablepress tablepress-id-3">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Sunday June 1st, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Sunday September 14th, 2014</div></th>
 </tr>
 </thead>
 <tbody class="row-hover">

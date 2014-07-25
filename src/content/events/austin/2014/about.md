@@ -5,7 +5,7 @@ How can technology help alleviate and eradicate all forms of injustices, teach a
 
 This May, we want to develop new technologies to transform lives through a holistic Christian approach that combats social injustice, creates a culture of generosity, facilitates spiritual justice and unleashes the fullest capacity of each individual.
 
-Code for the Kingdom is a weekend Hackathon where global issues are tackled with a Christian perspective. Join us at Redwood City, CA as we battle the challenges confronting people all over the world.
+Code for the Kingdom is a weekend Hackathon where global issues are tackled with a Christian perspective. Join us in Austin, TX as we battle the challenges confronting people all over the world.
 
 Register Now
 
