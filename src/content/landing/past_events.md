@@ -3,7 +3,7 @@ events:
 - name:
     Bay Area 2014
   photo:
-    bayarea2014_c4tk_prizes.jpg
+    bayarea.jpg
   location:
     NestGSV
   date:
@@ -13,7 +13,7 @@ events:
 - name:
     Seattle 2014
   photo:
-    seattle2014_c4tk.jpg
+    seattle1.jpg
   location:
     Impact HUB Seattle
   date:
@@ -23,7 +23,7 @@ events:
 - name:
     Austin 2013
   photo:
-    austin2013_c4tk.jpg   
+    austin2.jpg   
   location:
     Action MBA School
   date:
@@ -33,7 +33,7 @@ events:
 - name:
     Bay Area 2013
   photo:
-    bayarea2013_c4tk.jpg  
+    sf1.jpg  
   location:
     YetiZen
   date:
@@ -52,7 +52,6 @@ events:
           <section class="event-image" style="background-image: url({{../assets}}/images/events/{{this.photo}});">
             <div class="image-overlay">
               <h3>{{this.name}}</h3>
-              <p>{{this.date}} at {{this.location}}</p>
             </div>
           </section>
         </a>

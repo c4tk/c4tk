@@ -1,7 +1,16 @@
-# Sponsors
+---
+title: Sponsors
+cwd: src/content/events/seattle/2014/sponsors
+---
+## <i class="icon fa-heart"></i> Sponsors
 
-* Leadership Network
-* Faith Comes By Hearing
-* OneHope
-* Generis
-
+<div class="row">
+{{#compose src='*.md' cwd=cwd}}
+  <div class="4u">
+  <a href="{{@url}}" class="sponsor-image">
+    ![{{@name}}]({{assets}}/images/sponsors/{{@image}} "{{@name}}")
+  </a>
+  </div>
+{{/compose}}
+</div>
+{{> register-button}}

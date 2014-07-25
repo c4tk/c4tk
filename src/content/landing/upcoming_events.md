@@ -3,11 +3,11 @@ events:
 - name:
     Austin 2014
   photo:
-
+    austin2.jpg
   location:
     TBD
   date:
-    TBD
+    Sep 12-14 
   link:
     austin2014.html
 - name:
@@ -17,7 +17,7 @@ events:
   location:
     TBD
   date:
-    TBD
+    Oct 31- Nov 2 
   link:
     bangalore2014.html
 ---
