@@ -1,6 +1,11 @@
 ---
 title: Language, Literacy and the Unreached
 intro: How can technology promote worldwide biblical literacy? How can technology help people with limited reading skills to understand and engage the Bible?
+champions:
+- name:
+    Faith Comes By hearing
+  logo:
+    FBCH.png
 ---
 
 50% of the world is illiterate and will never be reached with the printed page. And yet, every person has the right to receive God’s Word in their own language because, only God’s truth has the ability to transform the heart and the mind.
