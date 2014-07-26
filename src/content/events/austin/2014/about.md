@@ -16,7 +16,7 @@ Code for the Kingdom is a weekend Hackathon where global issues are tackled with
   <div class="row">
     <div class="6u">
       <section>
-        <span class="icon feature fa-fighter-jet"></span>
+
         <header>
           <h3>ENGAGING AND RELEASING OUR BEST</h3>
         </header>
