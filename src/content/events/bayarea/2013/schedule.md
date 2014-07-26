@@ -3,7 +3,7 @@
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Friday May 30th, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Friday June 28th, 2013</div></th>
 </tr>
 </thead>
 <tbody class="row-hover" role="alert" aria-live="polite" aria-relevant="all">
@@ -11,34 +11,23 @@
   <td class="column-1"><strong>6:00 PM</strong></td><td class="column-2">Doors Open </td>
 </tr>
 <tr class="row-3">
-  <td class="column-1"><strong>6:00 PM - 7:15 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
+  <td class="column-1"><strong>6:00 PM - 7:00 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
 </tr>
 <tr class="row-4">
-  <td class="column-1"><strong>7:15 PM - 7:20 PM</strong></td><td class="column-2">Welcome, </td>
+  <td class="column-1"><strong>7:00 PM - 7:25 PM</strong></td><td class="column-2">Welcome & Review Format </td>
 </tr>
+
 <tr class="row-5">
-  <td class="column-1"><strong>7:21 PM - 7:29 PM</strong></td><td class="column-2">Troy Carl, <br>
-Vice President Faith Comes By Hearing</td>
+  <td class="column-1"><strong>7:25 PM - 7:35 PM</strong></td><td class="column-2">API Presentations by Logos, Kii, Fellowship1, Tango</td>
 </tr>
 <tr class="row-6">
-  <td class="column-1"><strong>7:30 PM - 7:50 PM</strong></td><td class="column-2">Pat Gelsinger, <br>
-CEO VMWare<br>
-Keynote</td>
+  <td class="column-1"><strong>7:35 PM - 7:50 PM</strong></td><td class="column-2">Review - Official Challenges </td>
 </tr>
 <tr class="row-7">
-  <td class="column-1"><strong>7:51 PM - 8:00 PM</strong></td><td class="column-2">Prayer</td>
-</tr>
-<tr class="row-8">
-  <td class="column-1"><strong>8:00 PM - 8:20 PM</strong></td><td class="column-2">Format &amp; Sponsor API</td>
-</tr>
-<tr class="row-9">
-  <td class="column-1"><strong>8:25 PM - 8:45 PM</strong></td><td class="column-2">Review - Official Challenges </td>
-</tr>
-<tr class="row-10">
-  <td class="column-1"><strong>8:45 PM - 9:00 PM</strong></td><td class="column-2">Open Floor - pitch your own "Transforming Lives" challenge</td>
+  <td class="column-1"><strong>7:50 PM - 8:20 PM</strong></td><td class="column-2">Open Floor - pitch your own project</td>
 </tr>
 <tr class="row-11">
-  <td class="column-1"><strong>9:00 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Hack Away</td>
+  <td class="column-1"><strong>8:20 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Hack Away</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +37,7 @@ Keynote</td>
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Saturday May 31st, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Saturday June 29th, 2013</div></th>
 </tr>
 </thead>
 <tbody class="row-hover">
@@ -62,7 +51,7 @@ Keynote</td>
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
 <tr class="row-5 odd">
-  <td class="column-1"><strong>6:00 PM</strong></td><td class="column-2">Dinner and Networking</td>
+  <td class="column-1"><strong>6:00 PM</strong></td><td class="column-2">Dinner</td>
 </tr>
 <tr class="row-6 even">
   <td class="column-1"><strong>9:00 AM - 5:00 PM</strong></td><td class="column-2">Meet the Mentors</td>
@@ -75,7 +64,7 @@ Keynote</td>
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Sunday June 1st, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Sunday June 30th, 2013</div></th>
 </tr>
 </thead>
 <tbody class="row-hover">
@@ -83,7 +72,7 @@ Keynote</td>
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
 <tr class="row-3 odd">
-  <td class="column-1"><strong>11:00 AM - 11:20 AM</strong></td><td class="column-2">Nancy Ortberg - Worship Service</td>
+  <td class="column-1"><strong>11:00 AM - 11:20 AM</strong></td><td class="column-2">Sunday Service</td>
 </tr>
 <tr class="row-4 even">
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>

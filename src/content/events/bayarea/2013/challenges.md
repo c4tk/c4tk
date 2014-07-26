@@ -1,12 +1,11 @@
----
+﻿---
 title: Challenges
-cwd: src/content/events/seattle/2014/challenges
+cwd: src/content/events/bayarea/2013/challenges
 ---
 ## <i class="icon fa-flag"></i> Challenges
 
-The challenges will be announce on May 16th. Please come back then to learn more about our challenges.
 
-In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the Transforming Lives Theme of the Hackathon. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
+Here are the challenges. In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the themes of the Hackathon. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
 
 {{#compose src="*.md" cwd=cwd}}
 <div class="row">
