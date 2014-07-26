@@ -24,13 +24,13 @@ Vice President Faith Comes By Hearing</td>
   <td class="column-1"><strong>8:15 PM - 8:20 PM</strong></td><td class="column-2">Prayer</td>
 </tr>
 <tr class="row-7">
-  <td class="column-1"><strong>8:20 PM - 8:30 PM</strong></td><td class="column-2">Format &amp; Sponsor API</td>
+  <td class="column-1"><strong>8:20 PM - 8:30 PM</strong></td><td class="column-2">Format &amp; Sponsors' APIs</td>
 </tr>
 <tr class="row-8">
   <td class="column-1"><strong>8:30 PM - 8:50 PM</strong></td><td class="column-2">Review - Official Challenges </td>
 </tr>
 <tr class="row-9">
-  <td class="column-1"><strong>8:50 PM - 9:20 PM</strong></td><td class="column-2">Open Floor - pitch your own "Transforming Lives" challenge</td>
+  <td class="column-1"><strong>8:50 PM - 9:20 PM</strong></td><td class="column-2">Open Floor - pitch your own "Transforming Lives" project</td>
 </tr>
 <tr class="row-10">
   <td class="column-1"><strong>9:20 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Hack Away</td>

@@ -18,16 +18,13 @@ Code for the Kingdom is a weekend Hackathon where global issues are tackled with
       <section>
 
         <header>
-          <h3>ENGAGING AND RELEASING OUR BEST</h3>
+          <h3>SOCIAL JUSTICE</h3>
         </header>
-        <p>Every person has something unique to contribute to the community, society, and church. Yet, less than 20% of us are actively engaged in doing what we could do. Most of us do not understand how we can leverage our skills and ideas to improve the lives of others.
-
-What if we could discover how to use our unique gifts for God’s Kingdom? Build technologies to mobilize and equip every member of your community, church and family. Empower them to release their skills as well as to accelerate great ideas and initiatives that could transform the lives of the child or adult down your street.</p></section>
+        <p>How can technology alleviate the social maladies that oppress so many? How can you help knock off a little corner of darkness?
     </div>
     <div class="6u">
       <section>
-        <span class="icon feature fa-bolt"></span>
-        <header>
+       <header>
           <h3>SPIRITUAL JUSTICE</h3>
         </header>
         <p>Every person has the right to receive God’s Word and discover His unconditional love, because only God’s truth has the ability to transform the heart and the mind. Join forces with other like minded individuals and create technologies that help reduce spiritual poverty in every nation, city, community, family, and individual.
@@ -39,7 +36,7 @@ Build mobile applications to help children learn the Word of God, bury it in the
   <div class="row">
     <div class="6u">
       <section>
-        <span class="icon feature fa-gift"></span>
+        
         <header>
           <h3>HELP CREATE A CULTURE OF GENEROSITY</h3>
         </header>
@@ -47,13 +44,14 @@ Build mobile applications to help children learn the Word of God, bury it in the
       </section>
     </div>
     <div class="6u">
-      <section>
-        <span class="icon feature fa-gavel"></span>
+      <section>      
         <header>
-          <h3>SOCIAL JUSTICE</h3>
+          <h3>ENGAGING AND RELEASING OUR BEST</h3>
         </header>
         <p>
-How can technology alleviate the social maladies that oppress so many? How can you help knock off a little corner of darkness?
+Every person has something unique to contribute to the community, society, and church. Yet, less than 20% of us are actively engaged in doing what we could do. Most of us do not understand how we can leverage our skills and ideas to improve the lives of others.
+
+What if we could discover how to use our unique gifts for God’s Kingdom? Build technologies to mobilize and equip every member of your community, church and family. Empower them to release their skills as well as to accelerate great ideas and initiatives that could transform the lives of the child or adult down your street.
       </section>
     </div>
   </div>
