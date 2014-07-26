@@ -1,23 +1,23 @@
----
+﻿---
 questions:
 - question:
     What's a hackathon?
   answer:
     A hackathon is an event where people get together and develop some awesome technologies in a short time span. Think of it as a creative marathon where at the end you have some product to show for.
 - question:
-    Who is organizing the 2014 Code for the Kingdom Bay Area Hackathon?
+    Who is organizing the 2014 Code for the Kingdom Austin Hackathon?
   answer:
-    The Code for the Kingdom Bay Area Hackathon is being organized by Leadership Network with the collaboration of Carpenters, The SF Bay Christian Entrepreneurs Meetup Group, and CrazyLove.org.
+    The Code for the Kingdom Austin Hackathon is being organized by Leadership Network with the collaboration of the Austin Christian Technologists and Entrepreneurs meetup group.
 - question:
     What is this hackathon trying to accomplish?
   answer:
     This Hackathon is a non-profit event to encourage the activation and on-going collaboration of a larger ecosystem of all sort of creative individuals ( including programmers, designers, creatives, entrepreneurs, and leaders of churches, non-profits, and the marketplace) who are passionate about creating technologies to tackle from a Christian perspective the challenges confronting our society, our communities, our churches, and our spiritual lives.
 - question:
-    Is there a main theme to the Code for the Kingdom Bay Area Hackathon?
+    Is there a main theme to the Code for the Kingdom Austin Hackathon?
   answer:
     Yes, Transforming Lives. How can technology help alleviate and eradicate all forms of injustice while teaching about God’s unconditional love?
 - question:
-    I'm from outside the Bay Area. Can I still participate? 
+    I'm from outside the Austin. Can I still participate? 
   answer:
     Yes. Join us.
 - question:
@@ -75,7 +75,7 @@ questions:
 - question:
     What's the format of the final presentation?   
   answer:
-    Each team will have 5 minutes for their demo and 3 minutes to answer questions from the judges.
+    Each team will have 3 minutes for their demo and 2 minutes to answer questions from the judges.
 - question:
     Who will be in attendance at the final presentations?   
   answer:
@@ -83,7 +83,7 @@ questions:
 - question:
     Will there be awards given?
   answer:
-    Yes. We will give over $10K in cash awards.
+    Yes. We will give cash awards.
 - question:
     What's the hashtag?   
   answer:

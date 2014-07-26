@@ -5,9 +5,9 @@ Code for the Kingdom is a weekend hackathon and ongoing ecosystem where global i
 
 How can technology help alleviate and eradicate all forms of injustices, teach about God’s unconditional love, and build a healthier and stronger society?
 
-This May, we want to develop new technologies to transform lives through a holistic Christian approach that combats social injustice, creates a culture of generosity, facilitates spiritual justice and unleashes the fullest capacity of each individual.
+This September, we want to develop new technologies to transform lives through a holistic Christian approach that combats social injustice, creates a culture of generosity, facilitates spiritual justice and unleashes the fullest capacity of each individual.
 
-Code for the Kingdom is a weekend Hackathon where global issues are tackled with a Christian perspective. Join us at Seattle, WA as we battle the challenges confronting people all over the world.
+Code for the Kingdom is a weekend Hackathon where global issues are tackled with a Christian perspective. Join us at Austin,TX as we battle the challenges confronting people all over the world.
 
 {{> register-button}}
 <hr/>
@@ -58,6 +58,6 @@ How can technology alleviate the social maladies that oppress so many? How can y
     </div>
   </div>
 </div>
-<p>Register now to join us in Seattle, WA as we work to leveraging technology to transforms lives. Plus, you get to rub shoulders with some of the most effective global ministries, technologists, entrepreneurs, investors, hi-tech accelerators, church leaders and creative individuals from every discipline.</p>
+<p>Register now to join us in Austin,TX as we work to leveraging technology to transforms lives. Plus, you get to rub shoulders with some of the most effective global ministries, technologists, entrepreneurs, investors, hi-tech accelerators, church leaders and creative individuals from every discipline.</p>
 {{> register-button}}
 
