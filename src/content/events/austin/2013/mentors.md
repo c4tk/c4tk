@@ -1,6 +1,6 @@
 ---
 title: Mentors
-cwd: src/content/events/seattle/2014/mentors
+cwd: src/content/events/austin/2013/mentors
 ---
 ## <i class="icon fa-group"></i> Mentors
 
