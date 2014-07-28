@@ -1,11 +1,11 @@
-﻿---
+---
 title: Human Trafficking
 intro: How can you bring light into the dark world of commercial sex trafficking? Can you locate the child, who is lost and hopeless in the hands of her owner? Join us in searching for the lost child just as Jesus went after the lost coin or the lost sheep.
 champions:
 - name:
     International Justice Mission
   logo:
-    IJM.jpg
+    ijm.jpg
 ---
 
 Create technologies that would disrupt the business of sex trafficking, bring tools to men, women, and organizations fighting sex trafficking globally, and bring hope and safe passage to the victims.

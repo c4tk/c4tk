@@ -2,12 +2,10 @@
   padding-left: 13px;
   background-position: left center;
   background-repeat: no-repeat;
-  background-image: url(../images/expanded.gif);
 }
 
 .expander.collapsed {
   padding-left: 13px;
   background-position: left center;
   background-repeat: no-repeat;
-  background-image: url(../images/collapsed.gif);
 }
