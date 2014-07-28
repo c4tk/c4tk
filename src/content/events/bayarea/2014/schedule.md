@@ -83,7 +83,7 @@ Keynote</td>
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
 <tr class="row-3 odd">
-  <td class="column-1"><strong>11:00 AM - 11:20 AM</strong></td><td class="column-2">Nancy Ortberg - Worship Service</td>
+  <td class="column-1"><strong>11:00 AM - 11:20 AM</strong></td><td class="column-2">Nancy Ortberg - Sunday Service</td>
 </tr>
 <tr class="row-4 even">
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>

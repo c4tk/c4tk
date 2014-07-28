@@ -1,23 +1,23 @@
----
+﻿---
 questions:
 - question:
     What's a hackathon?
   answer:
     A hackathon is an event where people get together and develop some awesome technologies in a short time span. Think of it as a creative marathon where at the end you have some product to show for.
 - question:
-    Who is organizing the 2014 Code for the Kingdom Bay Area Hackathon?
+    Who is organizing the 2014 Code for the Kingdom Seattle Hackathon?
   answer:
-    The Code for the Kingdom Bay Area Hackathon is being organized by Leadership Network with the collaboration of Carpenters, The SF Bay Christian Entrepreneurs Meetup Group, and CrazyLove.org.
+    The Code for the Kingdom Seattle Hackathon is being organized by Leadership Network with the collaboration of Carpenters, The SF Bay Christian Entrepreneurs Meetup Group, and CrazyLove.org.
 - question:
     What is this hackathon trying to accomplish?
   answer:
     This Hackathon is a non-profit event to encourage the activation and on-going collaboration of a larger ecosystem of all sort of creative individuals ( including programmers, designers, creatives, entrepreneurs, and leaders of churches, non-profits, and the marketplace) who are passionate about creating technologies to tackle from a Christian perspective the challenges confronting our society, our communities, our churches, and our spiritual lives.
 - question:
-    Is there a main theme to the Code for the Kingdom Bay Area Hackathon?
+    Is there a main theme to the Code for the Kingdom Seattle Hackathon?
   answer:
     Yes, Transforming Lives. How can technology help alleviate and eradicate all forms of injustice while teaching about God’s unconditional love?
 - question:
-    I'm from outside the Bay Area. Can I still participate? 
+    I'm from outside the Seattle. Can I still participate? 
   answer:
     Yes. Join us.
 - question:
@@ -35,7 +35,7 @@ questions:
 - question:
     Is food provided?   
   answer:
-    Yes – We will provide dinner on Friday May 30th, breakfast, lunch, and dinner on Saturday Mat 31st, and breakfast, and lunch on Sunday the June 1st.
+    Yes – We will provide dinner on Friday, breakfast, lunch, and dinner on Saturday, and breakfast, and lunch on Sunday.
 - question:
     I can’t stay whole 24 hours, can I still participate?   
   answer:
@@ -75,7 +75,7 @@ questions:
 - question:
     What's the format of the final presentation?   
   answer:
-    Each team will have 5 minutes for their demo and 3 minutes to answer questions from the judges.
+    Each team will have 3 minutes for their demo and 2 minutes to answer questions from the judges.
 - question:
     Who will be in attendance at the final presentations?   
   answer:

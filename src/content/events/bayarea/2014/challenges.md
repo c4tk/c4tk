@@ -4,7 +4,7 @@ cwd: src/content/events/bayarea/2014/challenges
 ---
 ## <i class="icon fa-flag"></i> Challenges
 
-The challenges will be announce on May 16th. Please come back then to learn more about our challenges.
+Here are the challenges to get you started. Please remember that more challenges may be presented on the first day of the Hackathon. If you would like to discuss with potential team members, or even with the champions of these challenges, please join and leverage our Google Plus community.
 
 In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the Transforming Lives Theme of the Hackathon. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
 

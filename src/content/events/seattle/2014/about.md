@@ -5,7 +5,7 @@ Code for the Kingdom is a weekend hackathon and ongoing ecosystem where global i
 
 How can technology help alleviate and eradicate all forms of injustices, teach about God’s unconditional love, and build a healthier and stronger society?
 
-This May, we want to develop new technologies to transform lives through a holistic Christian approach that combats social injustice, creates a culture of generosity, facilitates spiritual justice and unleashes the fullest capacity of each individual.
+This March, we want to develop new technologies to transform lives through a holistic Christian approach that combats social injustice, creates a culture of generosity, facilitates spiritual justice and unleashes the fullest capacity of each individual.
 
 Code for the Kingdom is a weekend Hackathon where global issues are tackled with a Christian perspective. Join us at Seattle, WA as we battle the challenges confronting people all over the world.
 
@@ -16,7 +16,6 @@ Code for the Kingdom is a weekend Hackathon where global issues are tackled with
   <div class="row">
     <div class="6u">
       <section>
-        <span class="icon feature fa-fighter-jet"></span>
         <header>
           <h3>ENGAGING AND RELEASING OUR BEST</h3>
         </header>
@@ -26,7 +25,6 @@ What if we could discover how to use our unique gifts for God’s Kingdom? Build
     </div>
     <div class="6u">
       <section>
-        <span class="icon feature fa-bolt"></span>
         <header>
           <h3>SPIRITUAL JUSTICE</h3>
         </header>
@@ -39,7 +37,6 @@ Build mobile applications to help children learn the Word of God, bury it in the
   <div class="row">
     <div class="6u">
       <section>
-        <span class="icon feature fa-gift"></span>
         <header>
           <h3>HELP CREATE A CULTURE OF GENEROSITY</h3>
         </header>
@@ -48,7 +45,6 @@ Build mobile applications to help children learn the Word of God, bury it in the
     </div>
     <div class="6u">
       <section>
-        <span class="icon feature fa-gavel"></span>
         <header>
           <h3>SOCIAL JUSTICE</h3>
         </header>
