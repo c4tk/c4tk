@@ -1,12 +1,12 @@
----
+﻿---
 title: Challenges
-cwd: src/content/events/seattle/2014/challenges
+cwd: src/content/events/austin/2013/challenges
 ---
 ## <i class="icon fa-flag"></i> Challenges
 
-The challenges will be announce on May 16th. Please come back then to learn more about our challenges.
+Here are a few challenges from our sponsors to get you hackers started. Please remember that more challenges will be presented on the first day of the Hackathon. If you would like to discuss with potential team members or even the sponsors of these challenges, please join and leverage the wonderful group on our Google Plus community.
 
-In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the Transforming Lives Theme of the Hackathon. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
+In case you are already interested or working on other challenges, don’t change course. We are more than happy to add new challenges everyday and look forward to the ones that you are passionate about. Please come prepared to pitch your challenges at the Hackathon so that you can sign up teams to work on them.
 
 {{#compose src="*.md" cwd=cwd}}
 <div class="row">

@@ -1,6 +1,6 @@
 ---
 title: Sponsors
-cwd: src/content/events/seattle/2014/sponsors
+cwd: src/content/events/austin/2014/sponsors
 ---
 ## <i class="icon fa-heart"></i> Sponsors
 

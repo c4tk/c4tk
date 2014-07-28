@@ -1,13 +1,13 @@
----
+﻿---
 questions:
 - question:
     What's a hackathon?
   answer:
     A hackathon is an event where people get together and develop some awesome technologies in a short time span. Think of it as a creative marathon where at the end you have some product to show for.
 - question:
-    Who is organizing the 2014 Code for the Kingdom Bay Area Hackathon?
+    Who is organizing the 2013 Code for the Kingdom Bay Area Hackathon?
   answer:
-    The Code for the Kingdom Bay Area Hackathon is being organized by Leadership Network with the collaboration of Carpenters, The SF Bay Christian Entrepreneurs Meetup Group, and CrazyLove.org.
+    The Code for the Kingdom Bay Area Hackathon is being organized by Leadership Network with the collaboration of Carpenters, and Menlo Park Presbyterian Church.
 - question:
     What is this hackathon trying to accomplish?
   answer:
@@ -35,7 +35,7 @@ questions:
 - question:
     Is food provided?   
   answer:
-    Yes – We will provide dinner on Friday May 30th, breakfast, lunch, and dinner on Saturday Mat 31st, and breakfast, and lunch on Sunday the June 1st.
+    Yes – We will provide dinner on Friday. breakfast, lunch, and dinner on Saturday, and breakfast, and lunch on Sunday.
 - question:
     I can’t stay whole 24 hours, can I still participate?   
   answer:
@@ -47,7 +47,7 @@ questions:
 - question:
     Are there showers at the venue?
   answer:
-    Yes.
+    No.
 - question:
     Will I meet my team members before the event?   
   answer:
@@ -56,10 +56,6 @@ questions:
     Can I present a technology I already have?
   answer:
     You can build on top of something you have, but whatever you present must have new code developed for at least one of the challenges of the hackathon and you must do some of that coding at the hackathon venue during the hackathon hours.
-- question:
-    Won’t other teams who are building on top of technologies they already developed, not have an unfair advantage over me who plans to start coding during the actual hackathon hours?   
-  answer:
-    We don’t think so. There will be separate prizes, but of similar amount, for teams that present solutions built on their existing technologies, and for teams that start fresh at the hackathon. We want to honor all of you, regardless of whether you have been working for a while on something you are passionate about, or whether you decide on something brand new.
 - question:
     Do I have to work non-stop?
   answer:
@@ -75,7 +71,7 @@ questions:
 - question:
     What's the format of the final presentation?   
   answer:
-    Each team will have 5 minutes for their demo and 3 minutes to answer questions from the judges.
+    Each team will have 3 minutes for their demo and 2 minutes to answer questions from the judges.
 - question:
     Who will be in attendance at the final presentations?   
   answer:
@@ -83,7 +79,7 @@ questions:
 - question:
     Will there be awards given?
   answer:
-    Yes. We will give over $10K in cash awards.
+    Yes. We will give thousands of dollars in cash awards.
 - question:
     What's the hashtag?   
   answer:

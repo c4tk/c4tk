@@ -1,23 +1,23 @@
----
+﻿---
 questions:
 - question:
     What's a hackathon?
   answer:
     A hackathon is an event where people get together and develop some awesome technologies in a short time span. Think of it as a creative marathon where at the end you have some product to show for.
 - question:
-    Who is organizing the 2014 Code for the Kingdom Bay Area Hackathon?
+    Who is organizing the 2013 Code for the Kingdom Austin Hackathon?
   answer:
-    The Code for the Kingdom Bay Area Hackathon is being organized by Leadership Network with the collaboration of Carpenters, The SF Bay Christian Entrepreneurs Meetup Group, and CrazyLove.org.
+    The Code for the Kingdom Austin Hackathon is being organized by Leadership Network with the collaboration of Carpenters, The SF Bay Christian Entrepreneurs Meetup Group, and CrazyLove.org.
 - question:
     What is this hackathon trying to accomplish?
   answer:
     This Hackathon is a non-profit event to encourage the activation and on-going collaboration of a larger ecosystem of all sort of creative individuals ( including programmers, designers, creatives, entrepreneurs, and leaders of churches, non-profits, and the marketplace) who are passionate about creating technologies to tackle from a Christian perspective the challenges confronting our society, our communities, our churches, and our spiritual lives.
 - question:
-    Is there a main theme to the Code for the Kingdom Bay Area Hackathon?
+    Is there a main theme to the Code for the Kingdom Austin Hackathon?
   answer:
-    Yes, Transforming Lives. How can technology help alleviate and eradicate all forms of injustice while teaching about God’s unconditional love?
+    Yes, Transforming Children’s Lives. How can technology help alleviate and eradicate all forms of injustice in a child’s life while teaching him/her about God’s unconditional love?
 - question:
-    I'm from outside the Bay Area. Can I still participate? 
+    I'm from outside the Austin. Can I still participate? 
   answer:
     Yes. Join us.
 - question:
@@ -35,7 +35,7 @@ questions:
 - question:
     Is food provided?   
   answer:
-    Yes – We will provide dinner on Friday May 30th, breakfast, lunch, and dinner on Saturday Mat 31st, and breakfast, and lunch on Sunday the June 1st.
+    Yes – We will provide dinner on Friday October 25th, breakfast, lunch, and dinner on Saturday October 26th, and breakfast, and lunch on Sunday October 27th.
 - question:
     I can’t stay whole 24 hours, can I still participate?   
   answer:
@@ -47,7 +47,7 @@ questions:
 - question:
     Are there showers at the venue?
   answer:
-    Yes.
+    No.
 - question:
     Will I meet my team members before the event?   
   answer:

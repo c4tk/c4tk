@@ -5,9 +5,9 @@ Code for the Kingdom is a weekend hackathon and ongoing ecosystem where global i
 
 How can technology help alleviate and eradicate all forms of injustices, teach about God’s unconditional love, and build a healthier and stronger society?
 
-This May, we want to develop new technologies to transform lives through a holistic Christian approach that combats social injustice, creates a culture of generosity, facilitates spiritual justice and unleashes the fullest capacity of each individual.
+This September, we want to develop new technologies to transform lives through a holistic Christian approach that combats social injustice, creates a culture of generosity, facilitates spiritual justice and unleashes the fullest capacity of each individual.
 
-Code for the Kingdom is a weekend Hackathon where global issues are tackled with a Christian perspective. Join us at Seattle, WA as we battle the challenges confronting people all over the world.
+Code for the Kingdom is a weekend Hackathon where global issues are tackled with a Christian perspective. Join us at Austin,TX as we battle the challenges confronting people all over the world.
 
 {{> register-button}}
 <hr/>
@@ -16,18 +16,15 @@ Code for the Kingdom is a weekend Hackathon where global issues are tackled with
   <div class="row">
     <div class="6u">
       <section>
-        <span class="icon feature fa-fighter-jet"></span>
-        <header>
-          <h3>ENGAGING AND RELEASING OUR BEST</h3>
-        </header>
-        <p>Every person has something unique to contribute to the community, society, and church. Yet, less than 20% of us are actively engaged in doing what we could do. Most of us do not understand how we can leverage our skills and ideas to improve the lives of others.
 
-What if we could discover how to use our unique gifts for God’s Kingdom? Build technologies to mobilize and equip every member of your community, church and family. Empower them to release their skills as well as to accelerate great ideas and initiatives that could transform the lives of the child or adult down your street.</p></section>
+        <header>
+          <h3>SOCIAL JUSTICE</h3>
+        </header>
+        <p>How can technology alleviate the social maladies that oppress so many? How can you help knock off a little corner of darkness?
     </div>
     <div class="6u">
       <section>
-        <span class="icon feature fa-bolt"></span>
-        <header>
+       <header>
           <h3>SPIRITUAL JUSTICE</h3>
         </header>
         <p>Every person has the right to receive God’s Word and discover His unconditional love, because only God’s truth has the ability to transform the heart and the mind. Join forces with other like minded individuals and create technologies that help reduce spiritual poverty in every nation, city, community, family, and individual.
@@ -39,7 +36,7 @@ Build mobile applications to help children learn the Word of God, bury it in the
   <div class="row">
     <div class="6u">
       <section>
-        <span class="icon feature fa-gift"></span>
+        
         <header>
           <h3>HELP CREATE A CULTURE OF GENEROSITY</h3>
         </header>
@@ -47,17 +44,18 @@ Build mobile applications to help children learn the Word of God, bury it in the
       </section>
     </div>
     <div class="6u">
-      <section>
-        <span class="icon feature fa-gavel"></span>
+      <section>      
         <header>
-          <h3>SOCIAL JUSTICE</h3>
+          <h3>ENGAGING AND RELEASING OUR BEST</h3>
         </header>
         <p>
-How can technology alleviate the social maladies that oppress so many? How can you help knock off a little corner of darkness?
+Every person has something unique to contribute to the community, society, and church. Yet, less than 20% of us are actively engaged in doing what we could do. Most of us do not understand how we can leverage our skills and ideas to improve the lives of others.
+
+What if we could discover how to use our unique gifts for God’s Kingdom? Build technologies to mobilize and equip every member of your community, church and family. Empower them to release their skills as well as to accelerate great ideas and initiatives that could transform the lives of the child or adult down your street.
       </section>
     </div>
   </div>
 </div>
-<p>Register now to join us in Seattle, WA as we work to leveraging technology to transforms lives. Plus, you get to rub shoulders with some of the most effective global ministries, technologists, entrepreneurs, investors, hi-tech accelerators, church leaders and creative individuals from every discipline.</p>
+<p>Register now to join us in Austin,TX as we work to leveraging technology to transforms lives. Plus, you get to rub shoulders with some of the most effective global ministries, technologists, entrepreneurs, investors, hi-tech accelerators, church leaders and creative individuals from every discipline.</p>
 {{> register-button}}
 

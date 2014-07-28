@@ -1,5 +1,5 @@
----
-name: Dusty Gulleson` 
+﻿---
+name: Dusty Gulleson 
 description: Founder, ORA, eResources 
 picture: dusty_gulleson.jpg 
 twitter: handle
