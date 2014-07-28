@@ -1,7 +1,7 @@
 ---
 events:
 - name:
-    Austin Sep 12-14, 2014
+    Austin Hackathon Sep 12-14, 2014
   photo:
     austin2.jpg
   location:
@@ -11,15 +11,34 @@ events:
   link:
     austin2014.html
 - name:
-    Bangalore 2014
+    Bangalore Oct 31-Nov 2, 2014
   photo:
-
+    bangalore.jpg
   location:
     TBD
   date:
     Oct 31- Nov 2 
   link:
-    bangalore2014.html
+
+- name:
+    New York City Nov 7-9, 2014
+  photo:
+    nyc.jpg
+  location:
+    TBD
+  date:
+    Nov 7- Nov 9 
+  link:
+
+- name:
+    London May 15-17, 2015
+  photo:
+    london.jpg
+  location:
+    TBD
+  date:
+    May 15 - May 17 
+  link:
 ---
 
 

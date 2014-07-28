@@ -1,0 +1,8 @@
+---
+name: Troy Carl
+description: Vice President, Faith Comes By Hearing
+picture: troy-carl.png 
+twitter: handle
+---
+Revolutionary initiatives and programs led by Troy Carl include the development of the 40-day MP3 Bible program called You've Got The Time, the BibleStick, the Military BibleStick, the Audio Bible Ambassador software system, and the Digital Bible Platform, which features API Scripture distribution in nearly 800 languages via radio broadcast, digital download, SMS, streaming, and its premier mobile app network Bible.is. This platform has reached over 100 million unique users in 246 countries in under 36 months. Troy brings a strategic understanding of how to employ Internet and mobile technology in the service of God’s kingdom. He manages diverse teams of professionals across multiple disciplines including, fundraising and development, marketing and communications as well as digital technologists. Troy has sought out and developed Bible engagement campaigns that use state-of-the-art tools to bring people closer to God. One of these Bible listening initiatives is You’ve Got The Time, which is designed to combat biblical illiteracy and raise awareness of the need for Audio Scripture outreach to the world’s poor and illiterate people. Since 2006, nearly seven million men, women, and children in over 16,000 churches from 140 denominations have participated. Troy was also the president and CEO at eStarNetwork, a telecommunications Internet company. He also served on the board of directors of Cognigen Networks Inc. (OTC:BB CGNW), a publicly traded Internet company with gross sales of more than $50 million a year. Prior to that, he was the senior vice president/director of sales for WorldConnect Communications Inc.
+
