@@ -19,7 +19,7 @@ events:
   date:
     Oct 31- Nov 2 
   link:
-
+   bangalore2014.html
 - name:
     New York City Nov 7-9, 2014
   photo:
@@ -29,7 +29,7 @@ events:
   date:
     Nov 7- Nov 9 
   link:
-
+   NYC2014.html
 - name:
     London May 15-17, 2015
   photo:
@@ -39,6 +39,7 @@ events:
   date:
     May 15 - May 17 
   link:
+   london2015.html
 ---
 
 
