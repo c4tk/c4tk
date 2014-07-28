@@ -1,9 +1,9 @@
----
+﻿---
 title: Language, Literacy and the Unreached
 intro: How can technology promote worldwide biblical literacy? How can technology help people with limited reading skills to understand and engage the Bible?
 champions:
 - name:
-    Faith Comes By hearing
+    Faith Comes By Hearing
   logo:
     FBCH.png
 ---
