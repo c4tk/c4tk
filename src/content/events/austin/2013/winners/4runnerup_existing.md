@@ -6,5 +6,5 @@ Deedvine provides the community with the means, the platform, and the audience t
 
 http://www.deedvine.com/
 
-Team Members:
+Team Members: Andrew Chen, Danny McPherson
 

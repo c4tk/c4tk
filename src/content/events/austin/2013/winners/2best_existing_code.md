@@ -6,7 +6,8 @@ Scriptive recommends Bible verses according to your situation, emotions and circ
 
 https://www.scriptive.org/
 
-Team Members:
+Team Members: Charles Roach, Frank Rietta, Brandon Dees
+
 
 
 

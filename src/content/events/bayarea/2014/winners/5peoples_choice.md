@@ -6,6 +6,6 @@ Helping to show God’s grace to the homeless. Aid Homeless provides a way to sa
 
 http://youtu.be/xsPQFspcs3k 
 
-Team Members: 
+Team Members: Peter Ma, Adarsh Uppula
 
 

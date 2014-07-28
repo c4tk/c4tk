@@ -6,7 +6,7 @@ Using 3-D printing technology, and centuries old concepts of water collection, "
 
 http://recyclemywater.wikispaces.com/home
 
-Team Members:
+Team Members: Eric Heflin, and children
 
 
 

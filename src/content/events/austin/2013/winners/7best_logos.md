@@ -6,7 +6,7 @@ A mobile game to help children learn the Word of God. The game combines a choose
 
 http://treasurehunt.launchrock.com/
 
-Team Members:
+Team Members: Nick Gibson, Jae Lee, Sherry Chau, Liam Savage
 
 
 

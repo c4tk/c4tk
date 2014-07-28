@@ -6,7 +6,7 @@ intro: +Bible
 
 http://youtu.be/4NOCQjj5HZ8 
 
-Team Members:
+Team Members: Chris Lee, Chris Chiu, Femi Olutade
 
 
 

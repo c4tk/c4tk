@@ -6,5 +6,6 @@ Making the bible more accessible and shareable in China. Great Stories of the Bi
 
 http://youtu.be/rbaMSLCMbrg 
 
-Team Members:
+Team Members: Leigh McCulloch
+
 

@@ -6,7 +6,6 @@ Ceaseless is seeking to enable a way for Christians to pray for everyone on eart
 
 http://www.ceaselessprayer.com/
 
-Team Members:
-
+Team Members: Christopher Lim, Bin Qian, Alan Young, Kim-Fu Lim
 
 

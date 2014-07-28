@@ -6,6 +6,6 @@ Generous is way for missionaries to tell their stories to their donor communitie
 
 http://youtu.be/r7uTLf3YhKc 
 
-Team Members:
+Team Members:John Boiles, Ryan Longfield, Lana Choi, Michael Ishigaki, Michael Lee
 
 

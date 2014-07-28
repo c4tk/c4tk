@@ -6,7 +6,7 @@ Reaching the minority percentage with a Gospel they understand. 93% of the world
 
 http://youtu.be/ta_FjqEt1pA 
 
-Team Members:
+Team Members: Charles P Miller II
 
 
 

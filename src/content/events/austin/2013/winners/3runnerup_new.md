@@ -6,7 +6,10 @@ Built in response to the International Justice Mission challenge, UResQ is first
 
 http://www.urescue.org/
 
-Team Members:
+Team Members:James Arnold, Dave Schlittler, Robert Horan, Phillip Olive, Philip Stolle, Hephzibah Lobo, Safris Suresh
+
+
+
 
 
 
