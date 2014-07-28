@@ -1,6 +1,6 @@
----
+﻿---
 title: Challenges
-cwd: src/content/events/seattle/2014/challenges
+cwd: src/content/events/bayarea/2014/challenges
 ---
 ## <i class="icon fa-flag"></i> Challenges
 
