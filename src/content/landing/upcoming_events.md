@@ -20,26 +20,6 @@ events:
     Oct 31- Nov 2 
   link:
 
-- name:
-    New York City Nov 7-9, 2014
-  photo:
-    nyc.jpg
-  location:
-    TBD
-  date:
-    Nov 7- Nov 9 
-  link:
-
-- name:
-    London May 15-17, 2015
-  photo:
-    london.jpg
-  location:
-    TBD
-  date:
-    May 15 - May 17 
-  link:
-
 ---
 
 
