@@ -1,7 +1,6 @@
 ﻿## <i class="icon fa-trophy"></i> Prizes
 
 A panel of judges will award thousands of dollars in cash prizes.
-<img class="alignright" src="{{assets}}/images/winner.png" style="float:right"/>
 * <i class="icon fa-money money"></i> $3,000 to Best Overall 
 * <i class="icon fa-money money"></i> $2,000 to Best New Code
 * <i class="icon fa-money money"></i> $2,000 to Best of Social Justice

@@ -16,11 +16,12 @@ Code for the Kingdom is a weekend Hackathon where global issues are tackled with
   <div class="row">
     <div class="6u">
       <section>
-
         <header>
           <h3>SOCIAL JUSTICE</h3>
         </header>
         <p>How can technology alleviate the social maladies that oppress so many? How can you help knock off a little corner of darkness?
+
+Here’s a chance to work with non-profits to create apps to rescue victims of human trafficking across the world, buld technologies to combat poverty, lift the fatherless, release the oppressed, heal the sick, and feed the hungry.
     </div>
     <div class="6u">
       <section>
@@ -35,8 +36,7 @@ Build mobile applications to help children learn the Word of God, bury it in the
   </div>
   <div class="row">
     <div class="6u">
-      <section>
-        
+      <section>    
         <header>
           <h3>HELP CREATE A CULTURE OF GENEROSITY</h3>
         </header>

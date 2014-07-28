@@ -3,36 +3,30 @@
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Friday September 12th, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Friday Sep 12th, 2014</div></th>
 </tr>
 </thead>
 <tbody class="row-hover" role="alert" aria-live="polite" aria-relevant="all">
 <tr class="row-2">
-  <td class="column-1"><strong>7:00 PM</strong></td><td class="column-2">Doors Open </td>
+  <td class="column-1"><strong>6:00 PM</strong></td><td class="column-2">Doors Open </td>
 </tr>
 <tr class="row-3">
   <td class="column-1"><strong>7:00 PM - 8:00 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
 </tr>
 <tr class="row-4">
-  <td class="column-1"><strong>8:00 PM - 8:05 PM</strong></td><td class="column-2">Welcome, </td>
+  <td class="column-1"><strong>8:00 PM - 8:25 PM</strong></td><td class="column-2">Welcome & Review Format </td>
 </tr>
+
 <tr class="row-5">
-  <td class="column-1"><strong>8:06 PM - 8:13 PM</strong></td><td class="column-2">Troy Carl, <br>
-Vice President Faith Comes By Hearing</td>
+  <td class="column-1"><strong>8:25 PM - 8:35 PM</strong></td><td class="column-2">API Presentations</td>
 </tr>
 <tr class="row-6">
-  <td class="column-1"><strong>8:15 PM - 8:20 PM</strong></td><td class="column-2">Prayer</td>
+  <td class="column-1"><strong>8:35 PM - 8:50 PM</strong></td><td class="column-2">Review - Official Challenges </td>
 </tr>
 <tr class="row-7">
-  <td class="column-1"><strong>8:20 PM - 8:30 PM</strong></td><td class="column-2">Format &amp; Sponsors' APIs</td>
+  <td class="column-1"><strong>8:50 PM - 9:20 PM</strong></td><td class="column-2">Open Floor - pitch your own project</td>
 </tr>
-<tr class="row-8">
-  <td class="column-1"><strong>8:30 PM - 8:50 PM</strong></td><td class="column-2">Review - Official Challenges </td>
-</tr>
-<tr class="row-9">
-  <td class="column-1"><strong>8:50 PM - 9:20 PM</strong></td><td class="column-2">Open Floor - pitch your own "Transforming Lives" project</td>
-</tr>
-<tr class="row-10">
+<tr class="row-11">
   <td class="column-1"><strong>9:20 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Hack Away</td>
 </tr>
 </tbody>
@@ -43,7 +37,7 @@ Vice President Faith Comes By Hearing</td>
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Saturday September 13th, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Saturday Sep 13th, 2014</div></th>
 </tr>
 </thead>
 <tbody class="row-hover">
@@ -70,7 +64,7 @@ Vice President Faith Comes By Hearing</td>
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Sunday September 14th, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Sunday Sep 14th, 2014</div></th>
 </tr>
 </thead>
 <tbody class="row-hover">
