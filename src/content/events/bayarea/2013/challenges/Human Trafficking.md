@@ -5,7 +5,7 @@ champions:
 - name:
     International Justice Mission
   logo:
-    IJM.jpg
+    ijm.jpg
 ---
 
 Create technologies that would disrupt the business of sex trafficking, bring tools to the men, women, and organizations fighting sex trafficking globally, and bring hope and safe passage to the victims.
