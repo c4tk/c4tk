@@ -86,6 +86,7 @@
 .mentor-card .mentor-titles {
   margin: 10px;
   font-size: 1.2em;
+  overflow: scroll;
 }
 
 .mentor-card:hover {
