@@ -81,7 +81,7 @@
   <td class="column-1"><strong>1:00 PM</strong></td><td class="column-2">Presentation Walk-thru &amp; Judges Make Rounds</td>
 </tr>
 <tr class="row-6 even">
-  <td class="column-1"><strong>2:30 PM</strong></td><td class="column-2">Team Presentations Begin (3 min max presentation, 2 min max Q&amp;A)</td>
+  <td class="column-1"><strong>2:30 PM</strong></td><td class="column-2">Team Presentations Begin (Films: 5 mins. Tech and Games: 3 min max presentation, 2 min max Q&amp;A)</td>
 </tr>
 <tr class="row-7 odd">
   <td class="column-1"><strong>4:30 PM </strong></td><td class="column-2">Judges adjourn</td>
