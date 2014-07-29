@@ -6,7 +6,9 @@ cwd: src/content/events/austin/2014/challenges
 
 The challenges will be announce on August 15th. Please come back then to learn more about our challenges.
 
-In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the Transforming Lives Theme of the Hackathon. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
+In case you are already interested in or working on a project that is aligned with the Transforming Lives theme of Create for the Kingdom, don’t change course. Entire, pre-existing teams are welcome to join and individuals should come prepared to pitch your project at the Create for the Kingdom to recruit a team to work with you.
+
+Non-profits that are well aligned the the Create for the Kingdom and have a need for a film, game or software should contact the organizers using the contact form in this page.
 
 {{#compose src="*.md" cwd=cwd}}
 <div class="row">
