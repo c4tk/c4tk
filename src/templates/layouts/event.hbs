@@ -37,7 +37,15 @@
     -->
     {{> event-header }}
 
-    {{> banner }}
+    {{#if customBanner}}
+      {{#markdown}}
+      {{#compose cwd=../cwd src=customBanner}}
+{{{@content}}}
+      {{/compose}}
+      {{/markdown}}
+    {{else}}
+      {{> banner }}
+    {{/if}}
 
     <div class="container" role="main">
 
