@@ -8,7 +8,7 @@
   -->
     <div class="inner">
       <header>
-        <h2>Code for the Kingdom<br/>&nbsp;{{this.title}}</h2>
+        <h2>Create for the Kingdom<br/>&nbsp;{{this.title}}</h2>
       </header>
       <p>{{this.location}}</p>
       <p>{{this.date}}</p>
