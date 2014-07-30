@@ -39,7 +39,8 @@ Join us at Austin,TX as we battle the challenges confronting our communities, ou
         <header>
           <h3>Help Create a culture of Generosity</h3>
         </header>
-        <p>The Follower of Christ is called to a life of generous sacrifice extending beyond simply financial generosity, to include generousity our mind, time and possessions. If the Kingdom of God is to truly to be advanced by us, we need to answer the call of radical generosity. It is only when we live out this radical generosity that the Church will be unleashed in thoughtfulness, action, and resources to advance the Kingdom of God to the world. Create technology, films, and games to encourage individuals and families to become generous in every aspect of their lives.        </section>
+        <p>The Follower of Christ is called to a life of generous sacrifice extending beyond simple financial generosity, to include generosity of our mind, time and possessions. If the Kingdom of God is to truly to be advanced by us, we need to answer the call of radical generosity. It is only when we live out this radical generosity that the Church will be unleashed in thoughtfulness, action, and resources to advance the Kingdom of God in the world. Create technology, films, and games to encourage individuals and families to become generous in every aspect of their lives.
+</section>
     </div>
     <div class="6u">
       <section>      
