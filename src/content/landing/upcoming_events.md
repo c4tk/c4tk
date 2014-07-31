@@ -1,7 +1,7 @@
 ---
 events:
 - name:
-    Austin Sep 12-14, 2014
+    Austin Hackathon Sep 12-14, 2014
   photo:
     austin2.jpg
   location:
