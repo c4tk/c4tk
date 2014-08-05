@@ -10,7 +10,7 @@
       <header>
         <h2>Create for the Kingdom<br/>&nbsp;{{this.title}}</h2>
       </header>
-      <img src="{{assets}}/images/banners/{{this.logo}}"/>
+      <img style="max-width:100%" src="{{assets}}/images/banners/{{this.logo}}"/>
       <p>{{this.location}}</p>
       <p>{{this.date}}</p>
       <p>A Leadership Network Hackathon</p>
