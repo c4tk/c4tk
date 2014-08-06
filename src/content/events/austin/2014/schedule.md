@@ -8,7 +8,7 @@
 </thead>
 <tbody class="row-hover" role="alert" aria-live="polite" aria-relevant="all">
 <tr class="row-2">
-  <td class="column-1"><strong>6:00 PM</strong></td><td class="column-2">Doors Open </td>
+  <td class="column-1"><strong>7:00 PM</strong></td><td class="column-2">Doors Open </td>
 </tr>
 <tr class="row-3">
   <td class="column-1"><strong>7:00 PM - 8:00 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
@@ -69,30 +69,32 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
+  <td class="column-1"><strong>12:00 AM - 2:15 PM</strong></td><td class="column-2">Hacking</td>
+<tr class="row-3 even">
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
-<tr class="row-3 odd">
+<tr class="row-4 odd">
   <td class="column-1"><strong>11:00 AM - 11:20 AM</strong></td><td class="column-2">Sunday Service</td>
 </tr>
-<tr class="row-4 even">
+<tr class="row-5 even">
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
-<tr class="row-5 odd">
+<tr class="row-6 odd">
   <td class="column-1"><strong>1:00 PM</strong></td><td class="column-2">Presentation Walk-thru &amp; Judges Make Rounds</td>
 </tr>
-<tr class="row-6 even">
+<tr class="row-7 even">
   <td class="column-1"><strong>2:30 PM</strong></td><td class="column-2">Team Presentations Begin (Films: 5 mins. Tech and Games: 3 min max presentation, 2 min max Q&amp;A)</td>
 </tr>
-<tr class="row-7 odd">
+<tr class="row-8 odd">
   <td class="column-1"><strong>4:30 PM </strong></td><td class="column-2">Judges adjourn</td>
 </tr>
-<tr class="row-8 even">
+<tr class="row-9 even">
   <td class="column-1"><strong>4:50 PM</strong></td><td class="column-2">Call-back</td>
 </tr>
-<tr class="row-9 odd">
+<tr class="row-10 odd">
   <td class="column-1"><strong>5:00 PM</strong></td><td class="column-2">Awards Ceremony</td>
 </tr>
-<tr class="row-10 even">
+<tr class="row-11 even">
   <td class="column-1"><strong>5:30 PM</strong></td><td class="column-2">Closing</td>
 </tr>
 </tbody>
