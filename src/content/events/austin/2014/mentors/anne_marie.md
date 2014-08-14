@@ -1,5 +1,5 @@
 ﻿---
-name: Anne Marie
+name: Anne-Marie Clegg
 description: Senior Partner Marketing Manager, VMware
 picture: anne-marie.jpg
 
