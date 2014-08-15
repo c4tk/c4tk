@@ -15,4 +15,4 @@ Create apps to help reduce the burden and stress on foster parents by making it 
 
 Create films to bring awareness to the plight of children in the foster care system while recruiting and encouraging foster and adoptive families.
 
-Create games to help foster children in your community overcome trauma, and develop stronger bonds and trust with others members of their foster families
+Create games to help foster children in your community overcome trauma, and develop stronger bonds and trust with other members of their foster families

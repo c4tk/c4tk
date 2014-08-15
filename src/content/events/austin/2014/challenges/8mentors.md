@@ -3,6 +3,10 @@ title: Mentoring
 intro: How can you help Christians be part of a network of mentors and mentees, transforming people's lives?
 champions:
 - name:
+    Leadership Network
+  logo:
+    leadnet-logo.jpg
+- name:
     Austin Christian Technologists and Entrepreneurs
   logo:
     austin-christian-entrepreneurs.jpg

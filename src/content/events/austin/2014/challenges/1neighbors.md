@@ -1,6 +1,6 @@
 ﻿---
-title: Know and Love your neighbor and build a healthier and stronger community 
-intro: How can we leverage technology, films, or games to cultivate and strengthen one of society's most foundational relationships - neighbors? 
+title: Know and Love your neighbor 
+intro: How can we leverage technology, films, or games to cultivate and strengthen one of society's most foundational relationships - neighbors, and ultimately build a healthier and stronger community? 
 champions:
 - name:
     Christ Togeher Greater Austin 
