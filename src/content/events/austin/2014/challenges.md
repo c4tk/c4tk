@@ -4,11 +4,9 @@ cwd: src/content/events/austin/2014/challenges
 ---
 ## <i class="icon fa-flag"></i> Challenges
 
-The challenges will be announced on August 15th. Please come back then to learn more about our challenges.
+Here are the challenges to get you started. Please remember that more challenges may be presented between now and the first day of the event. If you would like to discuss with potential team members, or even with the champions of these challenges, please join and leverage our Google Plus community.
 
-In case you are already interested in or working on a project that is aligned with the Transforming Lives theme of Create for the Kingdom, don’t change course. Entire, pre-existing teams are welcome to join and individuals should come prepared to pitch your project at the Create for the Kingdom to recruit a team to work with you.
-
-Non-profits that are well aligned the the Create for the Kingdom and have a need for a film, game or software should contact the organizers using the contact form in this page.
+In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the Transforming Lives Theme of the event. Please come prepared to pitch your project at the event so that you can recruit teams to work on them.
 
 {{#compose src="*.md" cwd=cwd}}
 <div class="row">
