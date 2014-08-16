@@ -27,7 +27,7 @@
   <td class="column-1"><strong>8:50 PM - 9:20 PM</strong></td><td class="column-2">Open Floor - pitch your own project</td>
 </tr>
 <tr class="row-11">
-  <td class="column-1"><strong>9:20 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Hack Away</td>
+  <td class="column-1"><strong>9:20 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Create Away</td>
 </tr>
 </tbody>
 </table>
@@ -42,7 +42,7 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>12:00 AM - 11:59 PM</strong></td><td class="column-2">Hacking</td>
+  <td class="column-1"><strong>12:00 AM - 11:59 PM</strong></td><td class="column-2">Creating</td>
 </tr>
 <tr class="row-3 odd">
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
@@ -69,7 +69,7 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>12:00 AM - 2:15 PM</strong></td><td class="column-2">Hacking</td>
+  <td class="column-1"><strong>12:00 AM - 2:15 PM</strong></td><td class="column-2">Creating</td>
 <tr class="row-3 even">
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
