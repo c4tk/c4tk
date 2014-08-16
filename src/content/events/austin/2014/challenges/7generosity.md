@@ -11,9 +11,9 @@ champions:
   logo:
     austin-christian-entrepreneurs.jpg
 ---
-Over the last 50 years, donations to the US church have been on the decline to the point that giving as a percentage of income is lower than in the Great Depression. In addition, volunteerism in America is now at a 10 year low. At the same time, wealth accumulation, as measured by key stock indices, has increased dramatically. We have plenty of resources but we are not being generous with them.
+Too long the church has focused on a narrow view of generosity dealing solely on the financial giving of adults, and forgotten to teach a holistic view of generosity (generosity of thoughts, time and stuff). Not only this, but the culture of youth and teens is very different than Baby Boomers, who the church has traditionally turned to for support. With the future of the church at stake, how can we properly instill a holistic view of radical generosity in youths and teens by being generous in their thoughts, time, and with their stuff (money included). 
 
-How can turn this trend around by inspiring and teaching youth to be generous with thoughts, time and resources?
+How can games inspire and teach youth to be generous with thoughts, time and resources?
 
 How can film inspire a culture of generosity?
 

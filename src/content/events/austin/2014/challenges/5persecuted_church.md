@@ -12,7 +12,6 @@ champions:
     austin-christian-entrepreneurs.jpg
 ---
 Christians are experiencing increasing persecution throughout the world
-including Iraq, North Korea, China, and Northern Africa. How can you
-engage the non-persecuted church, and get them to pray, help, and
+including Middle East, North Korea, China, and Northern Africa. How can you engage the non-persecuted church, and get them to pray, help, and
 advocate for their persecuted brothers and sisters?
 
