@@ -1,4 +1,4 @@
-﻿---
+---
 title: Reaching Muslims
 intro: How can you help enable a relational dialog about the Gospel with the 2 Billion Muslims globally?
 
@@ -8,6 +8,8 @@ champions:
     Leadership Network
   logo:
     leadnet-logo.jpg
+  url:
+    http://leadnet.org
 - name:
     Austin Christian Technologists and Entrepreneurs
   logo:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Challenges
 cwd: src/content/events/austin/2014/challenges
 ---
@@ -24,7 +24,8 @@ In case you are already interested or working on a project, don’t change cours
 {{/markdown}}
     <h3>Champions</h3>
     {{#each champions}}
-      <img src="{{../assets}}/images/sponsors/{{this.logo}}" alt="{{this.name}}"/>
+      <a href="{{this.url}}">
+      <img src="{{../assets}}/images/sponsors/{{this.logo}}" alt="{{this.name}}"/></a>
     {{/each}}
     </div>
   </div>
