@@ -6,10 +6,14 @@ champions:
     Leadership Network
   logo:
     leadnet-logo.jpg
+  url:
+    http://leadnet.org
 - name:
     Austin Christian Technologists and Entrepreneurs
   logo:
     austin-christian-entrepreneurs.jpg
+  url:
+     http://tinyurl.com/lddwn8s
 ---
 While Church leaders are often overwhelmed serving the needs of others, the spiritual gifts, talents, and leadership capacity of Christians at large often goes unnoticed. Yet, in today’s world, most every person has an educational or training specialty that could uniquely contribute to the life of others, the church, and the community.
 

@@ -6,6 +6,8 @@ champions:
     The For the City Network 
   logo:
     ftcn.png
+  url:
+    http://www.forthecity.org/
 ---
 Foster parents face difficult challenges on a daily basis. Children in foster care often come from traumatic experiences, including physical, sexual, and emotional abuse. On top of dealing with the trauma, gaining  trust, providing at home health care, helping with the education and the recovery of the child, foster parents have to deal with  bureaucratic, underfunded, understaffed, and antiquated legal and social services systems. From having to deal with multiple social workers due to the workers’ high turnover rate, to having to deal with cumbersome State reporting requirements, the administrative tasks of foster parents are very burdensome. 
 

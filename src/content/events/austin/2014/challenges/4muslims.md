@@ -14,6 +14,8 @@ champions:
     Austin Christian Technologists and Entrepreneurs
   logo:
     austin-christian-entrepreneurs.jpg
+  url:
+     http://tinyurl.com/lddwn8s
 ---
 How can you help Muslims learn about Christ? While many Muslims are interested in learning more about Christ, most of them do not want their family and friends to know. Fear of others and security are very real issues to a Muslim engaging the Gospel. However, being a very relational culture, Muslims make decisions in the context of community.
 
