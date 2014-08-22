@@ -127,3 +127,9 @@
   background-color: rgba(243, 246, 250, 0.8);
   width:100%;
 }
+
+.special-alternate {
+  background-color: #3fb1a3;
+  border-color: #3fb1a3;
+  color: white;
+}
