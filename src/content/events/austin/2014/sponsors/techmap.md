@@ -1,6 +1,6 @@
 ---
 name: ATX Entrepreneurs @ TechRanch
-url: http://www.meetup.com/ATX-Entrepreneurs/
+url: http://www.thetechmap.com/
 image: techmap.jpg 
 ---
 
