@@ -1,4 +1,4 @@
----
+﻿---
 title: Know and Love your neighbor 
 intro: How can we leverage technology, films, or games to cultivate and strengthen one of society's most foundational relationships - neighbors, and ultimately build a healthier and stronger community? 
 champions:
@@ -15,5 +15,5 @@ How can geo-mapping technology be used in apps/sites to encourage, organize, and
 
 How can films change the paradigm of what being a neighbor means, inspiring us to know and love our neighbor?
 
-How can games teach children and young people why being a good neighbor is important, how to go from tolerance to grace, the skills for conflict resolution, the value of granting and receiving forgiveness, and how to live a life committed to making things better? <div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/dWqIcZIL6dA" frameborder="0" allowfullscreen></iframe></div>
+How can games teach children and young people why being a good neighbor is important, how to go from tolerance to grace, the skills for conflict resolution, the value of granting and receiving forgiveness, and how to live a life committed to making things better? <div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/dWqIcZIL6dA?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
