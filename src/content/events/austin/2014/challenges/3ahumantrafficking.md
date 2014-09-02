@@ -5,7 +5,7 @@ champions:
 - name:
     Redeemed Ministries
   logo:
-    redeemed.png
+    redeemedministries.jpg
   url:
     http://www.redeemedministries.com/
 ---
