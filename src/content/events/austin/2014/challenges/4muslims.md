@@ -5,11 +5,11 @@ intro: How can you help enable a relational dialog about the Gospel with the 2 B
 
 champions:
 - name:
-    Leadership Network
+    Faith Comes By Hearing
   logo:
-    leadnet-logo.jpg
+    FBCH.png
   url:
-    http://leadnet.org
+   http://www.faithcomesbyhearing.com/
 - name:
     Austin Christian Technologists and Entrepreneurs
   logo:

@@ -9,11 +9,11 @@ champions:
   url:
     http://leadnet.org
 - name:
-    Austin Christian Technologists and Entrepreneurs
+    Faith Comes By Hearing
   logo:
-    austin-christian-entrepreneurs.jpg
+    FBCH.png
   url:
-     http://tinyurl.com/lddwn8s
+   http://www.faithcomesbyhearing.com/
 ---
 Christians are experiencing increasing persecution throughout the world
 including the Middle East, North Korea, China, and Northern Africa. How can you engage the non-persecuted church, and get them to pray, help, and
