@@ -1,7 +1,7 @@
 ﻿## <i class="icon fa-book"></i> About
 ---
 <img src="{{assets}}/images/child.png" style="float:right"/>
-Create for the Kingdom is a special Code for the Kingdom event in Austin, TX. It expands the weekend to include Filmmakers and Game Developers along with the traditional Hackathon-ers. During this weekend there will be a Game Jam, Film Challenge and Hackathon, each with prizes (check them out below). We encourage collaboration between all of the disciplines for the purposes of building a long-term ecosystem where global issues are tackled from a Creative Christian perspective. 
+Create for the Kingdom is a special Code for the Kingdom event in Austin, TX. It expands the weekend to include Filmmakers and Game Developers along with the traditional Hackathon-ers. During this weekend there will be a Game Jam, Film Challenge and Hackathon, each with prizes (check them out below). We encourage collaboration between all of the disciplines for the purposes of building a long-term ecosystem where global issues are tackled from a Creative Christian perspective, while welcoming the participations of individuals from all worldviews and faiths.
 
 “How can all Creatives help alleviate and eradicate injustice, teach God’s unconditional love and build a healthier and stronger society?” That is the question we will answer at Create for the Kingdom.
 
@@ -10,6 +10,11 @@ Join us this September, to foster visionary creatives to create new mediums to t
 The weekend event will focus the passion, purpose, and creativity of our entrepreneurial and creative community, connecting incredible innovators with organizations, and initiatives that need their talent.
 
 Join us at Austin,TX as we battle the challenges confronting our communities, our society, our families, and our spiritual lives.
+
+
+<div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/c3-wNBgVmnQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+<br>
 
 
 {{> register-button}}

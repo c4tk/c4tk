@@ -14,7 +14,6 @@
       <p>{{this.location}}</p>
       <p>{{this.date}}</p>
       <p>A Leadership Network Hackathon</p>
-<div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/c3-wNBgVmnQ?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>
       <footer>
         <ul class="buttons">
           <li><a href="#about.md" class="button fit scrolly">Tell Me More</a></li>
