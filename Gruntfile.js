@@ -65,6 +65,9 @@ module.exports = function(grunt) {
     assemble: {
       options: {
         helpers: ['handlebars-helper-compose'],
+        compose: {
+          sep: '<!-- section -->'
+        },
         marked: {
           gfm: true,
           tables: true,
