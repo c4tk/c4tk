@@ -1,4 +1,4 @@
- <header class="special container">
+﻿ <header class="special container">
     <span class="icon fa-bar-chart-o"></span>
     <h2>What is <strong>Code for the Kingdom?</strong></h2>
 
@@ -8,4 +8,7 @@
       In collaboration with innovative nonprofits and churches, we’ll write code and create technology to help release the oppressed, teach God’s Word, heal the sick, feed the hungry, clothe the naked, and support the church and the body of Christ.</p>
 
     <p>Make a difference by writing much-needed code or designing beautiful interfaces. Find a community of peers who want to have fun while serving the Lord.</p>
+
+<div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/hNCyqX-4PBY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 </header>
