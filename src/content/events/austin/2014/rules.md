@@ -20,6 +20,18 @@ There will be identical but separate cash awards for teams that started creating
 Although not mandatory, participants are encouraged to use our platform sponsor’s technologies.
 ### INTELLECTUAL PROPERTY 
 Participants have full ownership of what they build during the Create for the Kingdom event and are free to do with it as they wish. If you create as a team, the IP is shared by the team. If you create as an individual, the IP is all yours.
+### FILM’S DURATION
+Films must not exceed 5 minutes (including credits).
+### MUSIC AND SOUND EFFECT 
+Any music and sound effects used in films, games, and apps must be licensed for public and web display.
+### COPYRIGHTED MATERIAL
+You must secure permission for public and web display if you use any copyrighted material in your creation.
+### FILM ON-SCREEN TALENT OR PERSONS ON-SCREEN
+You must have permission to have on-screen. 
+###COSTS
+ All costs associated with the production are responsibility of the entrant.
+### EQUIPMENT
+ Any equipment or camera, or number of cameras may be used.
 ### FINISH ON TIME 
 Participant must submit their project by the submission time on Sunday afternoon. No late submissions will be accepted.
 ### TAXES 
