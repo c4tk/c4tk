@@ -1,13 +1,62 @@
 ---
 title: Bangalore 2014
-location: COMING SOON
+location: Chancery Pavilion, Bangalore, India
 date: Oct 31 - Nov 2, 2014
+logo: C4TKAUSTIN.png
 event: latest
+customBanner: banner.md
 cwd: src/content/events/bangalore/2014/
 layout: src/templates/layouts/event.hbs
-registrationLink: 
+registrationLink: http://c4tk.doattend.com/
 sections:
-
+- path:
+    about.md
+  title:
+    About
+- path:
+    schedule.md
+  title:
+    Schedule
+- path:
+    prayer.md
+  title:
+    prayer
+- path:
+    challenges.md
+  title:
+    Challenge
+- path:
+    prizes.md
+  title:
+    Prizes
+- path:
+    mentors.md
+  title:
+    Mentors
+- path:
+    organizers.md
+  title:
+    Organizers
+- path:
+    apis.md
+  title:
+    APIs
+- path:
+    sponsors.md
+  title:
+    Sponsors
+- path:
+    rules.md
+  title:
+    Rules
+- path:
+    faq.md
+  title:
+    FAQ
+- path:
+    footer.md
+  title:
+    (hidden)
 ---
 {{#each sections}}
 <section class="wrapper container style4" id="{{this.path}}">

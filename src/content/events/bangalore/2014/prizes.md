@@ -1,14 +1,33 @@
-## <i class="icon fa-trophy"></i> Prizes
+﻿## <i class="icon fa-trophy"></i> Prizes
 
-A panel of judges will award over $10,000 in cash prizes.
-<img class="alignright" src="{{assets}}/images/winner.png" style="float:right"/>
-* <i class="icon fa-money money"></i> $2,500 to Best Overall started at the hackathon
-* <i class="icon fa-money money"></i> $2,500 to Best Overall started before the hackathon
-* <i class="icon fa-money money"></i> $1,500 to Runner-up started at the hackathon
-* <i class="icon fa-money money"></i> $1,500 to Runner-up started before the hackathon
-* <i class="icon fa-money money"></i> $1,000 to People’s choice (voted by all participants across all submitted projects)
-* <i class="icon fa-money money"></i> Plus, other cash prizes for best use of sponsors’ platforms and judges’ special awards.
+A panel of judges will award thousands of dollars in cash prizes.
+      
 
-After the hackathon, your solutions will be featured in a Leadership Network Advance edition reaching over 50,000 church leaders worldwide. The registration fee will be refunded to all participants who are members of teams that present their solutions on Sunday June 1st.
+<h3>TECHNOLOGY</h3>
+* <i class="icon fa-money money"></i> $1,000 to Best Overall App or Site started at the event
+* <i class="icon fa-money money"></i> $1,000 to Best Overall App or Site started before the event
+* <i class="icon fa-money money"></i> $500 to Runner-up App or Site started at the event
+* <i class="icon fa-money money"></i> $500 to Runner-up App or Site started before the event
+
+<h3>GAMES</h3>
+* <i class="icon fa-money money"></i> $1,000 to Best Overall Game started at the event
+* <i class="icon fa-money money"></i> $1,000 to Best Overall Game started before the event
+* <i class="icon fa-money money"></i> $500 to Runner-up Game started at the event
+* <i class="icon fa-money money"></i> $500 to Runner-up Game started before the event
+
+<h3>FILMS</h3>
+* <i class="icon fa-money money"></i> $1,000 to Best Overall Film started at the event
+* <i class="icon fa-money money"></i> $1,000 to Best Overall Film started before the event
+* <i class="icon fa-money money"></i> $500 to Runner-up Film started at the event
+* <i class="icon fa-money money"></i> $500 to Runner-up Film started before the event
+
+<h3>AND MORE...</h3>
+* <i class="icon fa-money money"></i> $750 to People’s choice (voted by all participants across all submitted projects)
+* <i class="icon fa-money money"></i> One seat at Tech Ranch’s Venture Forth  8 week boot camp for startup entrepreneurs
+* <i class="icon fa-money money"></i> $500 for the Best Use of the Digital Bible Platform API.
+* <i class="icon fa-money money"></i> Special prizes for the Best Use of the Clarify API.
+
+
+After the event, your apps, films, and games will be featured in a Leadership Network Advance edition reaching over 50,000 church leaders worldwide. 
 
 {{> register-button}}

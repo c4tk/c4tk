@@ -1,6 +1,6 @@
 ---
 title: Organizers
-cwd: src/content/events/seattle/2014/organizers
+cwd: src/content/events/austin/2014/organizers
 ---
 ## <i class="icon fa-magic"></i> Organizers
 
