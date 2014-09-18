@@ -1,6 +1,6 @@
 ---
 title: Winners
-cwd: src/content/events/austin/2014/winners
+cwd: src/content/events/nyc/2014/winners
 ---
 ## <i class="icon fa-flag"></i> WINNERS
 

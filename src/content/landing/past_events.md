@@ -1,6 +1,16 @@
 ---
 events:
 - name:
+    Austin Sep 12-14, 2014
+  photo:
+    austin2.jpg
+  location:
+    TBD
+  date:
+    TBD
+  link:
+    austin2014.html
+- name:
     Bay Area 2014
   photo:
     bayarea.jpg

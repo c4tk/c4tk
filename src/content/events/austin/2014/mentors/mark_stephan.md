@@ -1,5 +1,5 @@
 ---
-name: Mark Stephan
+name: Mark S
 description: Director of Product Development, Horizons International
 picture: mark_stephan.png
 ---
