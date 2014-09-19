@@ -10,16 +10,6 @@ events:
     Oct 31- Nov 2 
   link:
     bangalore2014.html
-- name:
-    NYC November 6,8-9, 2014
-  photo:
-    nyc.jpg
-  location:
-    TBD
-  date:
-    Nov 6,8-9
-  link:
-    nyc2014.html
 
 ---
 
