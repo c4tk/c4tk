@@ -1,16 +1,16 @@
 ﻿## <i class="icon fa-book"></i> About
 ---
 <img src="{{assets}}/images/child.png" style="float:right"/>
-Create for the Kingdom is a special Code for the Kingdom event in Austin, TX. It expands the weekend to include Filmmakers and Game Developers along with the traditional Hackathon-ers. During this weekend there will be a Game Jam, Film Challenge and Hackathon, each with prizes (check them out below). We encourage collaboration between all of the disciplines for the purposes of building a long-term ecosystem where global issues are tackled from a Creative Christian perspective, while welcoming the participations of individuals from all worldviews and faiths.
+Are you an entrepreneur, technologist or innovator? Have you ever wanted to impact your cities, circles and communities and solve problems that you see around you? If yes, don’t miss out on India’s first mission-based weekend Hackathon that kicks off on Oct 31, 2014!
 
-“How can all Creatives help alleviate and eradicate injustice, teach God’s unconditional love and build a healthier and stronger society?” That is the question we will answer at Create for the Kingdom.
+Code for the Kingdom is a weekend Hackathon series and ongoing ecosystem where global issues are tackled from a Christian perspective. The movement hosts weekend gatherings in different cities where developers, designers, ideators and others collaborate to advance common good and serve God’s Kingdom.
 
-Join us this September, to foster visionary creatives to create new mediums to transform lives through a holistic Christian approach that combats social injustice, creates a culture of generosity, facilitates spiritual justice and unleashes the fullest capacity of each individual.
+Code for the Kingdom hosted its first-of-a-kind mission based weekend Hackathon in San Francisco last year. In the span of a year, the weekend event gathered momentum and members with weekend gatherings across Austin, Seattle and Redwood City. Now, for the first time, Code for the Kingdom is expanding beyond American shores and what better destination to connect technologists than Bangalore, India?
 
-The weekend event will focus the passion, purpose, and creativity of our entrepreneurial and creative community, connecting incredible innovators with organizations, and initiatives that need their talent.
+Join the top 100 leaders in the country as they collaborate with innovative non-profits and churches to write code and create technology to help release the oppressed, teach God’s word, heal the sick, feed the hungry, clothe the naked and support the church and the body of Christ. 
 
-Join us at Austin,TX as we battle the challenges confronting our communities, our society, our families, and our spiritual lives.
-
+This weekend event will focus the passion, purpose, and creativity of our entrepreneurial and creative community, connecting incredible innovators with organizations, and initiatives that need their talent.
+Join us in Bangalore, India as we battle the challenges confronting our communities, our society, our families, and our spiritual lives.
 
 <div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/c3-wNBgVmnQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
