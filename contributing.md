@@ -4,7 +4,7 @@
 3. Fork the [c4tk repository](https://github.com/chrislim/c4tk) to get your own version to play with.
 4. Clone it to your local machine through the GitHub Client.
 5. Open a command prompt in the repository.
-6. Install grunt by running `npm install grunt-cli -g` you may need to use `sudo install grunt-cli -g`
+6. Install grunt by running `npm install grunt-cli -g` you may need to use `sudo npm install grunt-cli -g`
 7. Install the software to generate the site by running `npm install`
 8. Run `grunt server` to start a local version of the site.
 9. Visit http://localhost:9000 to view the site on your local machine.
