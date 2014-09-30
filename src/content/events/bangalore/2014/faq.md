@@ -7,7 +7,7 @@ questions:
 - question:
     Who is organizing the 2014 Code for the Kingdom event in Bangalore?
   answer:
-    The Code for the Kingdom Austin event is being jointly organized by One Hope and Christian Vision, in association with Leadership Network, Young Creative Leaders and yesHEis.
+    The Code for the Kingdom Bangalore event is being jointly organized by One Hope and Christian Vision, in association with Leadership Network, Young Creative Leaders and yesHEis.
 - question:
     What is this event trying to accomplish?
   answer:
