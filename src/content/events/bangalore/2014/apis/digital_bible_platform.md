@@ -11,7 +11,7 @@ Help Faith Comes By Hearing enhance the Digital Bible Platform for the developer
 
 During the event, this username and key will be active so developers can immediately use the API. If you want to continue using the API after the event you can sign up for your own key.
 
-* Username: aus.c4tk@digitalbibleplatform.com
-* Password: iahN7oL3F3^g
+* Username: banc4tk@digitalbibleplatform.com
+* Password: aN@UKkglWHFi
 * Login URL: https://www.digitalbibleplatform.com/site/wp-login.php
-* DBT Key: dcf32e6c4f77d824036c627c94090613
+* DBT Key: 37cd57f793b2ee221c1146f12df057e8

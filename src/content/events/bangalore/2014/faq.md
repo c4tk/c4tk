@@ -5,15 +5,15 @@ questions:
   answer:
     A hackathon is an event where people get together and develop some awesome technologies, in a short time span. Think of it as a coding marathon where at the end you have some product/result to show for.
 - question:
-    Who is organizing the 2014 Create for the Kingdom event in Bangalore?
+    Who is organizing the 2014 Code for the Kingdom event in Bangalore?
   answer:
-    The Create for the Kingdom Austin event is being jointly organized by One Hope and Christian Vision, in association with Leadership Network, Young Creative Leaders and Yes HE is.
+    The Code for the Kingdom Austin event is being jointly organized by One Hope and Christian Vision, in association with Leadership Network, Young Creative Leaders and yesHEis.
 - question:
     What is this event trying to accomplish?
   answer:
     This event is a non-profit event to encourage the activation and on-going collaboration of a larger ecosystem of all sort of creative individuals (including app/site programmers and designers, game designer and developers, entrepreneurs, and leaders of churches, non-profits, and the marketplace) who are passionate about creating works to tackle from a Christian perspective the challenges confronting our society, our communities, our churches, and our spiritual lives.
 - question:
-    Is there a main theme to the Create for the Kingdom event in Bangalore?
+    Is there a main theme to the Code for the Kingdom event in Bangalore?
   answer:
     Yes, Transforming Lives. How can technology help alleviate and eradicate all forms of injustice while teaching about God’s unconditional love?
 - question:
@@ -51,7 +51,7 @@ questions:
 - question:
     Will I meet my team members before the event?   
   answer:
-    Possibly. You can use the Code for the Kingdom Facebook Community at anytime to meet other participants, propose ideas, and recruit or be recruited into a team. But you can also bring your own team, or come alone and become part of a team at the event.
+    Possibly. You can use the Code for the Kingdom Facebook Community https://www.facebook.com/c4tkIndia at anytime to meet other participants, propose ideas, and recruit or be recruited into a team. But you can also bring your own team, or come alone and become part of a team at the event.
 - question:
     Can I present a technology that I have already built or worked on?
   answer:

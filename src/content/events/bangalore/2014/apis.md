@@ -1,6 +1,6 @@
 ﻿---
 title: APIs
-cwd: src/content/events/austin/2014/apis
+cwd: src/content/events/bangalore/2014/apis
 ---
 ## <i class="icon fa-sitemap"></i> API
 
