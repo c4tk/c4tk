@@ -5,7 +5,7 @@ Are you an entrepreneur, technologist or innovator? Have you ever wanted to impa
 
 Code for the Kingdom is a weekend Hackathon series and ongoing ecosystem where global issues are tackled from a Christian perspective. The movement hosts weekend gatherings in different cities where developers, designers, ideators and others collaborate to advance common good and serve God’s Kingdom.
 
-Code for the Kingdom hosted its first-of-a-kind mission based weekend Hackathon in San Francisco last year. In the span of a year, the weekend event gathered momentum and members with weekend gatherings across Austin, Seattle and Redwood City. Now, for the first time, Code for the Kingdom is expanding beyond American shores and what better destination to connect technologists than Bangalore, India?
+Code for the Kingdom hosted its first-of-a-kind mission based weekend Hackathon in San Francisco last year. In the span of a year, the weekend event gathered momentum and members with weekend gatherings across Austin, Seattle and the San Francisco Bay Area. Now, for the first time, Code for the Kingdom is expanding beyond American shores and what better destination to connect technologists than Bangalore, India?
 
 Join the top 100 leaders in the country as they collaborate with innovative non-profits and churches to write code and create technology to help release the oppressed, teach God’s word, heal the sick, feed the hungry, clothe the naked and support the church and the body of Christ. 
 
@@ -34,7 +34,7 @@ Join us in Bangalore, India as we battle the challenges confronting our communit
        <header>
           <h3>Spiritual Justice</h3>
         </header>
-        <p>Every person has the right to receive God’s Word and discover His unconditional love. Join creative and coding forces to develop films, games and technologies to reduce spiritual poverty. Create ways for children to learn the Word of God, bury it in their hearts and share it with their friends. Create works for prayer, evangelism, mentorship and other innovative means to spiritual formation. .
+        <p>Every person has the right to receive God’s Word and discover His unconditional love. Join creative and coding forces to develop technologies to reduce spiritual poverty. Create ways for children to learn the Word of God, bury it in their hearts and share it with their friends. Create works for prayer, evangelism, mentorship and other innovative means to spiritual formation. .
       </section>
     </div>
   </div>
@@ -44,7 +44,7 @@ Join us in Bangalore, India as we battle the challenges confronting our communit
         <header>
           <h3>Help Create a culture of Generosity</h3>
         </header>
-        <p>The Follower of Christ is called to a life of generous sacrifice extending beyond simple financial generosity, to include generosity of our mind, time and possessions. If the Kingdom of God is to truly to be advanced by us, we need to answer the call of radical generosity. It is only when we live out this radical generosity that the Church will be unleashed in thoughtfulness, action, and resources to advance the Kingdom of God in the world. Create technology, films, and games to encourage individuals and families to become generous in every aspect of their lives.
+        <p>The Follower of Christ is called to a life of generous sacrifice extending beyond simple financial generosity, to include generosity of our mind, time and possessions. If the Kingdom of God is to truly to be advanced by us, we need to answer the call of radical generosity. It is only when we live out this radical generosity that the Church will be unleashed in thoughtfulness, action, and resources to advance the Kingdom of God in the world. Create technology to encourage individuals and families to become generous in every aspect of their lives.
 </section>
     </div>
     <div class="6u">
@@ -54,7 +54,7 @@ Join us in Bangalore, India as we battle the challenges confronting our communit
         </header>
         <p>Every person has something unique to contribute to the community, society, and church. Yet, most of us do not understand how we can leverage our skills and ideas to improve the lives of others.
 
-What if we could discover how to use our unique gifts for God’s Kingdom? Use technology, films, or games to mobilize and equip every member of your community, church and family. Empower them to release their skills as well as to accelerate great ideas and initiatives that could transform the lives of the child or adult down your street.
+What if we could discover how to use our unique gifts for God’s Kingdom? Use technology to mobilize and equip every member of your community, church and family. Empower them to release their skills as well as to accelerate great ideas and initiatives that could transform the lives of the child or adult down your street.
       </section>
     </div>
   </div>
