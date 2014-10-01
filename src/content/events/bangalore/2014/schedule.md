@@ -99,4 +99,4 @@
 </tr>
 </tbody>
 </table>
-{{> register-button}}
+{{> registerindia-button}}

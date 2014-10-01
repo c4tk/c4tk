@@ -17,7 +17,7 @@ Join us in Bangalore, India as we battle the challenges confronting our communit
 <br>
 
 
-{{> register-button}}
+{{> registerindia-button}}
 <hr/>
 ## Event Theme
 <div class="smaller-paragraphs">
@@ -61,5 +61,5 @@ What if we could discover how to use our unique gifts for God’s Kingdom? Use t
 </div>
 <p>Register now to join us in Bangalore, India as we work to transform lives. Work closely and build new relationships with some of the most effective global ministries, technologists, entrepreneurs, investors, hi-tech accelerators, church leaders and creatives from every discipline.
 </p>
-{{> register-button}}
+{{> registerindia-button}}
 

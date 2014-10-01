@@ -6,7 +6,7 @@ The rules are in place to give every participant the same opportunity for succes
 
 Importantly, you can start coding ahead of the event or at the event. So what are you waiting for? Register now and get started!
 
-{{> register-button}}
+{{> registerindia-button}}
 <br/>
 ## Read the rules
 
@@ -27,5 +27,5 @@ Participant must submit their project by the submission time on Sunday afternoon
 ### TAXES 
 Prizes are non- transferable by the winner. Prize winners will be solely responsible for all applicable taxes related to accepting a prize.
 
-{{> register-button}}
+{{> registerindia-button}}
 

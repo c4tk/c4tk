@@ -17,6 +17,6 @@ So register now for this amazing weekend where your ideas can win these awesome 
 * <i class="icon fa-money money"></i> Rs. 50,000 for the winner of the Christian Vision official challenge
 
 
-After the event, your apps, films, and games will be featured in a Leadership Network Advance edition reaching over 50,000 church leaders worldwide. 
+After the event, your creations will be featured in a Leadership Network Advance edition reaching over 50,000 church leaders worldwide. 
 
-{{> register-button}}
+{{> registerindia-button}}

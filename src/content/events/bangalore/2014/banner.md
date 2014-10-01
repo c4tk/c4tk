@@ -16,7 +16,7 @@
       <footer>
         <ul class="buttons">
           <li><a href="#about.md" class="button fit scrolly">Tell Me More</a></li>
-          <li>{{> register-button}}</li>
+          <li>{{> registerindia-button}}</li>
         </ul>
       </footer>
     </div>

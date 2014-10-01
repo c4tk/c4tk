@@ -26,4 +26,4 @@ We believe that these platforms may assist you as you create effective solutions
 </div>
 {{/compose}}
 <br/>
-{{> register-button}}
+{{> registerindia-button}}
