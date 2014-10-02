@@ -12,7 +12,7 @@ Join the top 100 leaders in the country as they collaborate with innovative non-
 This weekend event will focus the passion, purpose, and creativity of our entrepreneurial and creative community, connecting incredible innovators with organizations, and initiatives that need their talent.
 Join us in Bangalore, India as we battle the challenges confronting our communities, our society, our families, and our spiritual lives.
 
-<div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/c3-wNBgVmnQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/qj3bxB4UJS0?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 <br>
 
