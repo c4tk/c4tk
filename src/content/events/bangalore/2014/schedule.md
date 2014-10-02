@@ -3,7 +3,7 @@
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Friday Sep 12th, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Friday Oct 31st, 2014</div></th>
 </tr>
 </thead>
 <tbody class="row-hover" role="alert" aria-live="polite" aria-relevant="all">
@@ -37,7 +37,7 @@
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Saturday Sep 13th, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Saturday Nov 1st, 2014</div></th>
 </tr>
 </thead>
 <tbody class="row-hover">
@@ -64,7 +64,7 @@
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Sunday Sep 14th, 2014</div></th>
+  <th colspan="2" class="column-1"><div>Sunday Nov 2nd, 2014</div></th>
 </tr>
 </thead>
 <tbody class="row-hover">
