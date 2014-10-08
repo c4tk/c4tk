@@ -32,9 +32,9 @@ Join us in Bangalore, India as we battle the challenges confronting our communit
     <div class="6u">
       <section>
        <header>
-          <h3>Spiritual Justice</h3>
+          <h3>Spiritual Justice / Spiritual Formation</h3>
         </header>
-        <p>Every person has the right to receive God’s Word and discover His unconditional love. Join creative and coding forces to develop technologies to reduce spiritual poverty. Create ways for children to learn the Word of God, bury it in their hearts and share it with their friends. Create works for prayer, evangelism, mentorship and other innovative means to spiritual formation. .
+        <p>Every person has the right to receive God’s Word and discover His unconditional love. Join creative and coding forces to develop technologies to reduce spiritual poverty. Create technology to help believers transform their characters to be more like Christ, and their actions to conform to God’s will. Create works for prayer, evangelism, mentorship and other innovative means to spiritual formation.</p>
       </section>
     </div>
   </div>
