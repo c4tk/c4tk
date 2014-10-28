@@ -1,6 +1,6 @@
 ---
 title: Sponsors
-cwd: src/content/events/austin/2014/sponsors
+cwd: src/content/events/bangalore/2014/sponsors
 ---
 ## <i class="icon fa-heart"></i> Sponsors
 
@@ -13,4 +13,4 @@ cwd: src/content/events/austin/2014/sponsors
   </div>
 {{/compose}}
 </div>
-{{> register-button}}
+{{> registerindia-button}}
