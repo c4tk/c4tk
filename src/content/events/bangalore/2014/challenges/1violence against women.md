@@ -3,9 +3,9 @@ title: Stop violence against women and girls
 intro: How can technology help women and girls be safe and change the culture of violence?
 champions:
 - name:
-    One Hope
+    
   logo:
-    one-hope.png
+    
 ---
 
 According to UNICEF, 51% of men in India believe wife beating can be justified. And, incredibly enough 54.4% of women in India also believe in justified wife beatings. When violence justification is such a cultural belief, it is not a surprise that most women in India do not feel safe in public spaces. One rape happens every 30 minutes in India, according to the Commonwealth Human Rights Initiative. 

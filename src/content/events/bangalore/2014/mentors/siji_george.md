@@ -1,6 +1,6 @@
 ﻿---
 name: Siji George
-description: VMWare, Senior Member of Technical Staff
+description: Senior Member of Technical Staff, VMWare
 picture: siji_george.jpg
 
 ---

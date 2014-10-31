@@ -1,6 +1,6 @@
 ﻿---
 name: Phil Smith
-description: Development Manager, Christian Vision, Australia
+description: Development Manager, CV, Australia
 picture: phil_smith.jpg
 
 ---
