@@ -1,16 +1,36 @@
 ---
 events:
 - name:
-    Bangalore Oct 31-Nov 2, 2014
+    Dallas, 2015 - Details to be announced in January 2015
   photo:
-    bangalore.jpg
+    dallas.jpg
   location:
     TBD
   date:
-    Oct 31- Nov 2 
+    Winter, 2015 
   link:
-    bangalore2014.html
 
+- name:
+    New York City, 2015 - Details to be announced in January 2015
+  photo:
+    nyc.jpg
+  location:
+    TBD
+  date:
+    Spring, 2015 
+  link:
+    
+
+- name:
+    Global Weekend Oct 2-4, 2015 - Details to be announced in January 2015
+  photo:
+    global_weekend.jpg
+  location:
+    TBD
+  date:
+    Oct 2-4, 2015 
+  link:
+    
 ---
 
 

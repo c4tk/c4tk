@@ -1,6 +1,16 @@
 ---
 events:
 - name:
+    Bangalore Oct 31-Nov 2, 2014
+  photo:
+    bangalore.jpg
+  location:
+    TBD
+  date:
+    Oct 31- Nov 2 
+  link:
+    bangalore2014.html
+- name:
     Austin Sep 12-14, 2014
   photo:
     austin2.jpg
