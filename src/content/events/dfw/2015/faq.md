@@ -79,7 +79,7 @@ questions:
 - question:
     Will there be awards given?
   answer:
-    Yes, but these are non-cash awars.
+    Yes, but these are non-cash awards.
 - question:
     What's the hashtag?   
   answer:
