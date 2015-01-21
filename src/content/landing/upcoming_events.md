@@ -1,24 +1,17 @@
 ---
 events:
 - name:
-    Dallas, 2015 - Details to be announced in January 2015
+    Dallas/Fort Worth March 20-22, 2015
   photo:
     dallas.jpg
   location:
-    TBD
+    The Addison TreeHouse, Addison TX
   date:
-    Winter, 2015 
+    March 20-22, 2015 
   link:
+    dfw2015.html
 
-- name:
-    New York City, 2015 - Details to be announced in January 2015
-  photo:
-    nyc.jpg
-  location:
-    TBD
-  date:
-    Spring, 2015 
-  link:
+
     
 
 - name:
