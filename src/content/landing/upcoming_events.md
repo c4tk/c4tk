@@ -15,14 +15,15 @@ events:
     
 
 - name:
-    Global Weekend Oct 2-4, 2015 - Details to be announced in January 2015
+    Global Weekend Oct 2-4, 2015 
   photo:
     global_weekend.jpg
   location:
-    TBD
+    12 Cities around the world
   date:
     Oct 2-4, 2015 
   link:
+   global2015.html
     
 ---
 
