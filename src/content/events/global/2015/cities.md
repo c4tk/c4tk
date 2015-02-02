@@ -1,9 +1,9 @@
 ---
 events:
 - name:
-    London
+
   photo:
-    london.jpg
+
   location:
     TBD
   date:
@@ -11,9 +11,8 @@ events:
   link:
     
 - name:
-    Kansas City 
-  photo:
-    kansas_city.jpg
+
+
   location:
     
   date:
@@ -24,8 +23,9 @@ events:
 ---
 <section class="wrapper style3 container special">
   <header class="major">
-    <h2> <strong>Participating Cities</strong> ...so far</h2>
+    <h2> <strong>Participating Cities</strong></h2>
   </header>
+We are accepting applications from cities all over the world to host a hackathon. Cities accepted to the 2015 Global hackathon event will be announced March, 2015.
   <div class="row">
     {{#each events}}
       <div class="6u">
