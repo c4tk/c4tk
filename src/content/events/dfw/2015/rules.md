@@ -15,15 +15,14 @@ You can start coding ahead of the hackathon or at the hackathon.
 ### USE WHAT YOU KNOW 
 Participants are free to use any tools that they know, in order to help them code.
 ### CODING RULES 
-There will be identical but separate cash awards for teams that started coding before the hackathon as well as teams that started coding at the hackathon. However, some or all of the coding must take place at the hackathon, in order to be eligible for the prizes.
+There will be identical but separate awards for teams that started coding before the hackathon as well as teams that started coding at the hackathon. However, some or all of the coding must take place at the hackathon, in order to be eligible for the awards.
 ### TRY TO USE OUR SPONSOR’S API’S 
 Although not mandatory, participants are encouraged to use our platform sponsor’s technologies.
 ### INTELLECTUAL PROPERTY 
 Participants have full ownership of what they build during the Code for the Kingdom hackathon and are free to do with it as they wish. If you build as a team, the IP is shared by the team. If you build as an individual, the IP is all yours.
 ### FINISH ON TIME 
 Participant must submit their project by the submission time on Sunday afternoon. No late submissions will be accepted.
-### TAXES 
-Any cash prizes are non- transferable by the winner. Cash award winners will be solely responsible for all applicable taxes related to accepting a cash prize.
+
 
 {{> register-button}}
 

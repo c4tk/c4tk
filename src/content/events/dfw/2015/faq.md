@@ -33,7 +33,7 @@ questions:
   answer:
     Yes; we do not provide computers. Please bring anything you’ll need to code.  
 - question:
-    I can’t stay whole 24 hours, can I still participate?   
+    I can’t stay the entire time, can I still participate?   
   answer:
     Yes. We realize that 47 hours is a long time, and that some people might have other commitments, or might prefer to work remotely, or need to go home/hotel to rest and shower. Yet, you need to be present for the initial few hours during the startup demos, and at some point you need be at the venue and do some work onsite. You will also need to be present for the final few hours for the presentations and judging.   
 - question:
@@ -59,7 +59,7 @@ questions:
 - question:
     Do I have to work non-stop?
   answer:
-    No. The work space will be available non-stop ( the entire hackathon 47 ) but it is up to you and your team to decide on your work schedule.
+    No. The work space will be available non-stop entire durantion of the hackathon but it is up to you and your team to decide on your work schedule.
 - question:
     Who owns the IP of what we make?   
   answer:

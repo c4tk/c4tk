@@ -32,7 +32,6 @@
 </tbody>
 </table>
 
-<p style="text-align: justify;">This venue will remain open around the clock. Participants are encouraged to utilize the facility and take advantage of the meals and healthy hacker activities day and night, if desired.</p>
 
 <table class="default">
 <thead>
@@ -48,18 +47,20 @@
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
 <tr class="row-4 even">
+  <td class="column-1"><strong>10:00APM</strong></td><td class="column-2">Reboot and Rally</td>
+<tr class="row-5 even">
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
-<tr class="row-5 odd">
+<tr class="row-6 odd">
   <td class="column-1"><strong>6:00 PM</strong></td><td class="column-2">Dinner</td>
 </tr>
-<tr class="row-6 even">
+<tr class="row-7 even">
   <td class="column-1"><strong>9:00 AM - 5:00 PM</strong></td><td class="column-2">Meet the Mentors</td>
 </tr>
 </tbody>
 </table>
 <p style="text-align: justify;">Meet with Mentors is a great opportunity to connect with industry experts who can guide you and your concepts. The organizers will help you connect with mentors of your choice on Friday/Saturday.</p>
-<p style="text-align: justify;">This venue will remain open around the clock. Participants are encouraged to utilize the facility and take advantage of the meals and healthy hacker activities day and night, if desired.</p>
+
 
 <table class="default">
 <thead>
