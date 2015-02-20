@@ -47,7 +47,7 @@
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
 <tr class="row-4 even">
-  <td class="column-1"><strong>10:00APM</strong></td><td class="column-2">Reboot and Rally</td>
+  <td class="column-1"><strong>10:00 AM</strong></td><td class="column-2">Reboot and Rally</td>
 <tr class="row-5 even">
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
