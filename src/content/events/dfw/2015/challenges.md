@@ -4,10 +4,9 @@ cwd: src/content/events/dfw/2015/challenges
 ---
 ## <i class="icon fa-flag"></i> Challenges
 
-The challenges will be announce on March 6th, 2015. Please come back then to learn more about our challenges.
+Here are the challenges to get you started. Please remember that more challenges may be presented between now and the first day of the event. If you would like to discuss with potential team members, or even with the champions of these challenges, please join and leverage our Google Plus community.
 
-In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the Transforming Lives spirit of the Hackathon. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
-
+In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the Transforming Lives Theme of the event. Please come prepared to pitch your project at the event so that you can recruit teams to work on them.
 
 {{#compose src="*.md" cwd=cwd}}
 <div class="row">

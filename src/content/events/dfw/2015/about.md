@@ -15,6 +15,9 @@ You are more talented than you’re giving yourself credit for! We all strive to
 Join us in March for a weekend hackathon at The Addison Treehouse in Addison, TX where you will be able to meet and work together with people who are serious about using technology to further the Kingdom.
 
 
+<div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/hNCyqX-4PBY?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+
 {{> register-button}}
 <hr/>
 ## Spirit of the Event – Transforming Lives
@@ -46,7 +49,7 @@ Build mobile applications to help children learn the Word of God, bury it in the
         <header>
           <h3>HELP CREATE A CULTURE OF GENEROSITY</h3>
         </header>
-        <p>The Church and non-profits are always significantly underfunded. The Great Commission could be tremendously impacted and enhanced if financial resources were available.  Build fresh user experiences that can help organizations redefine the giving experience for their patrons.  Leverage the power of technology to encourage individuals and families to become generous to the causes and churches.
+        <p>We are all called to a life of generous sacrifice extending beyond simple financial generosity, to include generosity of our mind, love, time and possessions. If the Kingdom of God is to truly to be advanced by us, we need to answer the call of generosity. It is only when we live out this radical generosity that the Church will be unleashed in thoughtfulness, action, and resources to advance the Kingdom of God in the world. Create technology to encourage individuals and families to become generous in every aspect of their lives.</p>
       </section>
     </div>
     <div class="6u">
@@ -54,8 +57,8 @@ Build mobile applications to help children learn the Word of God, bury it in the
         <header>
           <h3>SOCIAL JUSTICE</h3>
         </header>
-        <p>
-How can technology alleviate the social maladies that oppress so many? How can you help knock off a little corner of darkness?
+        <p>How will you knock off a little corner of darkness in the world? What technologies can you create that will alleviate the social maladies that oppress so many? Work with non-profits to help rescue victims of human trafficking, combat poverty, lift the fatherless, release the oppressed, heal the sick and feed the hungry. Use your skills to create a brighter world and lift up your community.What technologies can you create to affect the life of one lost child in your own neighborhood? 
+</p>
       </section>
     </div>
   </div>
