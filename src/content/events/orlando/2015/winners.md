@@ -2,7 +2,7 @@
 title: Winners
 cwd: src/content/events/orlando/2015/winners
 ---
-## <i class="icon fa-flag"></i> WINNERS
+## <i class="icon fa-flag"></i> <b>WINNERS</b>
 
 
 Here are the winners.

@@ -1,4 +1,4 @@
-﻿## <i class="icon fa-trophy"></i> Awards
+﻿## <i class="icon fa-trophy"></i> <b>Awards</b>
 
 A panel of judges will select awards in multiple categories.
 <img class="alignright" src="{{assets}}/images/winner.png" style="float:right"/>

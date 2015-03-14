@@ -1,6 +1,6 @@
 ﻿## <i class="icon fa-trophy"></i> Awards
 
-A panel of judges will select awards in multiple categories.
+Participants will compete for non-cash Recognition Awards in four categories:
 <img class="alignright" src="{{assets}}/images/winner.png" style="float:right"/>
 * <i class="icon fa-trophy"></i> Best Overall started at the hackathon
 * <i class="icon fa-trophy"></i> Best Overall started before the hackathon

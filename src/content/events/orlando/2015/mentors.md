@@ -2,7 +2,7 @@
 title: Mentors
 cwd: src/content/events/orlando/2015/mentors
 ---
-## <i class="icon fa-group"></i> Mentors
+## <i class="icon fa-group"></i> <b>Mentors</b>
 
 Meet with Mentors is a great opportunity to connect with industry experts who can guide you and your concepts. Schedule your sessions with mentors of your choice on Friday/Saturday and get connected.
 <div class="row">

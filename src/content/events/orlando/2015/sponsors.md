@@ -2,7 +2,7 @@
 title: Sponsors
 cwd: src/content/events/orlando/2015/sponsors
 ---
-## <i class="icon fa-heart"></i> Sponsors
+## <i class="icon fa-heart"></i> <b>Sponsors</b>
 
 <div class="row">
 {{#compose src='*.md' cwd=cwd}}

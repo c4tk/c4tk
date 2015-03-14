@@ -1,4 +1,4 @@
-## <i class="icon fa-clock-o"></i> Schedule
+## <i class="icon fa-clock-o"></i> <b>Schedule</b>
 
 <table class="default">
 <thead>
@@ -11,7 +11,7 @@
   <td class="column-1"><strong>7:00 PM</strong></td><td class="column-2">Doors Open </td>
 </tr>
 <tr class="row-3">
-  <td class="column-1"><strong>7:00 PM - 8:00 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
+  <td class="column-1"><strong>7:00 PM - 8:00 PM</strong></td><td class="column-2">Hors D'oeuvres &amp; Networking</td>
 </tr>
 <tr class="row-4">
   <td class="column-1"><strong>8:00 PM - 8:25 PM</strong></td><td class="column-2">Welcome & Review Format </td>
@@ -36,7 +36,7 @@
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Saturday Mat 23rd, 2015</div></th>
+  <th colspan="2" class="column-1"><div>Saturday May 23rd, 2015</div></th>
 </tr>
 </thead>
 <tbody class="row-hover">

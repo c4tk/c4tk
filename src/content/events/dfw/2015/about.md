@@ -69,7 +69,7 @@ Build mobile applications to help children learn the Word of God, bury it in the
 
 Dallas has one of the most vibrant and active entrepreneurial communities in the country - not to mention being FULL of people who are serving the Lord through technology in their careers. A large part of the weekend will be dedicated to building relationships.
 
-If you can’t attend the entire event then just come Friday night for our kickoff or Saturday morning when the hacking is in full swing. You will experience the Dallas tech community in action. Don’t be surprised if you end up staying through the weekend…
+If you can’t attend the entire event then just come Friday night for our kickoff or Saturday morning when the hacking is in full swing. You will experience the Dallas tech community in action. Don’t be surprised if you end up staying through the weekend.
 
 <p>Register now to join us in Dallas/Fort Worth  as we work to leveraging technology to transforms lives. Plus, you get to rub shoulders with some of the most effective global ministries, technologists, entrepreneurs, investors, hi-tech accelerators, church leaders and creative individuals from every discipline.</p>
 {{> register-button}}

@@ -2,7 +2,7 @@
 title: Organizers
 cwd: src/content/events/orlando/2015/organizers
 ---
-## <i class="icon fa-magic"></i> Organizers
+## <i class="icon fa-magic"></i> <b>Organizers</b>
 
 <div class="row">
 {{#compose src="*.md" cwd=cwd}}

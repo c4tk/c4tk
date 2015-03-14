@@ -1,10 +1,10 @@
-﻿## <i class="icon fa-book"></i> About
+﻿## <i class="icon fa-book"></i> <b>About</b>
 ---
 <img src="{{assets}}/images/child.png" style="float:right"/>
 
 ###What is Code for the Kingdom?
 
-Are you an entrepreneur, technologist or innovator? Have you ever wanted to impact your cities, circles and communities and solve problems that you see around you? Have you ever wanted to be the change? If yes, join us on May 22-24, 2015 for Orlando’s first Code for the Kingdom Hackathon, hosted by WyCliffe Associates. 
+Are you an entrepreneur, technologist or innovator? Have you ever wanted to impact your cities, circles and communities and solve problems that you see around you? Have you ever wanted to be the change? If yes, join us on May 22-24, 2015 for Orlando’s first Code for the Kingdom Hackathon, hosted by Wycliffe Associates. 
 
 Code for the Kingdom is a weekend Hackathon series and ongoing ecosystem where the challenges confronting our communities, our society, our families, and our spiritual lives are tackled from a Christian perspective. The movement hosts weekend gatherings in different cities where developers, designers, ideators and others collaborate to advance common good and serve God’s Kingdom.
 
@@ -43,7 +43,7 @@ What is accomplished here will transform lives and change the world for Christ. 
 
           <h3>STRONGER & HEALTHIER RELATIONSHIPS</h3>
         </header>
-        <p>Regardless of spiritual background, nationality, ethnicity, educational level, or economic status, we all desire deeper, better relationships.  Whether it is between a husband and wife, a parent and child, or the people on our street, we want to invest in those closest to us, but often lack the focus, access to resources, or the accountability necessary to make lasting progress.  But growth in these key relational areas could bring radical change to families, friendships, neighborhoods, communities, churches, and society.  Let’s create technology to cultivate and strengthen some of society's most foundational relationships: marriage, parenthood, family, friendships? 
+        <p>Regardless of spiritual background, nationality, ethnicity, educational level, or economic status, we all desire deeper, better relationships.  Whether it is between a husband and wife, a parent and child, or the people on our street, we want to invest in those closest to us, but often lack the focus, access to resources, or the accountability necessary to make lasting progress.  But growth in these key relational areas could bring radical change to families, friendships, neighborhoods, communities, churches, and society.  Let’s create technology to cultivate and strengthen some of society's most foundational relationships: marriage, parenthood, family, friendships. 
 </p>
       </section>
     </div>
@@ -72,26 +72,6 @@ Build mobile applications to help children learn the Word of God, bury it in the
     </div>
   </div>
 
-  <div class="row">
-    <div class="6u">
-      <section>
-        <header>
-          <h3>HELP CREATE A CULTURE OF GENEROSITY</h3>
-        </header>
-        <p>We are all called to a life of generous sacrifice extending beyond simple financial generosity, to include generosity of our mind, love, time and possessions. If the Kingdom of God is to truly to be advanced by us, we need to answer the call of generosity. It is only when we live out this radical generosity that the Church will be unleashed in thoughtfulness, action, and resources to advance the Kingdom of God in the world. Create technology to encourage individuals and families to become generous in every aspect of their lives.</p>
-      </section>
-    </div>
-    <div class="6u">
-      <section>
-        <header>
-          <h3>SOCIAL JUSTICE</h3>
-        </header>
-        <p>How will you knock off a little corner of darkness in the world? What technologies can you create that will alleviate the social maladies that oppress so many? Work with non-profits to help rescue victims of human trafficking, combat poverty, lift the fatherless, release the oppressed, heal the sick and feed the hungry. Use your skills to create a brighter world and lift up your community.What technologies can you create to affect the life of one lost child in your own neighborhood? 
-</p>
-
-      </section>
-    </div>
-  </div>
 
 
 </div>
