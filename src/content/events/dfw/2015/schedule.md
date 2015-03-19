@@ -14,20 +14,20 @@
   <td class="column-1"><strong>7:00 PM - 8:00 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
 </tr>
 <tr class="row-4">
-  <td class="column-1"><strong>8:00 PM - 8:25 PM</strong></td><td class="column-2">Welcome & Review Format </td>
+  <td class="column-1"><strong>8:00 PM - 8:35 PM</strong></td><td class="column-2">Welcome, Vision Casting, Keynotes </td>
 </tr>
 
 <tr class="row-5">
-  <td class="column-1"><strong>8:25 PM - 8:35 PM</strong></td><td class="column-2">API Presentations</td>
+  <td class="column-1"><strong>8:36 PM - 8:50 PM</strong></td><td class="column-2">Review Format, Rules, APIs </td>
 </tr>
 <tr class="row-6">
-  <td class="column-1"><strong>8:35 PM - 8:50 PM</strong></td><td class="column-2">Review - Official Challenges </td>
+  <td class="column-1"><strong>8:51 PM - 9:20 PM</strong></td><td class="column-2">Review - Official Challenges </td>
 </tr>
 <tr class="row-7">
-  <td class="column-1"><strong>8:50 PM - 9:20 PM</strong></td><td class="column-2">Open Floor - pitch your own project</td>
+  <td class="column-1"><strong>9:25 PM - 10:00 PM</strong></td><td class="column-2">Open Floor - pitch your own project</td>
 </tr>
 <tr class="row-11">
-  <td class="column-1"><strong>9:20 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Create Away</td>
+  <td class="column-1"><strong>10:00 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Hack Away</td>
 </tr>
 </tbody>
 </table>
@@ -41,7 +41,7 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>12:00 AM - 11:59 PM</strong></td><td class="column-2">Creating</td>
+  <td class="column-1"><strong>12:00 AM - 11:59 PM</strong></td><td class="column-2">Hacking all day</td>
 </tr>
 <tr class="row-3 odd">
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
@@ -70,7 +70,7 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>12:00 AM - 2:15 PM</strong></td><td class="column-2">Creating</td>
+  <td class="column-1"><strong>12:00 AM - 2:15 PM</strong></td><td class="column-2">Hacking</td>
 <tr class="row-3 even">
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
