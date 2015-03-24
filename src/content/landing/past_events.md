@@ -1,6 +1,16 @@
 ---
 events:
 - name:
+    Dallas/Fort Worth March 20-22, 2015
+  photo:
+    dallas.jpg
+  location:
+    The Addison TreeHouse, Addison TX
+  date:
+    March 20-22, 2015 
+  link:
+    dfw2015.html
+- name:
     Bangalore Oct 31-Nov 2, 2014
   photo:
     bangalore.jpg

@@ -1,17 +1,6 @@
 ---
 events:
 - name:
-    Dallas/Fort Worth March 20-22, 2015
-  photo:
-    dallas.jpg
-  location:
-    The Addison TreeHouse, Addison TX
-  date:
-    March 20-22, 2015 
-  link:
-    dfw2015.html
-
-- name:
     Orlando May 22-24, 2015
   photo:
     orlando.jpg
