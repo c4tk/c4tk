@@ -23,10 +23,17 @@ module.exports = function(grunt) {
   grunt.initConfig({
 
     config: {
+      assets: 'assets',
       src: 'src',
       dist: 'dist'
     },
-
+    copy: {
+      assets: {
+        files: [
+          {expand: true, cwd: '<%= config.assets %>', src: ['**'], dest: '<%= config.dist %>/assets'}
+        ]
+      }
+    },
     watch: {
       assemble: {
         files: ['<%= config.src %>/{content,data,templates}/**/*.{md,hbs,yml}'],
@@ -104,9 +111,11 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-contrib-copy');
 
   grunt.registerTask('server', [
     'clean',
+    'copy',
     'assemble',
     'connect:livereload',
     'watch'
@@ -114,6 +123,7 @@ module.exports = function(grunt) {
 
   grunt.registerTask('build', [
     'clean',
+    'copy',
     'assemble'
   ]);
 
