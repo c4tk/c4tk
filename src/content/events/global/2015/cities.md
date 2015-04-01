@@ -25,7 +25,7 @@ events:
   <header class="major">
     <h2> <strong>Participating Cities</strong></h2>
   </header>
-We are accepting applications from cities all over the world to host a hackathon. Cities accepted to the 2015 Global hackathon event will be announced March, 2015.
+We are accepting applications from cities all over the world to host a hackathon. Cities accepted to the 2015 Global hackathon event will be announced May 1, 2015.
 
 
 </section>
