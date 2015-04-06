@@ -15,7 +15,7 @@ questions:
 - question:
     Is there a main theme to the Code for the Kingdom Orlando Hackathon?
   answer:
-    Yes, spreading God’s Word and transforming lives. How can technology help overcome the hurdles of translation, sharing The Bible, and teaching about God’s unconditional love?
+    Yes, Eradicating Spiritual Poverty. How can technology help overcome the hurdles of translation, sharing The Bible, and teaching about God’s unconditional love?
 - question:
     I'm from outside the Orlando. Can I still participate? 
   answer:

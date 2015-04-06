@@ -1,6 +1,5 @@
-﻿## <i class="icon fa-book"></i> <b>About</b>
+﻿## <i class="icon fa-info-circle"></i> <b>About</b>
 ---
-<img src="{{assets}}/images/child.png" style="float:right"/>
 
 ###What is Code for the Kingdom?
 
@@ -17,68 +16,5 @@ Join us this May 22-24 and let’s create technology that matters.
 
 {{> register-button}}
 <hr/>
-## Spirit of the Event 
-###   It is not just about what is achieved at a hackathon—it is about what we all together are helping to set in motion
-<div class="smaller-paragraphs">
 
-<div class="row">
-    <div class="6u">
-      <section>
-        <header>
-          <h3>SPREAD THE WORD</h3>
-        </header>
-        <p>At least 1.3 billion people don't have the full Bible in their own language. 7,000 languages are in the world, but only 2888 languages have even just some Scripture translated. Only 531 languages have the complete Bible. Millions of people are waiting for God's Word in the language of their heart. Christian organizations and churches across the globe have united in Vision 2025, the commitment to initiate a translation in all languages which still need the Bible by the year 2025. We have less than 10 years to fulfill our commitment.</p>
-
-God is on the move. Breakthrough techniques developed in just the past year are enabling the New Testament to be translated in as little as two weeks with pen and paper. Teams are deploying satellite internet to places that don't even have electricity in order to connect local churches with Bible scholars on other continents. Apps are being developed to equip persecuted Christians in the most difficult parts of the world.<br></br> 
-What is accomplished here will transform lives and change the world for Christ.What can you create to accelerate Bible translation? 
-
-
-      </section>
-    </div>
-    <div class="6u">
-      <section>
-        <header>
-          <h3>STRONGER & HEALTHIER MINISTRIES</h3>
-        </header>
-        <p>As ministries flourish, communities thrive and the whole land prospers. Let’s create technologies to increase the impact and reach of ministries, improve how ministry builds and fosters relationship with those who are served and those who serve, and equip leaders for the work of ministry. Bring innovation to all aspects of ministries and help The Church obtain operational excellence. 
-</p>
-
-          <h3>STRONGER & HEALTHIER RELATIONSHIPS</h3>
-        </header>
-        <p>Regardless of spiritual background, nationality, ethnicity, educational level, or economic status, we all desire deeper, better relationships.  Whether it is between a husband and wife, a parent and child, or the people on our street, we want to invest in those closest to us, but often lack the focus, access to resources, or the accountability necessary to make lasting progress.  But growth in these key relational areas could bring radical change to families, friendships, neighborhoods, communities, churches, and society.  Let’s create technology to cultivate and strengthen some of society's most foundational relationships: marriage, parenthood, family, friendships. 
-</p>
-      </section>
-    </div>
-  </div>
-
-
-  <div class="row">
-    <div class="6u">
-      <section>
-        <header>
-          <h3>ENGAGING AND RELEASING ALL OF US</h3>
-        </header>
-        <p>Every person has something unique to contribute to the community, society, and church. Yet, less than 20% of us are actively engaged in doing what we could do. Most of us do not understand how we can leverage our skills and ideas to improve the lives of others.
-
-What if we could discover how to use our unique gifts for God’s Kingdom? Build technologies to mobilize and equip every member of your community, church and family. Empower them to release their skills as well as to accelerate great ideas and initiatives that could transform the lives of the people on your community.</p></section>
-    </div>
-    <div class="6u">
-      <section>
-        <header>
-          <h3>SPIRITUAL FORMATION</h3>
-        </header>
-        <p>Every person has the right to receive God’s Word and discover His unconditional love, because only God’s truth has the ability to transform the heart and the mind. Join forces with other like minded individuals and create technologies that help reduce spiritual poverty in every nation, city, community, family, and individual.
-
-Build mobile applications to help children learn the Word of God, bury it in their hearts and share it with their friends. Create technologies for prayer, evangelism, mentorship, and other innovative means to spiritual formation.
-      </section>
-    </div>
-  </div>
-
-
-
-</div>
-
-
-
-{{> register-button}}
 
