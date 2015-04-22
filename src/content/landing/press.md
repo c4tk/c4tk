@@ -77,7 +77,7 @@ http://www.xconomy.com/texas/2015/03/25/code-for-the-kingdoms-hackathon-tackles-
     <div class="4u">
       <section>
         <a href="http://www.gospelherald.com/articles/48392/20130711/silicon-valley-hackathon-attracts-150-top-technologists-to-code-for-christian-missions.htm" target="_blank">
-          <img class="image fit" alt="gospel" src= "{{assets}}/images/press/gospelherald.jpg" >
+          <img class="image fit" alt="gospel" src= "{{assets}}/images/press/gospelherald.png" >
 
         </a>
       </section>
