@@ -45,6 +45,10 @@ questions:
   answer:
     No
 - question:
+    Are there any negotiated hotel rates I can use for lodging?
+  answer:
+    You can get a room at the Wingate by Wyndham Orlando International Airport for $78/night by using the special Rate Code LNWY as long as there are available rooms. Otherwise, there are plenty of hotels by the Orlando Airport, about 20 minutes away from the venue.
+- question:
     Will I meet my team members before the event?   
   answer:
     Possibly. You can use the Code for the Kingdom Google + Community at anytime to meet other participants, propose ideas, and recruit or be recruited into a team. But you can also bring your own team, or come alone and become part of a team at the hackathon.
