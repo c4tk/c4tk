@@ -14,7 +14,7 @@ Join us this May 22-24 and let’s create technology that matters.
 
 
 
-{{> register-button}}
+
 <hr/>
 
 
