@@ -55,7 +55,7 @@ events:
 - name:
     Houston, TX
   photo:
-    houston.jpg
+    Houston.jpg
   location:
 
   date:
@@ -65,7 +65,7 @@ events:
 - name:
     Jakarta, Indonesia
   photo:
-    jakarta.jpg
+    Jakarta.jpg
   location:
 
   date:
