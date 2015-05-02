@@ -1,0 +1,42 @@
+---
+component: event-header
+---
+<!-- Header -->
+<header id="header" class="alt">
+  <h1 id="logo"><a href="{{relative page.dest "dist/index.html"}}">{{ site.title }}</a></h1>
+  <nav id="nav">
+    <ul>
+      <li class="current"><a href="index.html">Home</a></li>
+      <li class="submenu">
+        <a href="">Event Menu</a>
+        <ul>
+          {{#each sections}}
+            {{#isnt this.title '(hidden)'}}
+            <li>
+              <a href="#{{this.path}}">{{ this.title }}</a>
+            </li>
+            {{/isnt}}
+          {{/each}}
+          <li class="submenu"><a href="#">Events</a>
+            <ul>
+              {{#each pages}}
+                {{#is data.event "latest"}}
+                <li>
+                  <a href="{{relative dest this.dest}}">{{data.title}}</a>
+                </li>
+                {{/is}}
+              {{/each}}
+            </ul>
+          </li>
+          {{#each pages}}
+            {{#is data.main true}}
+            <li>
+              <a href="{{relative dest this.dest}}">{{ data.title }}</a>
+            </li>
+            {{/is}}
+          {{/each}}
+        </ul>
+      </li>
+    </ul>
+  </nav>
+</header>

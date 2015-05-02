@@ -13,6 +13,10 @@
       <p>{{this.date}}</p>
        <p>{{this.location}}</p>
       <p>A Leadership Network Hackathon</p>
+      <br> </br>
+      <p>IN COLLABORATION WITH</p>
+      <img style="max-width:100%" src="{{assets}}/images/sponsors/{{this.logo}}"/>
+      <p></p>
       <footer>
         <ul class="buttons">
           <li><a href="#about.md" class="button fit scrolly">Tell Me More</a></li>
