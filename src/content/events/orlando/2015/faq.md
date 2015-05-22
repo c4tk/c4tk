@@ -57,10 +57,6 @@ questions:
   answer:
     You can build on top of something you have, but whatever you present must have new code developed for at least one of the challenges of the hackathon and you must do some of that coding at the hackathon venue during the hackathon hours.
 - question:
-    Won’t other teams who are building on top of technologies they already developed, not have an unfair advantage over me who plans to start coding during the actual hackathon hours?   
-  answer:
-    We don’t think so. There will be separate awards for teams that present solutions built on their existing technologies, and for teams that start fresh at the hackathon. We want to honor all of you, regardless of whether you have been working for a while on something you are passionate about, or whether you decide on something brand new.
-- question:
     Do I have to work non-stop?
   answer:
     No. The work space will be available non-stop entire durantion of the hackathon but it is up to you and your team to decide on your work schedule.
@@ -75,27 +71,16 @@ questions:
 - question:
     What's the format of the final presentation?   
   answer:
-    Each team will have 3 minutes for their demo and 2 minutes to answer questions from the judges.
+    Each team will have 3 minutes for their demo and 2 minutes to answer questions.
 - question:
     Who will be in attendance at the final presentations?   
   answer:
-    The final screening is public, although space is limited. Expect a mixture of participants, hi-tech executives, venture capitalists and angels, ministry and non-profit leaders, press, and observers.
-- question:
-    Will there be awards given?
-  answer:
-    Yes, but these are non-cash awards.
+    The final screening is public, although space is limited.
 - question:
     What's the hashtag?   
   answer:
     \#C4TK 
-- question:
-    Who is on the Jury?   
-  answer:
-    The jury’s composition will be announced closer to the date of the hackathon.
-- question:
-    What are the judging criteria?   
-  answer:
-    The judges will consider Kingdom impact, viability, innovativeness / originality, and completeness.   
+
 ---
 ## <i class="icon fa-question-circle"></i> FAQ
 {{#each questions}}

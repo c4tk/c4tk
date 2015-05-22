@@ -24,4 +24,3 @@ Meet with Mentors is a great opportunity to connect with industry experts who ca
 {{/compose}}
 </div>
 
-{{> register-button}}

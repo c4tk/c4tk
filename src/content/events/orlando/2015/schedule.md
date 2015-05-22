@@ -41,7 +41,7 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>12:00 AM - 11:59 PM</strong></td><td class="column-2">Creating</td>
+  <td class="column-1"><strong>12:00 AM - 11:59 PM</strong></td><td class="column-2">Hacking</td>
 </tr>
 <tr class="row-3 odd">
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
@@ -70,7 +70,7 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>12:00 AM - 2:15 PM</strong></td><td class="column-2">Creating</td>
+  <td class="column-1"><strong>12:00 AM - 2:15 PM</strong></td><td class="column-2">Hacking</td>
 <tr class="row-3 even">
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
@@ -81,21 +81,15 @@
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
 <tr class="row-6 odd">
-  <td class="column-1"><strong>1:00 PM</strong></td><td class="column-2">Presentation Walk-thru &amp; Judges Make Rounds</td>
+  <td class="column-1"><strong>1:00 PM</strong></td><td class="column-2">Presentation Walk-thru &amp</td>
 </tr>
 <tr class="row-7 even">
   <td class="column-1"><strong>2:30 PM</strong></td><td class="column-2">Team Presentations Begin (3 min max presentation, 2 min max Q&amp;A)</td>
 </tr>
 <tr class="row-8 odd">
-  <td class="column-1"><strong>4:30 PM </strong></td><td class="column-2">Judges adjourn</td>
+  <td class="column-1"><strong>5:00 PM</strong></td><td class="column-2">Celebration Ceremony</td>
 </tr>
 <tr class="row-9 even">
-  <td class="column-1"><strong>4:50 PM</strong></td><td class="column-2">Call-back</td>
-</tr>
-<tr class="row-10 odd">
-  <td class="column-1"><strong>5:00 PM</strong></td><td class="column-2">Awards Ceremony</td>
-</tr>
-<tr class="row-11 even">
   <td class="column-1"><strong>5:30 PM</strong></td><td class="column-2">Closing</td>
 </tr>
 </tbody>
