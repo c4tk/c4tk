@@ -1,6 +1,16 @@
 ---
 events:
 - name:
+    Orlando May 22-24, 2015
+  photo:
+    orlando.jpg
+  location:
+    Wycliffe Associates, 11450 Translation Way, Orlando, FL
+  date:
+    May 22-24, 2015 
+  link:
+    orlando2015.html
+- name:
     Dallas/Fort Worth March 20-22, 2015
   photo:
     dallas.jpg

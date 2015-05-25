@@ -1,17 +1,5 @@
 ---
-events:
-- name:
-    Orlando May 22-24, 2015
-  photo:
-    orlando.jpg
-  location:
-    Wycliffe Associates, 11450 Translation Way, Orlando, FL
-  date:
-    May 22-24, 2015 
-  link:
-    orlando2015.html
-    
-
+events: 
 - name:
     Global Weekend Oct 2-4, 2015 
   photo:
