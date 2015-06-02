@@ -163,7 +163,7 @@ events:
 
 <section class="wrapper style3 container special-alt">
   <header class="major">
-    <h2><strong>Global Weeekend Participating Cities</strong></h2>
+    <h2><strong>Global Hackathon Participating Cities</strong></h2>
   </header>
   <div class="row">
     {{#each events}}

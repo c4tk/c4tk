@@ -1,7 +1,7 @@
 ---
 events: 
 - name:
-    Global Weekend Oct 2-4, 2015 
+    Global Hackathon Oct 2-4, 2015 
   photo:
     global_weekend.jpg
   location:
