@@ -8,9 +8,9 @@ events:
   location:
 
   date:
-
+    Oct 2-4, 2015
   link:
-
+    addisababa2015G.html
 - name:
     Albuquerque, NM 
   photo:
@@ -18,9 +18,9 @@ events:
   location:
 
   date:
-
+    Oct 2-4, 2015
   link:
-
+   Albuquerque2015G.html
 - name:
     Atlanta, GA
   photo:
@@ -28,9 +28,9 @@ events:
   location:
 
   date:
-
+    Oct 2-4, 2015
   link:
-
+   Atlanta2015G.html
 - name:
     Bangalore, India 
   photo:
@@ -38,8 +38,9 @@ events:
   location:
 
   date:
-
+    Oct 2-4, 2015
   link:
+   bangalore2015G.html
 
 
 - name:
@@ -49,9 +50,9 @@ events:
   location:
 
   date:
-
+    Oct 2-4, 2015
   link:
-
+   guatemala2015G.html
 - name:
     Houston, TX
   photo:
@@ -59,9 +60,9 @@ events:
   location:
 
   date:
-
+    Oct 2-4, 2015
   link:
-
+   houston2015G.html
 - name:
     Jakarta, Indonesia
   photo:
@@ -69,9 +70,9 @@ events:
   location:
 
   date:
-
+    Oct 2-4, 2015
   link:
-
+    jakarta2015G.html
 - name:
     Kansas City, MO
   photo:
@@ -79,9 +80,9 @@ events:
   location:
 
   date:
- 
+    Oct 2-4, 2015 
   link:
-
+    kansascity2015G.html
 
 - name:
     London, England
@@ -90,9 +91,9 @@ events:
   location:
 
   date:
- 
+    Oct 2-4, 2015 
   link:
-
+    london2015G.html
 
 - name:
     Los Angeles, CA
@@ -101,9 +102,9 @@ events:
   location:
 
   date:
- 
+    Oct 2-4, 2015 
   link:
-    
+    losangeles2015G.html    
 
 - name:
     Nairobi, Kenya
@@ -112,9 +113,9 @@ events:
   location:
 
   date:
-
+    Oct 2-4, 2015
   link:
-
+    nairobi2015G.html   
 - name:
     Orlando, FL 
   photo:
@@ -122,9 +123,9 @@ events:
   location:
 
   date:
-
+    Oct 2-4, 2015
   link:
-
+    orlando2015G.html
 
 - name:
     Raleigh,NC
@@ -133,9 +134,9 @@ events:
   location:
 
   date:
-
+    Oct 2-4, 2015
   link:
-
+    raleigh2015G.html
 - name:
     Seattle, WA
   photo:
@@ -143,9 +144,9 @@ events:
   location:
 
   date:
- 
+    Oct 2-4, 2015 
   link:
-
+    seattle2015G.html
 - name:
     Waterloo, Canada
   photo:
@@ -153,9 +154,9 @@ events:
   location:
 
   date:
- 
+    Oct 2-4, 2015 
   link:
-
+    waterloo2015G.html
     
 ---
 

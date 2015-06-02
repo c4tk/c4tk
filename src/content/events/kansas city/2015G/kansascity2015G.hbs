@@ -1,0 +1,35 @@
+---
+title: Kansas City 2015
+date: Oct 2 - 4, 2015
+location: 
+logo: indigitous.png
+event: 
+customBanner: banner.md
+cwd: src/content/events/kansas city/2015g/
+layout: src/templates/layouts/global.hbs
+registrationLink: 
+sections:
+- path:
+    about.md
+  title:
+    About
+- path:
+    beapart.md
+  title:
+    Be a part of it
+- path:
+    footer.md
+  title:
+    (hidden)
+---
+{{#each sections}}
+<section class="wrapper container style4" id="{{this.path}}">
+<div>
+{{#markdown}}
+{{#compose cwd=../../cwd src=../this.path}}
+{{{@content}}}
+{{/compose}}
+{{/markdown}}
+</div>
+</section>
+{{/each}}
