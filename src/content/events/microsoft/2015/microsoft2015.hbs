@@ -1,0 +1,61 @@
+---
+title: Microsoft 2015
+location: The Garage Microsoft Building 27 3009 157th Pl NE, Redmond, WA 98052
+date: July 10-11th, 2015
+event: latest
+cwd: src/content/events/microsoft/2015/
+layout: src/templates/layouts/event.hbs
+registrationLink: https://www.eventbrite.com/e/code-for-the-kingdom-microsoft-tickets-17434440882
+sections:
+- path:
+    about.md
+  title:
+    About
+- path:
+    schedule.md
+  title:
+    Hackathon Schedule
+- path:
+    prayathon-schedule.md
+  title:
+    Prayathon Schedule
+- path:
+    kids-hack-schedule.md
+  title:
+    Kids Hack Schedule
+- path:
+    challenges.md
+  title:
+    Challenge
+- path:
+    mentors.md
+  title:
+    Mentors
+- path:
+    organizers.md
+  title:
+    Organizers
+- path:
+    sponsors.md
+  title:
+    Sponsors
+- path:
+    faq.md
+  title:
+    FAQ
+- path:
+    footer.md
+  title:
+    (hidden)
+---
+{{#each sections}}
+<section class="wrapper container style4" id="{{this.path}}">
+<div>
+{{#markdown}}
+{{#compose cwd=../../cwd src=../this.path}}
+{{{@content}}}
+{{/compose}}
+{{/markdown}}
+</div>
+</section>
+{{/each}}
