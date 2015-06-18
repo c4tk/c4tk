@@ -46,7 +46,7 @@
   <td class="column-1"><strong>7:00 PM - 8:00 PM</strong></td><td class="column-2">Show &amp; Tell</td>
 </tr>
 <tr class="row-14 even">
-  <td class="column-1"><strong>8:30 PM - 10:00 PM</strong></td><td class="column-2">Awards + Games + Worship</td>
+  <td class="column-1"><strong>8:30 PM - 10:00 PM</strong></td><td class="column-2">Worship + Prayer + Commissioning</td>
 </tr>
 </tbody>
 </table>

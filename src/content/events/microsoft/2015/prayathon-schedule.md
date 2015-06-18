@@ -60,7 +60,7 @@ We are called as marketplace ministers bringing miracles to transform Microsoft 
   <td class="column-1"><strong>9:00 AM - 9:30 AM</strong></td><td class="column-2">Worship</td>
 </tr>
 <tr class="row-8 even">
-  <td class="column-1"><strong>9:30 AM - 10:30 AM</strong></td><td class="column-2">Panel Discussion</td>
+  <td class="column-1"><strong>9:30 AM - 10:30 AM</strong></td><td class="column-2">Keynote</td>
 </tr>
 <tr class="row-9 odd">
   <td class="column-1"><strong>10:30 AM - 12:00 PM</strong></td><td class="column-2">Prayathon Slot 7</td>

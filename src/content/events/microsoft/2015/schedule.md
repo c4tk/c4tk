@@ -48,7 +48,7 @@
   <td class="column-1"><strong>9:00 AM - 9:30 AM</strong></td><td class="column-2">Worship</td>
 </tr>
 <tr class="row-5 odd">
-  <td class="column-1"><strong>9:30 AM - 10:30 AM</strong></td><td class="column-2">Panel Discussion</td>
+  <td class="column-1"><strong>9:30 AM - 10:30 AM</strong></td><td class="column-2">Keynote</td>
 </tr>
 <tr class="row-6 even">
   <td class="column-1"><strong>10:30 AM - 12:00 PM</strong></td><td class="column-2">Hacking</td>
@@ -69,7 +69,7 @@
   <td class="column-1"><strong>7:00 PM - 8:00 PM</strong></td><td class="column-2">Show &amp; Tell</td>
 </tr>
 <tr class="row-10 even">
-  <td class="column-1"><strong>8:00 PM - 9:00 PM</strong></td><td class="column-2">Closing ceremony</td>
+  <td class="column-1"><strong>8:00 PM - 9:00 PM</strong></td><td class="column-2">Keynote</td>
 </tr>
 <tr class="row-11 odd">
   <td class="column-1"><strong>9:00 PM - 10:00 PM</strong></td><td class="column-2">Worship + Prayer + Commissioning</td>
