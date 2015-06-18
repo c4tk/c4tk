@@ -22,12 +22,6 @@ In case you are already interested or working on a project, don’t change cours
 {{#markdown}}
 {{{@content}}}
 {{/markdown}}
-
-    <h3>Champions</h3>
-    {{#each champions}}
-      <a href="{{this.url}}">
-      <img src="{{../assets}}/images/sponsors/{{this.logo}}" alt="{{this.name}}"/></a>
-    {{/each}}
     </div>
   </div>
 </div>

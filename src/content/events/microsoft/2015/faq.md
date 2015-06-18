@@ -1,13 +1,13 @@
 ---
 questions:
 - question:
-    What's a hackathon, a Film Challenge, and a Game Jam?
+    What's a hackathon?
   answer:
-    A hackathon is an event where people get together and develop some awesome technologies, and in this case films (Film Challenge) and games (Game Jam), in a short time span. Think of it as a creative marathon where at the end you have some product to show for.
+    A hackathon is an event where people get together and develop some awesome technologies in a short time span. Think of it as a creative marathon where at the end you have some product to show for.
 - question:
     Who is organizing the 2015 Code for the Kingdom at Microsoft event?
   answer:
-    The Create for the Kingdom Austin event is being organized by Leadership Network with the collaboration of the Austin Christian Technologists and Entrepreneurs meetup group.
+    It is being organized by MMFM @ Microsoft (Marketplace Missionaries For Frontier Mission) in collaboration with Leadership Network and TheoTech.
 - question:
     What is this event trying to accomplish?
   answer:
@@ -17,13 +17,13 @@ questions:
   answer:
     Yes, absolutely. 
 - question:
-    What if I am not a technologist, a filmmaker, or a game designer/developer?
+    What if I am not a technologist?
   answer:
     Everyone has something to offer to help transform lives. If you come full of ideas there will be others eager to be in a team with you.
 - question:
     Is food provided?   
   answer:
-    Yes – We will provide dinner on Friday Sep 12th, breakfast, lunch, and dinner on Saturday Sep 13th, and breakfast, and lunch on Sunday the Sep 14th.
+    Yes – We will provide dinner on Friday Jul 10th and breakfast, lunch, and dinner on Saturday Jul 11th.
 - question:
     I can’t stay the entire time, can I still participate?   
   answer:
@@ -45,13 +45,9 @@ questions:
   answer:
     You can build on top of something you have, but whatever you present must be in alignment with the event theme and have something new created for at least one of the challenges or projects of the event and you must do some of that work at the venue during the event hours.
 - question:
-    Won’t other teams who are building on top of their existing works, have an unfair advantage over me who plans to start creating during the actual event hours?   
-  answer:
-    We don’t think so. There will be separate prizes, but of similar amount, for teams that present projects built on their existing works, and for teams that start fresh at the event. We want to honor all of you, regardless of whether you have been working for a while on something you are passionate about, or whether you decide on something brand new.
-- question:
     Do I have to work non-stop?
   answer:
-    No. The work space will be available non-stop (the entire hackathon 47) but it is up to you and your team to decide on your work schedule.
+    No. The work space will be available non-stop (the entire hackathon) but it is up to you and your team to decide on your work schedule.
 - question:
     Who owns the IP of what we make?   
   answer:
@@ -63,23 +59,11 @@ questions:
 - question:
     What's the format of the final presentation?   
   answer:
-    Each filmmaking team will have 5 minutes to show its creation, with no questions from the judgers. Technology and games teams will have 3 minutes for their demo and 2 minutes to answer questions from the judges.
-- question:
-    Who will be in attendance at the final presentations?   
-  answer:
-    The final screening is public, although space is limited. Expect a mixture of participants, hi-tech executives, filmmakers, venture capitalists and angels, ministry and non-profit leaders, press, and observers.
+    Each team will have 3 minutes for their demo and 2 minutes to answer questions from the judges.
 - question:
     What's the hashtag?   
   answer:
     \#C4TK 
-- question:
-    Who is on the Jury?   
-  answer:
-    The jury’s composition will be announced closer to the date of the event.
-- question:
-    What are the judging criteria?   
-  answer:
-    The judges will consider Kingdom impact, viability, innovativeness / originality, and completeness.   
 ---
 ## <i class="icon fa-question-circle"></i> FAQ
 {{#each questions}}

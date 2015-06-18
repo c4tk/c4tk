@@ -1,6 +1,6 @@
 ## <i class="icon fa-clock-o"></i> Kid's Hackathon Schedule
 
-<p style="text-align: justify;">This venue will remain open around the clock. Participants are encouraged to utilize the facility and take advantage of the meals and healthy hacker activities day and night, if desired.</p>
+<p style="text-align: justify;">When God calls us for His vision and mission, he often calls our entire household to carry forth His mission. Children are like arrows in a warrior's hand. Jesus also said "Let the little children come to me." In this track, kids will learn how to code and how to code for the Kingdom. They will also learn how technologies can help create miracles transforming the world and how it can bring the gospel to all nations. This track is open to kids of MS FTEs, from 1-6th grade, and they must be supervised by their parent/guardian at all times throughout the event.</p>
 
 <table class="default">
 <thead>
