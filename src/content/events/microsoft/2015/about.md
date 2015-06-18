@@ -1,7 +1,7 @@
 ## <i class="icon fa-book"></i> About
 ---
 <img src="{{assets}}/images/events/c4tk_microsoft.png" style="float:right"/>
-Code for the Kingdom @ Microsoft is a weekend event held at Microsoft inviting all Microsoft FTEs, interns, and guests. With the theme of “Tackling the Giants through Marketplace Miracles,” we will have three separate tracks: (1) traditional hack-a-thon (MS FTEs and interns only) (2) pray-a-thon (open to guests) and (3) kids’ hackathon (for kids of MS FTEs, 1-6th grade).
+<p style="margin-right: 20px">Code for the Kingdom @ Microsoft is a weekend event held at Microsoft inviting all Microsoft FTEs, interns, and guests. With the theme of “Tackling the Giants through Marketplace Miracles,” we will have three separate tracks: (1) traditional hack-a-thon (MS FTEs and interns only) (2) pray-a-thon (open to guests) and (3) kids’ hackathon (for kids of MS FTEs, 1-6th grade).</p>
  
 We are called as marketplace ministers bringing miracles to transform Microsoft and other workplaces, communities, cities, and nations. Also, we as a marketplace professional play a special role in frontier missions reaching the unreached with technology and business. How can technology help create miracles in the marketplace to tackle the “Giants” in our society? The “Giants” can be societal ills, injustice, all forms of obstacles to bring transformation in our communities, cities and nations. How can technology help bring the Kingdom forward in creative access countries?
  

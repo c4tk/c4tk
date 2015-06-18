@@ -1,7 +1,7 @@
 ## <i class="icon fa-clock-o"></i> Prayathon Schedule
 
 <p style="text-align: justify;">
-We are called as marketplace ministers bringing miracles to transform Microsoft and other communities, our cities, and nations. In order to fulfill our calling, we need God's heart, God's vision and God's power. As a body of Christ in Microsoft, we will seek God's face together. This track also will include praise and worship, intercessory prayer, teachings on marketplace ministry and frontier missions, testimonies of marketplace miracles, and more! This track is open to all Microsoft FTEs, interns, and guests. If you want to be a worship leader or prayer facilitator, please <a href="http://1drv.ms/1JVwxAb">sign up here</a>.</p>
+We are called as marketplace ministers bringing miracles to transform Microsoft and other communities, our cities, and nations. In order to fulfill our calling, we need God's heart, God's vision and God's power. As a body of Christ in Microsoft, we will seek God's face together. This track also will include praise and worship, intercessory prayer, teachings on marketplace ministry and frontier missions, testimonies of marketplace miracles, and more! This track is open to all Microsoft FTEs, interns, and guests. If you want to be a worship leader or prayer facilitator, please <a href="http://1drv.ms/1JVwxAb" target="_blank">sign up here</a>.</p>
 <table class="default">
 <thead>
 <tr class="row-1 odd">

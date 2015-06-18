@@ -26,7 +26,7 @@
   <td class="column-1"><strong>8:15 PM - 8:30 PM</strong></td><td class="column-2">Pitch Your Own Projects </td>
 </tr>
 <tr class="row-7">
-  <td class="column-1"><strong>8:30 PM - 11:59 PM</strong></td><td class="column-2">team Formation/Hack Away</td>
+  <td class="column-1"><strong>8:30 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Hack Away</td>
 </tr>
 </tbody>
 </table>

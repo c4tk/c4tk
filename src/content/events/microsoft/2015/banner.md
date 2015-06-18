@@ -10,10 +10,9 @@
       <header>
         <h2>Code for the Kingdom<br/>&nbsp;{{this.title}}</h2>
       </header>
-      <img style="max-width:100%" src="{{assets}}/images/banners/{{this.logo}}"/>
       <p>{{this.location}}</p>
       <p>{{this.date}}</p>
-      <p>A Leadership Network Hackathon</p>
+      <p>An MMFM Hackathon</p>
       <footer>
         <ul class="buttons">
           <li><a href="#about.md" class="button fit scrolly">Tell Me More</a></li>

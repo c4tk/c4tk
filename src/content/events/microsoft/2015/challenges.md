@@ -8,6 +8,8 @@ Here are the challenges to get you started. Please remember that more challenges
 
 In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the Transforming Lives Theme of the event. Please come prepared to pitch your project at the event so that you can recruit teams to work on them.
 
+__TBD__
+
 {{#compose src="*.md" cwd=cwd}}
 <div class="row">
   <div class="3u">
