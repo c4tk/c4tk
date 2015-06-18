@@ -10,7 +10,16 @@ events:
     Oct 2-4, 2015 
   link:
    global2015.html
-    
+- name:
+    C4TK @ Microsoft July 10-11, 2015
+  photo:
+    microsoft_logo_for_main.jpg
+  location:
+    \"The Garage\" at Microsoft
+  date:
+    July 10-11, 2015
+  link:
+    microsoft2015.html    
 ---
 
 
