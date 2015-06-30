@@ -1,8 +1,8 @@
 ## <i class="icon fa-clock-o"></i> Prayathon Schedule
 
 <p style="text-align: justify;">
-We are called as marketplace ministers bringing miracles to transform Microsoft and other communities, our cities, and nations. In order to fulfill our calling, we need God's heart, God's vision and God's power. As a body of Christ in Microsoft, we will seek God's face together. This track also will include praise and worship, intercessory prayer, teachings on marketplace ministry and frontier missions, testimonies of marketplace miracles, and more! This track is open to all Microsoft FTEs, interns, and guests. If you want to be a worship leader or prayer facilitator, please <a href="http://1drv.ms/1TBjkQ1" target="_blank">sign up here</a>.</p>
-<p>This venue will remain open around the clock. Participants are encouraged to utilize the facility and take advantage of the meals and endless snacks, healthy activities day and night, if desired. Feel free to bring your pajama or comfies, toiletries, sleeping bag, pillow, blanket, etc for overnight prayer. There are shower facilities and towels in the building. </p>
+As a body of Christ in Microsoft, we will seek God&quot;s face together and tackle the Giants through our prayer. This track includes praise and worship, intercessory prayer, teachings, and testimonies! Open to all Microsoft FTEs, interns, and guests. 
+</p>
 <table class="default">
 <thead>
 <tr class="row-1 odd">
@@ -41,13 +41,7 @@ We are called as marketplace ministers bringing miracles to transform Microsoft 
   <td class="column-1"><strong>8:30 PM - 9:00 PM</strong></td><td class="column-2">Orientation for Prayathon and Ice-breaking</td>
 </tr>
 <tr>
-  <td><strong>9:00 PM - 10:00 PM</strong></td><td>Prayathon Slot 1</td>
-</tr>
-<tr class="row-11">
-  <td class="column-1"><strong>10:00 PM - 11:00 PM</strong></td><td class="column-2">Prayathon Slot 2</td>
-</tr>
-<tr>
-  <td class="column-1"><strong>11:00 PM - 12:00 AM</strong></td><td class="column-2">Prayathon Slot 3</td>
+  <td><strong>9:00 PM - 11:59 PM</strong></td><td>Prayathon</td>
 </tr>
 </tbody>
 </table>
@@ -60,26 +54,7 @@ We are called as marketplace ministers bringing miracles to transform Microsoft 
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>12:00 AM - 1:00 AM</strong></td><td class="column-2">Prayathon Slot 4
-</td>
-</tr>
-<tr>
-  <td class="column-1"><strong>1:00 AM - 2:00 AM</strong></td><td class="column-2">Prayathon Slot 5</td>
-</tr>
-<tr class="row-3 odd">
-  <td class="column-1"><strong>2:00 AM - 3:00 AM</strong></td><td class="column-2">Prayathon Slot 6</td>
-</tr>
-<tr class="row-4 even">
-  <td class="column-1"><strong>3:00 AM - 4:00 AM</strong></td><td class="column-2">Prayathon Slot 7</td>
-</tr>
-<tr class="row-5 odd">
-  <td class="column-1"><strong>4:00 AM - 5:00 AM</strong></td><td class="column-2">Prayathon Slot 8</td>
-</tr>
-<tr>
-  <td><strong>5:00 AM - 6:00 AM</strong></td><td>Prayathon Slot 9</td>
-</tr>
-<tr>
-  <td><strong>6:00 AM - 7:00 AM</strong></td><td>Devotional and Prayer</td>
+  <td class="column-1"><strong>12:00 AM - 7:00 AM</strong></td><td class="column-2">Prayathon</td>
 </tr>
 <tr class="row-6 even">
   <td class="column-1"><strong>7:00 AM - 8:00 AM</strong></td><td class="column-2">Breakfast</td>

@@ -70,7 +70,7 @@
 </table>
 
 {{> register-button}}
-
+<br/>
 ## Special Instruction for Parents of Kid’s Hackathon 
 We are excited to have your kids participating in the Kid’s Hackathon! You must be MS FTEs and you will be asked to sign a “Release for a Minor” document when you check-in. To comply with the company policy, please ensure to supervise them at all times throughout the event. Also, please make sure each of your children to bring a laptop. Loaner laptops will be available upon request, but the number is limited. Looking forward to seeing you and your wonderful children!
 
