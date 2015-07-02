@@ -96,4 +96,5 @@
 </tbody>
 </table>
 
-{{> register-button}}
+{{> register-button}}<br/>
+<a href="http://www.instant.ly/s/utJKp" class="button small special" target="_blank">Order Food</a>

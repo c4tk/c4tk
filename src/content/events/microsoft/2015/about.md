@@ -13,6 +13,7 @@ For the pray-a-thon track (July 10-11), there will be praise and worship, interc
 
 For kids’ hack-a-thon (only July 11 9am-10pm), kids will learn how to code and they will pursue ideas that would also tackle the Giants! This fun kids-centered event will teach how technology can  facilitate miracles in the world. They will also learn about unreached people groups and nations, how they can pray for and how to help them. 
 
-<br>
+<br/>
 {{> register-button}}
-
+<br/>
+<a href="http://www.instant.ly/s/utJKp" class="button small special" target="_blank">Order Food</a>
