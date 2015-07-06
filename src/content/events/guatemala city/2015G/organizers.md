@@ -25,4 +25,7 @@ Meet your Local Organizers.
 {{/compose}}
 </div>
 
+<h3>Your Local Organizers' vision for the Guatemala City hackathon </h3>
+<blockquote>"Our vision is to provide opportunities for communities around the world so they can participate and showcase innovation and entrepreneurship projects in their communities. We expect the participation of over 1000 people and thus address a number of challenges intended to help free the oppressed, to teach the Word of God, to heal the sick, feed the hungry, clothe the naked and support the church and the body of Christ." - Your Local Organizers</blockquote>
+
 

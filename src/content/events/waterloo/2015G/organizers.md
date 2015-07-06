@@ -25,4 +25,5 @@ Meet your Local Organizers.
 {{/compose}}
 </div>
 
-
+<h3>Your Local Organizers' vision for the Waterloo hackathon </h3>
+<blockquote>"As Canada's high tech and innovation center, we want to bring together the best and brightest to spend the weekend hacking for Jesus." - Your Local Organizers</blockquote>

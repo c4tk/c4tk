@@ -25,4 +25,5 @@ Meet your Local Organizers.
 {{/compose}}
 </div>
 
-
+<h3>Your Local Organizers' vision for the Seattle hackathon </h3>
+<blockquote>"We want Code for the Kingdom in Seattle to be an inspiring foretaste of God's Kingdom where believers work together to use their gifts in technology, design, entrepreneurship, and every other discipline to deliver amazing and creative solutions that demonstrate the love of Christ for the world." - Your Local Organizers</blockquote>

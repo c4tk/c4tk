@@ -25,4 +25,6 @@ Meet your Local Organizers.
 {{/compose}}
 </div>
 
+<h3>Your Local Organizers' vision for the Los Angeles hackathon </h3>
+<blockquote>"LA is the media and entertainment capital of the world. We would like to explore how tech and media can advance the kingdom of God and support the Great Commission.  In this first ever kingdom hackathon we would like to build a community of world change agents from a diverse backgrounds that truly reflect the redeeming character and history of this City of Angeles." - Your Local Organizers</blockquote>
 
