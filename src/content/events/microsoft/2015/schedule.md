@@ -25,7 +25,7 @@
   <td class="column-1"><strong>6:45 PM - 7:00 PM</strong></td><td class="column-2">Opening Remarks by Diane Hoeft from Shopvolution</td>
 </tr>
 <tr>
-  <td><strong>7:00pm - 7:45 PM</strong></td><td>Keynote: &quot;Tackling the Giants through Marketplace Miracles&quot; by Kim Wilson from CocoaFuture</td>
+  <td><strong>7:00pm - 7:45 PM</strong></td><td>Keynote: &quot;Tackling the Giants through Marketplace Miracles&quot; by Kim Wilson from Rep</td>
 </tr>
 <tr class="row-5">
   <td class="column-1"><strong>7:45 PM - 8:00 PM</strong></td><td class="column-2">Official Challenges Presentations</td>
