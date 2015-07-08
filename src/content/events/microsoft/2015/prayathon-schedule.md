@@ -26,7 +26,7 @@ As a body of Christ in Microsoft, we will seek God&quot;s face together and tack
   <td><strong>6:45 PM - 7:00 PM</strong></td><td>Opening Remarks by Diane Hoeft from Shopvolution</td>
 </tr>
 <tr>
-  <td><strong>7:00 PM - 7:45 PM</strong></td><td>Keynote: &quot;Tackling the Giants through Marketplace Miracles&quot; by Kim WIlson from CocoaFuture</td>
+  <td><strong>7:00 PM - 7:45 PM</strong></td><td>Keynote: &quot;Tackling the Giants through Marketplace Miracles&quot; by Kim WIlson from Rep</td>
 </tr>
 <tr class="row-5">
   <td class="column-1"><strong>7:45 PM - 8:00 PM</strong></td><td class="column-2">Official Challenge Presentations</td>
