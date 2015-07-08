@@ -50,17 +50,17 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>12:00 AM - 7:00 AM</strong></td><td class="column-2">Hacking Continues</td>
+  <td class="column-1"><strong>12:00 AM - 7:30 AM</strong></td><td class="column-2">Hacking Continues</td>
 </tr>
 <tr class="row-3 odd">
-  <td class="column-1"><strong>7:00 AM - 8:00 AM</strong></td><td class="column-2">Breakfast</td>
+  <td class="column-1"><strong>7:30 AM - 8:20 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
 <tr>
-  <td><strong>8:15 AM - 8:45 AM</strong></td><td>Praise &amp; Worship</td>
+  <td><strong>8:30 AM - 9:00 AM</strong></td><td>Praise &amp; Worship</td>
 </tr>
 <tr>
 <tr class="row-4 even">
-  <td class="column-1"><strong>8:45 AM - 10:00 AM</strong></td><td class="column-2">Keynote: &quot;Not my Vision but His Vision&quot; by Ishmael Lim from INTERCP</td>
+  <td class="column-1"><strong>9:00 AM - 10:30 AM</strong></td><td class="column-2">Keynote: &quot;Not my Vision but His Vision&quot; by Ishmael Lim from INTERCP</td>
 </tr>
 </tr>
 <tr class="row-6 even">
@@ -76,22 +76,22 @@
   <td class="column-1"><strong>5:00 PM - 6:00 PM</strong></td><td class="column-2">Dinner</td>
 </tr>
 <tr>
-  <td><strong>5:15 PM - 6:00 PM</strong></td><td>Dinner Talk: Marketplace Miracles Show-case 1 2 3</td>
+  <td><strong>5:15 PM - 5:55 PM</strong></td><td>Dinner Talk: Marketplace Miracles Show-cases</td>
 </tr>
 <tr class="row-10 even">
-  <td class="column-1"><strong>6:15 PM - 6:45 PM</strong></td><td class="column-2">Praise and Worship</td>
+  <td class="column-1"><strong>6:00 PM - 6:30 PM</strong></td><td class="column-2">Praise and Worship</td>
 </tr>
 <tr class="row-11 odd">
-  <td class="column-1"><strong>6:45 PM - 7:45 PM</strong></td><td class="column-2">Show &amp; Tell by Hackathon, Prayathon, Kid&apos;s Hackathon Participants</td>
+  <td class="column-1"><strong>6:30 PM - 7:15 PM</strong></td><td class="column-2">Show &amp; Tell by Hackathon, Prayathon, Kid&apos;s Hackathon Participants</td>
 </tr>
 <tr>
-  <td><strong>7:45 PM - 8:00 PM</strong></td><td>Judges Adjorn / Participant Survey</td>
+  <td><strong>7:15 PM - 7:30 PM</strong></td><td>Judges Adjorn / Participant Survey</td>
 </tr>
 <tr class="row-10 even">
-  <td class="column-1"><strong>8:00 PM - 8:30 PM</strong></td><td class="column-2">Keynote: &quot;Unleashing the Power: From the Marketplace to All Nations&quot;</td>
+  <td class="column-1"><strong>7:30 PM - 8:00 PM</strong></td><td class="column-2">Keynote: &quot;Unleashing the Power: From the Marketplace to All Nations&quot;</td>
 </tr>
 <tr class="row-11 odd">
-  <td class="column-1"><strong>8:30 PM - 9:30 PM</strong></td><td class="column-2">Awards, Celebration and Commissioning</td>
+  <td class="column-1"><strong>8:00 PM - 9:00 PM</strong></td><td class="column-2">Awards, Celebration and Commissioning</td>
 </tr>
 </tbody>
 </table>

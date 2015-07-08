@@ -57,7 +57,7 @@ questions:
 - question:
     Will there be prizes?
   answer:
-    This will be announced soon!
+    Yes! As long as there are more than 3 teams, we will give $500 to the winning team. 
 - question:
     I am participating in the Hackathon Track (Track 1). What do I need to bring?
   answer:

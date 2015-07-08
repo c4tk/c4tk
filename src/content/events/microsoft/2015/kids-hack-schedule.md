@@ -10,61 +10,55 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>9:00 AM - 9:30 AM</strong></td><td class="column-2">Breakfast &amp; Registration</td>
+  <td class="column-1"><strong>9:15 AM - 10:00 AM</strong></td><td class="column-2">Breakfast &amp; Registration</td>
 </tr>
 <tr class="row-3 odd">
-  <td class="column-1"><strong>9:30 AM - 9:45 AM</strong></td><td class="column-2">Orientation for Parents</td>
+  <td class="column-1"><strong>10:00 AM - 10:15 AM</strong></td><td class="column-2">Orientation for Parents</td>
 </tr>
 <tr class="row-4 even">
-  <td class="column-1"><strong>9:45 AM - 10:30 AM</strong></td><td class="column-2">Icebreaker and Team Formation</td>
+  <td class="column-1"><strong>10:15 AM - 10:35 AM</strong></td><td class="column-2">Icebreaker and Team Formation</td>
 </tr>
 <tr class="row-5 odd">
-  <td class="column-1"><strong>10:30 AM - 10:50 AM</strong></td><td class="column-2">Fun Songs</td>
+  <td class="column-1"><strong>10:35 AM - 10:50 AM</strong></td><td class="column-2">Praise and Worship</td>
 </tr>
 <tr>
-  <td><strong>10:50 AM - 11:10 AM</strong></td><td>Keynote: &quot;Code for Miracles&quot;</td>
+  <td><strong>10:50 AM - 11:05 AM</strong></td><td>Keynote: &quot;Code for Miracles&quot; by Shamichael H from Leadership Network</td>
 </tr>
 <tr>
-  <td><strong>11:10 AM - 11:20 AM</strong></td><td>Break</td>
-</tr>
-<tr>
-  <td><strong>11:20 AM - 12:15 PM</strong></td><td>Coding Class 1 &quot;Coding Fundamentals&quot;</td>
+  <td><strong>11:10 AM - 12:10 PM</strong></td><td>Coding Class 1 &quot;Coding Fundamentals&quot;</td>
 </tr>
 <tr class="row-6 even">
-  <td class="column-1"><strong>12:15 PM - 1:15 PM</strong></td><td class="column-2">Lunch</td>
+  <td class="column-1"><strong>12:10 PM - 1:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
 <tr class="row-7 odd">
-  <td class="column-1"><strong>1:15 PM - 2:00 PM</strong></td><td class="column-2">Explore "The Garage" &amp; Microsoft Trivia</td>
+  <td class="column-1"><strong>1:00 PM - 1:15 PM</strong></td><td class="column-2">Praise and Worship</td>
 </tr>
 <tr>
-  <td><strong>2:00 PM - 2:15 PM</strong></td><td>Fun Songs</td>
+  <td><strong>1:15 PM - 1:45 PM</strong></td><td>Demo: &quot;Reaching the Unreached with Technology&quot; by Brandon H. from Renew Outreach</td>
 </tr>
 <tr class="row-8 even">
-  <td class="column-1"><strong>2:15 PM - 2:45 PM</strong></td><td class="column-2">&quot;God&apos;s Vision for the Unreached&quot;</td>
+  <td class="column-1"><strong>1:45 PM - 1:55 PM</strong></td><td class="column-2">Snack</td>
 </tr>
 <tr class="row-9 odd">
-  <td class="column-1"><strong>2:45 PM - 3:15 PM</strong></td><td class="column-2">Demo: &quot;Reaching the unreached with technology&quot;</td>
-</tr>
-<tr>
-  <td><strong>3:15 PM - 3:30 PM</strong></td><td>Snack Time</td>
+  <td class="column-1"><strong>2:00 PM - 3:00 PM</strong></td><td class="column-2">Coding Class 2: &quot;Advanced Coding&quot;</td>
 </tr>
 <tr class="row-10 even">
-  <td class="column-1"><strong>3:30 PM - 4:25 PM</strong></td><td class="column-2">Coding Class 2</td>
+  <td class="column-1"><strong>3:00 PM - 5:00 PM</strong></td><td class="column-2">Hackathon with Raspberry Pi &quot;Miracle Makers&quot;</td>
 </tr>
 <tr class="row-11 odd">
-  <td class="column-1"><strong>4:25 PM - 5:20 PM</strong></td><td class="column-2">Kid&apos;s Hackathon &quot;Giant-tackling Miracle Makers&quot;</td>
+  <td class="column-1"><strong>5:00 PM - 5:45 PM</strong></td><td class="column-2">Dinner</td>
 </tr>
 <tr class="row-12 even">
-  <td class="column-1"><strong>5:20 PM - 6:20 PM</strong></td><td class="column-2">Dinner</td>
+  <td class="column-1"><strong>5:45 PM - 6:15 PM</strong></td><td class="column-2">Hackathon with Raspberry Pi &quot;Miracle Makers&quot; (con&apos;t)</td>
+</tr>
+<tr class="row-12 even">
+  <td class="column-1"><strong>6:15 PM - 6:20 PM</strong></td><td class="column-2">Hackathon wrap up</td>
 </tr>
 <tr>
-  <td><strong>6:20 PM - 6:40 PM</strong></td><td>Practice for Show and Tell</td>
+  <td><strong>6:30 PM - 6:45 PM</strong></td><td>Show and Tell and Award (Plenary Session)</td>
 </tr>
 <tr class="row-13 odd">
-  <td class="column-1"><strong>6:45 PM - 7:15 PM</strong></td><td class="column-2">Show &amp; Tell + Awards</td>
-</tr>
-<tr class="row-14 even">
-  <td class="column-1"><strong>7:15 PM - 8:00 PM</strong></td><td class="column-2">Celebration and Commissioning</td>
+  <td class="column-1"><strong>6:45 PM - 7:15 PM</strong></td><td class="column-2">Celebration and Commissioning</td>
 </tr>
 </tbody>
 </table>
