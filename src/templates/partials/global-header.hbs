@@ -37,6 +37,11 @@ component: event-header
           {{/each}}
         </ul>
       </li>
+      {{#if altLanguage}}
+        <li>
+          <a href="{{altLanguageUrl}}" class="button">{{altLanguage}}</a>
+        </li>
+      {{/if}}
     </ul>
   </nav>
 </header>
