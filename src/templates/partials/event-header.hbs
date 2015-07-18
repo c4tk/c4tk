@@ -6,9 +6,15 @@ component: event-header
   <h1 id="logo"><a href="{{relative page.dest "dist/index.html"}}">{{ site.title }}</a></h1>
   <nav id="nav">
     <ul>
-      <li class="current"><a href="index.html">Home</a></li>
+
+      {{#if homealtLanguage}}
+          <li class="current"><a href="index.html">{{ this.homealtLanguage}}</a></li>
+      {{else}}
+          <li class="current"><a href="index.html">Home</a></li>
+      {{/if}} 
+
       <li class="submenu">
-        <a href="">Event Menu</a>
+        <a href="">Menu</a>
         <ul>
           {{#each sections}}
             {{#isnt this.title '(hidden)'}}
@@ -37,7 +43,17 @@ component: event-header
           {{/each}}
         </ul>
       </li>
-      <li><a href="{{registrationLink}}" class="button special">Sign Up</a></li>
+
+
+      {{#if registrationaltLanguage}}
+       <li><a href="{{registrationLink}}" class="button special">{{registrationaltLanguage}}</a></li>
+
+      {{else}}
+        <li><a href="{{registrationLink}}" class="button special">Sign Up</a></li>
+
+      {{/if}} 
+
+
       {{#if altLanguage}}
         <li>
           <a href="{{altLanguageUrl}}" class="button">{{altLanguage}}</a>
