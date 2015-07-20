@@ -32,7 +32,7 @@ events:
   link:
    Atlanta2015G.html
 - name:
-    Bangalore, India 
+    Bengaluru, India 
   photo:
     bangalore.jpg
   location:
