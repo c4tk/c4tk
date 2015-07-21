@@ -1,0 +1,6 @@
+﻿---
+name:  Luke Roush
+description: Partner, Sovereigns Capital
+picture: luke_roush.jpg
+---
+Luke Roush has twelve years of experience in global commercialization and business development at venture-backed and Fortune 500 companies. Before joining Sovereign’s Capital he was Vice President for Sales, Marketing, and Business Development at TransEnterix, a medical device company that developed and commercialized a minimally invasive surgical system in the US, Europe, and Middle East. Prior to joining TransEnterix, he served as Chief Operating Officer at Liquidia Technologies, a nanotechnology company focused on biopharmaceutical applications. During his tenure at TransEnterix and Liquidia, the companies raised more than $100M in debt and venture capital to drive product development and commercialization. Mr. Roush previously served as global marketing manager for Boston Scientific’s neurovascular stroke business, and held sales and marketing leadership roles at Newell Rubbermaid. Mr. Roush graduated summa cum laude from Duke University, and earned his MBA from The Fuqua School of Business. He also serves as vice-chairman of the board for Ten Thousand Villages, a fair trade retailer, and as a board member for TROSA in Durham, NC. 
