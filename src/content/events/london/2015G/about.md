@@ -2,11 +2,11 @@
 ---
 <img src="{{assets}}/images/earth.jpg" style="float:right"/>
 
-Code for the Kingdom, a Leadership Network hackathon initiative, convenes bright entrepreneurs and technologists to use their gifts to affect global culture from a Christian perspective. It seeks to advance the Gospel through the creation of new technologies addressing significant issues confronting society, community, families, and spiritual life.
+Are you a Christian in technology? Here in London we want to bring together creators, developers, UX/UI designers, product managers, entrepreneurs and anyone passionate about technology. It’s about catalysing serendipity. We want to see relationships, ideas and new projects flourish as a result of fostering this new community from across the UK and Europe.
 
-In 2015, we are expanding Code for the Kingdom to include a Global Hackathon Weekend where we are collaborating with Indigitous - a global community of people passionate about connecting people to Jesus using digital strategies - to host events in 15 locations simultaneously. 
+Code for the Kingdom hackathon events have run across various cities in the United States and have engaged with incredible and diverse topics including human trafficking, bible translation, and personal generosity. Join with many other Christians in central London as we host the first Code for the Kingdom event in the UK.
 
-Together our vision is to provide more opportunities for communities around the world to participate and showcase innovation and entrepreneurship in their communities. We expect over 1,000 people to participate and address a number of challenges aimed at helping release the oppressed, teaching God’s Word, healing the sick, feeding the hungry, clothing the naked, and supporting the church and the body of Christ.
-
+Over the next few months we'll be posting up a series of challenges aimed at helping release the oppressed, teaching God’s Word, healing the sick, feeding the hungry, clothing the naked, and supporting the church and the body of Christ.
+Sign up below to be notified when tickets are released!
 
 
