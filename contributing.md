@@ -1,5 +1,5 @@
 # Getting Started
-1. Download and install [node](http://nodejs.org/) The latest version we tested with is [v10.30](nodejs.org/dist/v0.10.30/)
+1. Download and install [node](http://nodejs.org/) The latest version we tested with is [v12](https://nodejs.org/dist/v0.12.7/)
 2. Download and install the GitHub Client for [Windows](https://windows.github.com/) or [Mac](https://mac.github.com/)
 3. Fork the [c4tk repository](https://github.com/chrislim/c4tk) to get your own version to play with.
 4. Clone it to your local machine through the GitHub Client.
