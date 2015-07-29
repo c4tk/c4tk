@@ -17,7 +17,7 @@ questions:
   answer:
     Yes, Transforming Lives. How can technology help alleviate and eradicate all forms of injustice while teaching about God’s unconditional love?
 - question:
-    I'm from outsideLondon . Can I still participate? 
+    I'm from outside London . Can I still participate? 
   answer:
     Yes. Join us.
 - question:

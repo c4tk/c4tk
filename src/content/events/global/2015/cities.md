@@ -116,16 +116,6 @@ events:
     Oct 2-4, 2015
   link:
     nairobi2015G.html   
-- name:
-    Orlando, FL 
-  photo:
-    orlando.jpg
-  location:
-
-  date:
-    Oct 2-4, 2015
-  link:
-    orlando2015G.html
 
 - name:
     Raleigh,NC

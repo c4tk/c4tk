@@ -1,4 +1,4 @@
-## Sponsor Code for the Kingdom
+## Be a Sponsor
 ---
 
 Our community is committed to connecting incredible innovators with the Church, Christian organizations, investors, and initiatives that need their talent. God has given us talents and gifts for the good of the larger Body - so together we can accomplish what He wants to do through us. You and your gifts are vital to help extend this ecosystem into your ministry, industry or community.
