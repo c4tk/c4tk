@@ -32,7 +32,7 @@ events:
   link:
    Atlanta2015G.html
 - name:
-    Bangalore, India 
+    Bengaluru, India 
   photo:
     bangalore.jpg
   location:
@@ -52,7 +52,7 @@ events:
   date:
     Oct 2-4, 2015
   link:
-   guatemala2015G.html
+   guatemala2015GEsp.html
 - name:
     Houston, TX
   photo:
@@ -72,7 +72,7 @@ events:
   date:
     Oct 2-4, 2015
   link:
-    jakarta2015G.html
+    http://codeforthekingdom.id/
 - name:
     Kansas City, MO
   photo:
@@ -116,16 +116,6 @@ events:
     Oct 2-4, 2015
   link:
     nairobi2015G.html   
-- name:
-    Orlando, FL 
-  photo:
-    orlando.jpg
-  location:
-
-  date:
-    Oct 2-4, 2015
-  link:
-    orlando2015G.html
 
 - name:
     Raleigh,NC
