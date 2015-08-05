@@ -1,4 +1,4 @@
-﻿---
+---
 questions:
 - question:
     What's a hackathon?
@@ -78,8 +78,10 @@ questions:
     Each team will have 3 minutes for their demo and 2 minutes to answer questions from the judges.
 - question:
     Who will be in attendance at the final presentations?   
-  answer:
+  answer: |
     The final screening is public, although space is limited. Expect a mixture of participants, hi-tech executives, venture capitalists and angels, ministry and non-profit leaders, press, and observers.
+
+    __Come prepared__!
 - question:
     Will there be awards given?
   answer:
