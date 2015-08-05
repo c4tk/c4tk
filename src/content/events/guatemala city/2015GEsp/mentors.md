@@ -1,5 +1,5 @@
 ﻿---
-title: Mentors
+title: Mentores
 cwd: src/content/events/Guatemala City/2015gesp/mentors
 ---
 ## <i class="icon fa-group"></i> Mentoress

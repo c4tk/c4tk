@@ -72,7 +72,7 @@ events:
   date:
     Oct 2-4, 2015
   link:
-    jakarta2015G.html
+    http://codeforthekingdom.id/
 - name:
     Kansas City, MO
   photo:

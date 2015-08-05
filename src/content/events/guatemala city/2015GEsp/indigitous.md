@@ -1,31 +1,31 @@
 ﻿## Indigitious
 ---
-All projects must be submitted on Indigitious.  
+Todos los proyectos deben presentarse en Indigitious.
 
-While our codeforthekingdom.org site serves as the source for information and link registration for every city, Indigitous officially serves as the global online community site that will connect all Code for the Kingdom participants and projects. Founded by Campus Crusade, Indigitous is a movement passionate about connecting people to Jesus using digital strategies.  
+Mientras que nuestro sitio codeforthekingdom.org sirve como fuente de información para cada ciudad, Indigitous sirve oficialmente como el sitio de la comunidad global en línea que conectará toda  los participantes y proyectos. Fundada por Campus Crusade , Indigitous es un movimiento apasionado de conectar a la gente a Jesús usando estrategias digitales . 
 
-In addition to adding your project, which must be done on the Indigitous platform to be part of Code for the Kingdom,  you will also be able to:
+Además de agregar su proyecto en la plataforma Indigitous, también será capaz de :
 
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search for projects you might be interested in
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Búsqueda de proyectos en los que podría estar interesado
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learn about projects others are working on
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aprenda acerca de los proyectos que otros están trabajando 
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Join a  project
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unirse a un proyecto
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recruit others to join your project
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reclutar a otros a unirse a su proyecto
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Communicate with your project members
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comunicarse con sus miembros del proyecto
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manage your project
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestione su proyecto
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submit your project for judging
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presentar su proyecto para juzgar
 
-After you register for the hackathon, you will be asked to join Indigitous to start your Code for the Kingdom journey. 
+Después de registrarse para el hackathon , se le pedirá a unirse Indigitous para iniciar su participación en Code for the Kingdom.
 
 <div>
   <div style="display:inline-block">
   <a class="button special-alternate"  href="https://indigitous.org/" target="_blank">
-    LEARN MORE ABOUT INDIGITOUS
+    MÁS INFORMACIÓN ACERCA DE INDIGITOUS
   </a>
   </div>

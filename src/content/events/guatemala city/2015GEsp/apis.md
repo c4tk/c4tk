@@ -4,9 +4,9 @@ cwd: src/content/events/Guatemala City/2015gesp/apis
 ---
 ## <i class="icon fa-sitemap"></i> API
 
-At Code For The Kingdom, we value your precious time and don’t want you to reinvent the wheel. That’s why our sponsors have come forward to offer their APIs, in order to enable you to build better and faster. That said, please note that there is no compulsion that these APIs must be used or any other restrictions on technologies that you may use at the Hackathon.
+En Code for the Kingdom, valoramos su valioso tiempo y no queremos que reinvente la rueda. Es por eso que nuestros patrocinadores ofrecen sus APIs , con el fin de que usted pueda construir mejor y más rápido. Dicho esto, tenga en cuenta que no hay obligación de que estas API deben ser utilizadas.
 
-We believe that these platforms may assist you as you create effective solutions to today’s problems. So leverage these APIs and the best resources around so that together, we can create technology that matters.
+Creemos que estas plataformas pueden ayudarle a medida a crear soluciones eficaces a los problemas de hoy. Así que aprovechan estas API y los mejores recursos alrededor para que juntos desarrollemos tecnología que importa.
 
 {{#compose src='*.md' cwd=cwd}}
 <div class="row">
