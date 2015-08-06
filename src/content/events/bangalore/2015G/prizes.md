@@ -1,9 +1,9 @@
 ﻿## <i class="icon fa-trophy"></i> Awards
 
-Participants will compete for non-cash Recognition Awards in four categories:
-* <i class="icon fa-trophy"></i> Best Overall started at the hackathon
-* <i class="icon fa-trophy"></i> Best Overall started before the hackathon
-* <i class="icon fa-trophy"></i> Best ideation only project
-* <i class="icon fa-trophy"></i> People’s choice (voted by all participants across all submitted projects)
+Apart from specific mentoring for teams from industry experts, participants will also be eligible to win recognition through awards in the following three categories:
+
+* <i class="icon fa-trophy"></i> Best Overall New Project - started at the Hackathon
+* <i class="icon fa-trophy"></i> Best Overall Existing Project - started prior to the Hackathon
+* <i class="icon fa-trophy"></i> People's Choice (voted by all participants from all submitted projects) 
 
 {{> register-button}}
