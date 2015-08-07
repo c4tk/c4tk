@@ -16,7 +16,7 @@ questions:
 - question:
     What does the ALL ACCESS PASS for the weekend Hackathon include?
   answer:
-    The ALL ACCESS PASS comprises the following benefits: 1) Full access to participate in the Hackathon and compete for prizes, 2) Full access to all 4 excellent breakout sessions by industry experts, 3) Watch the CrossPlan (Christian Business Plan Summit) Finals live, 4) Enjoy 3 days in the company of mentors, technologists & entrepreneurs, and 5) Enjoy 5 sumptuous networking meals with your peers at the venue.
+    It includes 1) Full access to participate in the Hackathon and compete for prizes, 2) Full access to all 4 excellent breakout sessions by industry experts,  3) Watch the CrossPlan (Christian Business Plan Summit) Finals live,  4) Enjoy 3 days in the company of mentors, technologists & entrepreneurs, and 5) Enjoy 5 sumptuous networking meals with your peers at the venue.
 - question:
     OK. What if I cannot afford the Hackathon ticket pass but really want to come?  
   answer:
