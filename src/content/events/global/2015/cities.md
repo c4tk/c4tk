@@ -40,7 +40,7 @@ events:
   date:
     Oct 2-4, 2015
   link:
-   bangalore2015G.html
+   bangalore-hackathon-2015.html
 
 
 - name:
