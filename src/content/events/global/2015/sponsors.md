@@ -13,4 +13,4 @@ cwd: src/content/events/Global/2015/sponsors
   </div>
 {{/compose}}
 </div>
-{{> register-button}}
+
