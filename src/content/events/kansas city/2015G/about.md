@@ -2,11 +2,28 @@
 ---
 <img src="{{assets}}/images/earth.jpg" style="float:right"/>
 
-Code for the Kingdom, a Leadership Network hackathon initiative, convenes bright entrepreneurs and technologists to use their gifts to affect global culture from a Christian perspective. It seeks to advance the Gospel through the creation of new technologies addressing significant issues confronting society, community, families, and spiritual life.
+Are you a technologist, entrepreneur or innovator or planning to be one?
+Have you ever wanted to impact your cities, circles and communities and
+solve problems that you see around you? If yes, don’t miss out on the
+Global Hackathon by Code for the Kingdom – taking place simultaneously
+in 14 cities around the world including Addis Ababa, Albuquerque,
+Atlanta, Bangalore, Guatemala City, Houston, Jakarta, Kansas City,
+London, Los Angeles, Nairobi, Raleigh, Seattle and Waterloo.
 
-In 2015, we are expanding Code for the Kingdom to include a Global Hackathon Weekend where we are collaborating with Indigitous - a global community of people passionate about connecting people to Jesus using digital strategies - to host events in 15 locations simultaneously. 
+Join the Kansas City event that kicks off on the weekend of Fri Oct 2 -
+Sun Oct 4, 2015. Code for the Kingdom is an initiative of Leadership
+Network, a 501 (c)(3) non-profit organization fostering innovation by
+bringing talented people together to take ideas to implementation to
+impact In an ongoing ecosystem where global issues are tackled from a
+faith-based perspective. Together our vision is to provide more
+opportunities for communities all over the world to participate and
+showcase innovation and entrepreneurship.
 
-Together our vision is to provide more opportunities for communities around the world to participate and showcase innovation and entrepreneurship in their communities. We expect over 1,000 people to participate and address a number of challenges aimed at helping release the oppressed, teaching God’s Word, healing the sick, feeding the hungry, clothing the naked, and supporting the church and the body of Christ.
+Venue:  
+UMKC Henry W. Bloch School of Management <br>
+5110 Cherry St,<br>
+Kansas City, MO 64110
 
+For more information visit our full [Event website.](https://c4tkkc2015.eventbrite.com)
 
 
