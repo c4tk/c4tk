@@ -8,10 +8,10 @@
 </thead>
 <tbody class="row-hover" role="alert" aria-live="polite" aria-relevant="all">
 <tr class="row-2">
-  <td class="column-1"><strong>7:00 PM</strong></td><td class="column-2">Doors Open </td>
+  <td class="column-1"><strong>6:30 PM</strong></td><td class="column-2">Doors Open </td>
 </tr>
 <tr class="row-3">
-  <td class="column-1"><strong>7:00 PM - 8:00 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
+  <td class="column-1"><strong>6:30 PM - 8:00 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
 </tr>
 <tr class="row-4">
   <td class="column-1"><strong>8:00 PM - 8:25 PM</strong></td><td class="column-2">Welcome & Review Format </td>
