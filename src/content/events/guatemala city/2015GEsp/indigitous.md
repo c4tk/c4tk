@@ -1,10 +1,8 @@
 ﻿## Indigitious
 ---
-Todos los proyectos deben presentarse en Indigitious.
 
-Mientras que nuestro sitio codeforthekingdom.org sirve como fuente de información para cada ciudad, Indigitous sirve oficialmente como el sitio de la comunidad global en línea que conectará toda  los participantes y proyectos. Fundada por Campus Crusade , Indigitous es un movimiento apasionado de conectar a la gente a Jesús usando estrategias digitales . 
 
-Además de agregar su proyecto en la plataforma Indigitous, también será capaz de :
+Usaremos [Indigitous.org](https://indigitous.org) como el lugar para los proyectos , la comunidad y la colaboración. Indigitous.org sirve el hackathon global al proporcionar un sitio de la comunidad global en línea que conecta todos los los participantes y proyectos. Indigitous es un movimiento apasionado de conectar a la gente a Jesús usando estrategias digitales . Además de agregar el proyecto a Indigitous.org , la plataforma también le permitirá:
 
 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Búsqueda de proyectos en los que podría estar interesado
@@ -17,11 +15,7 @@ Además de agregar su proyecto en la plataforma Indigitous, también será capaz
 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comunicarse con sus miembros del proyecto
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestione su proyecto
-<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presentar su proyecto para juzgar
-
-Después de registrarse para el hackathon , se le pedirá a unirse Indigitous para iniciar su participación en Code for the Kingdom.
 
 <div>
   <div style="display:inline-block">
