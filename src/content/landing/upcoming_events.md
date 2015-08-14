@@ -9,7 +9,154 @@ events:
   date:
     Oct 2-4, 2015 
   link:
-   global2015.html
+   global2015.html   
+- name:
+    Addis Ababa, Ethiopia   Oct 2-4, 2015
+  photo:
+    addis_ababa.jpg
+  location:
+    
+  date:
+    Oct 2-4, 2015
+  link:
+    addisababa2015G.html
+- name:
+    Albuquerque, NM   Oct 2-4, 2015
+  photo:
+    Albuquerque.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015
+  link:
+   Albuquerque2015G.html
+- name:
+    Atlanta, GA   Oct 2-4, 2015
+  photo:
+    atlanta.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015
+  link:
+   Atlanta2015G.html
+- name:
+    Bengaluru, India   Oct 2-4, 2015
+  photo:
+    bangalore.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015
+  link:
+   bangalore-hackathon-2015.html
+
+
+- name:
+    Guatemala city, Guatemala   Oct 2-4, 2015
+  photo:
+    guatemala.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015
+  link:
+   guatemala2015GEsp.html
+- name:
+    Houston, TX   Oct 2-4, 2015
+  photo:
+    Houston.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015
+  link:
+   houston2015G.html
+- name:
+    Jakarta, Indonesia   Oct 2-4, 2015
+  photo:
+    Jakarta.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015
+  link:
+    http://codeforthekingdom.id/
+- name:
+    Kansas City, MO   Oct 2-4, 2015
+  photo:
+    kansas_city.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015 
+  link:
+    kansascity2015G.html
+
+- name:
+    London, England   Oct 2-4, 2015
+  photo:
+    london.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015 
+  link:
+    london2015G.html
+
+- name:
+    Los Angeles, CA   Oct 2-4, 2015
+  photo:
+    los_angeles.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015 
+  link:
+    losangeles2015G.html    
+
+- name:
+    Nairobi, Kenya   Oct 2-4, 2015
+  photo:
+    nairobi.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015
+  link:
+    nairobi2015G.html   
+
+- name:
+    Raleigh,NC   Oct 2-4, 2015
+  photo:
+    raleigh.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015
+  link:
+    raleigh2015G.html
+- name:
+    Seattle, WA   Oct 2-4, 2015
+  photo:
+    seattle1.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015 
+  link:
+    seattle2015G.html
+- name:
+    Waterloo, Canada   Oct 2-4, 2015
+  photo:
+    waterloo.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015 
+  link:
+    waterloo2015G.html
+    
   
 ---
 

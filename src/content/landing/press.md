@@ -6,6 +6,16 @@
 
 
   <div class="row">
+
+    <div class="4u">
+      <section>
+        <a href="http://issuu.com/vitalmagazine/docs/vital_0415-singles_44468cc28b3747/39?e=0/13895679" target="_blank">
+          <img class="image fit" alt="vital" src= "{{assets}}/images/press/vital.png" >
+
+        </a>
+      </section>
+    </div>  
+
     <div class="4u">
       <section>
         <a href="http://www.geekwire.com/2014/faith-based-hackathon-meets-impact-hub/" target="_blank">
@@ -25,6 +35,14 @@
     </div>   
  
 
+ 
+ 
+  </div>
+
+
+
+  <div class="row">
+
     <div class="4u">
       <section>
         <a href="http://bizbeatblog.dallasnews.com/2015/03/code-for-the-kingdom-hackathon-to-tackle-issues-from-christian-perspective.html/" target="_blank">
@@ -32,13 +50,8 @@
 
         </a>
       </section>
-    </div>   
- 
-  </div>
+    </div>  
 
-
-
-  <div class="row">
     <div class="4u">
       <section>
         <a href="http://www.bizjournals.com/dallas/blog/techflash/2015/03/say-what-christian-hackathon-to-tackle-world.html" target="_blank">
@@ -59,6 +72,14 @@ http://www.xconomy.com/texas/2015/03/25/code-for-the-kingdoms-hackathon-tackles-
       </section>
     </div>   
 
+   
+
+ 
+  </div>
+
+
+  <div class="row">
+
     <div class="4u">
       <section>
        <a href="http://www.pbs.org/idealab/2013/07/christian-hackathon-highlights-14-religious-app-ideas" target="_blank" style="">
@@ -66,13 +87,8 @@ http://www.xconomy.com/texas/2015/03/25/code-for-the-kingdoms-hackathon-tackles-
 
        </a>   
       </section>
-    </div>    
+    </div> 
 
- 
-  </div>
-
-
-  <div class="row">
 
     <div class="4u">
       <section>
