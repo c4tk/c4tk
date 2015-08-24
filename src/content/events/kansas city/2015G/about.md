@@ -20,9 +20,10 @@ opportunities for communities all over the world to participate and
 showcase innovation and entrepreneurship.
 
 Venue:  
-UMKC Henry W. Bloch School of Management <br>
-5110 Cherry St,<br>
-Kansas City, MO 64110
+Sprint Accelerator <br>
+210 W. 19th Terrace <br>
+Kansas City, MO 64108<br>
+
 
 For more information visit our full [Event website.](https://c4tkkc2015.eventbrite.com)
 

@@ -72,6 +72,7 @@ events:
     Oct 2-4, 2015
   link:
    houston2015G.html
+   
 - name:
     Jakarta, Indonesia   Oct 2-4, 2015
   photo:
@@ -82,6 +83,7 @@ events:
     Oct 2-4, 2015
   link:
     http://codeforthekingdom.id/
+    
 - name:
     Kansas City, MO   Oct 2-4, 2015
   photo:
