@@ -27,4 +27,4 @@ Kansas City, MO 64108<br>
 
 For more information visit our full [Event website.](https://c4tkkc2015.eventbrite.com)
 
-
+{{> register-button}}
