@@ -8,5 +8,6 @@ In 2015, we are expanding Code for the Kingdom to include a Global Hackathon Wee
 
 Together our vision is to provide more opportunities for communities around the world to participate and showcase innovation and entrepreneurship in their communities. We expect over 1,000 people to participate and address a number of challenges aimed at helping release the oppressed, teaching God’s Word, healing the sick, feeding the hungry, clothing the naked, and supporting the church and the body of Christ.
 
+{{> register-button}}
 
 
