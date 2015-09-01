@@ -50,11 +50,8 @@ In case you are already interested or working on a project, don’t change cours
 {{{@content}}}
 {{/markdown}}
 
-    <h3>Champion</h3>
-    {{#each champions}}
-      <a href="{{this.url}}">
-      <img src="{{../assets}}/images/sponsors/{{this.logo}}" alt="{{this.name}}"/></a>
-    {{/each}}
+
+
     </div>
   </div>
 </div>
