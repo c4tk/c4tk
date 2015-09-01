@@ -5,7 +5,7 @@ cwd: src/content/events/Guatemala City/2015gesp/challenges
 ---
 ## <i class="icon fa-flag"></i> Retos
 
-Los retos serán anunciados el 01 de septiembre 2015
+Los retos serán anunciados el 02 de septiembre 2015
 
 
 
