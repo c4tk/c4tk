@@ -25,6 +25,6 @@ How can technology help missional communities share the best resources that help
 # Hashtags
 \#GreatCommission \#ScriptureEngagement \#DBP \#Bible \#MinorityChristians \#IslamicWorld
 
-# Relative contextual Info
+# Additional resources
 http://www.christiantoday.com/article/christianity.spreading.in.iran.via.multimedia/11248.htm
 http://leadnet.org/technology-and-the-gospel-reaching-every-living-person-on-earth/

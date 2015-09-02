@@ -28,7 +28,7 @@ How does the hope of God's kingdom shape our use of wearables, enabling us to be
 # Hashtags
 \#wearables
 
-# Relative Contextual Info
+# Additional resources
 Ideas & Info for inspiration
 http://www.forbes.com/sites/parmyolson/2014/06/19/wearable-tech-health-insurance/ - “...Quantified Self movement: that they’ll help us learn more about ourselves…”
 http://www.economist.com/news/business/21646225-smartwatches-and-other-wearable-devices-become-mainstream-products-will-take-more 

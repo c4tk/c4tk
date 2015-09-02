@@ -19,10 +19,7 @@ faith-based perspective. Together our vision is to provide more
 opportunities for communities all over the world to participate and
 showcase innovation and entrepreneurship.
 
-Venue:  
-Sprint Accelerator <br>
-210 W. 19th Terrace <br>
-Kansas City, MO 64108<br>
+
 
 
 For more information visit our full [Event website.](https://c4tkkc2015.eventbrite.com)

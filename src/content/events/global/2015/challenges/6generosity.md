@@ -22,7 +22,7 @@ Could you create an app or micro-social network that leverages social effects to
 # Hashtags
 \#generosity
 
-# Relative contextual Info
+# Additional resources
 Articles of Interest 
 https://www.gci.org/church/ministry/poverty
 http://www.summitrdu.com/all-in/generosity-ladder/

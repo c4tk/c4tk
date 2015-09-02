@@ -27,7 +27,7 @@ How do games fit in God’s Kingdom and how can we help players young and old ex
 # Hashtags
 \#games \#children 
 
-# Relative Contextual Info
+# Additional resources
 What are people saying
 http://gamechurch.com/game-measure-games-usefulness/
 http://thinkchristian.reframemedia.com/cults-and-daggers-can-you-fit-god-in-the-machine 

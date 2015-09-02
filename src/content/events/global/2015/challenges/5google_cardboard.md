@@ -21,7 +21,7 @@ Learn more about Google Cardboard (https://www.google.com/get/cardboard/).
 # Hashtags
 \#GoogleCardboard \#VirtualReality \#WorldVision \#cleanwater
 
-# Relative Contextual Info
+# Additional resources
 Background
 https://www.google.com/get/cardboard/
 https://gigaom.com/2014/06/28/why-google-cardboard-is-actually-a-huge-boost-for-virtual-reality/
