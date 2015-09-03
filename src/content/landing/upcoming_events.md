@@ -50,6 +50,17 @@ events:
     Oct 2-4, 2015
   link:
    bangalore-hackathon-2015.html
+   
+- name:
+    Dallas/Fort Worth, TX
+  photo:
+    dallas.jpg
+  location:
+
+  date:
+    Oct 2-4, 2015
+  link:
+   DFW-hackathon-2015.html   
 
 
 - name:
@@ -62,16 +73,7 @@ events:
     Oct 2-4, 2015
   link:
    guatemala2015GEsp.html
-- name:
-    Houston, TX   Oct 2-4, 2015
-  photo:
-    Houston.jpg
-  location:
 
-  date:
-    Oct 2-4, 2015
-  link:
-   houston2015G.html
    
 - name:
     Jakarta, Indonesia   Oct 2-4, 2015
