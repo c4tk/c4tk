@@ -7,7 +7,7 @@ questions:
 - question:
     Who is organizing the 2015 Code for the Kingdom Rocky Mountain Hackathon?
   answer:
-    The Code for the Kingdom Rocky Mountain Hackathon is being organized by Leadership Network in collaboration with Wycliffe Associates.
+    The Code for the Kingdom Rocky Mountain Hackathon is being organized by Leadership Network in collaboration with WorldVenture.
 - question:
     What is this hackathon trying to accomplish?
   answer:

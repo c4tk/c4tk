@@ -73,16 +73,6 @@ events:
     Oct 2-4, 2015
   link:
     http://codeforthekingdom.id/
-- name:
-    Kansas City, MO
-  photo:
-    kansas_city.jpg
-  location:
-
-  date:
-    Oct 2-4, 2015 
-  link:
-    kansascity2015G.html
 
 - name:
     London, England

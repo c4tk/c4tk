@@ -12,7 +12,7 @@
       </header>
       <p>{{this.location}}</p>
       <p>{{this.date}}</p>
-      <p>A Leadership Network Hackathon in collaboration with World Venture</p>
+      <p>A Leadership Network Hackathon in collaboration with WorldVenture</p>
       <footer>
         <ul class="buttons">
           <li><a href="#about.md" class="button fit scrolly">Tell Me More</a></li>

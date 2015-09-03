@@ -1,7 +1,7 @@
-﻿## <i class="icon fa-info-circle"></i> <b>World Venture</b>
+﻿## <i class="icon fa-info-circle"></i> <b>WorldVenture</b>
 ---
 
-###World Venture, our Rocky Mountain Organizer
+###WorldVenture, our Rocky Mountain Organizer
 
 WorldVenture is a Christian missionary sending agency. We are a network of passionate people connected in the common cause of seeing the Great Commission of Jesus Christ fulfilled.
 
