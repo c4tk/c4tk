@@ -52,7 +52,7 @@ events:
    bangalore-hackathon-2015.html
    
 - name:
-    Dallas/Fort Worth, TX
+    Dallas/Fort Worth, TX   Oct 2-4, 2015
   photo:
     dallas.jpg
   location:
