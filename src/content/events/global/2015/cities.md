@@ -104,7 +104,7 @@ events:
   location:
 
   date:
-    Oct 2-4, 2015
+    Oct 3-4, 2015
   link:
     nairobi2015G.html   
 

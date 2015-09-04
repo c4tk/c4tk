@@ -109,7 +109,7 @@ events:
     losangeles2015G.html    
 
 - name:
-    Nairobi, Kenya   Oct 2-4, 2015
+    Nairobi, Kenya   Oct 3-4, 2015
   photo:
     nairobi.jpg
   location:
