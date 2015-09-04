@@ -51,7 +51,7 @@ events:
   date:
     Oct 2-4, 2015
   link:
-   DFW-hackathon-2015.html
+   dfw-hackathon-2015.html
 
 - name:
     Guatemala city, Guatemala

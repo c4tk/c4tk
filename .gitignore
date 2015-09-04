@@ -12,6 +12,10 @@ pids
 logs
 results
 dist
+<<<<<<< HEAD
+=======
+
+>>>>>>> gh-pages
 npm-debug.log
 node_modules
 
