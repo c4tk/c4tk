@@ -8,30 +8,19 @@
 </thead>
 <tbody class="row-hover" role="alert" aria-live="polite" aria-relevant="all">
 <tr class="row-2">
-  <td class="column-1"><strong>7:00 PM</strong></td><td class="column-2">Doors Open </td>
+  <td class="column-1"><strong>6:00 PM</strong></td><td class="column-2">Doors Open </td>
 </tr>
 <tr class="row-3">
-  <td class="column-1"><strong>7:00 PM - 8:00 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
+  <td class="column-1"><strong>6:00 PM</strong></td><td class="column-2">Refreshments & Networking </td>
 </tr>
 <tr class="row-4">
-  <td class="column-1"><strong>8:00 PM - 8:25 PM</strong></td><td class="column-2">Welcome & Review Format </td>
+  <td class="column-1"><strong>7:00 PM</strong></td><td class="column-2">Dinner & Opening Ceremony</td>
 </tr>
-
 <tr class="row-5">
-  <td class="column-1"><strong>8:25 PM - 8:35 PM</strong></td><td class="column-2">API Presentations</td>
-</tr>
-<tr class="row-6">
-  <td class="column-1"><strong>8:35 PM - 8:50 PM</strong></td><td class="column-2">Review - Official Challenges </td>
-</tr>
-<tr class="row-7">
-  <td class="column-1"><strong>8:50 PM - 9:20 PM</strong></td><td class="column-2">Open Floor - pitch your own project</td>
-</tr>
-<tr class="row-11">
-  <td class="column-1"><strong>9:20 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Create Away</td>
+  <td class="column-1"><strong>8:00 PM</strong></td><td class="column-2">Team Formation & Start Creating</td>
 </tr>
 </tbody>
 </table>
-
 
 <table class="default">
 <thead>
@@ -47,20 +36,20 @@
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
 <tr class="row-4 even">
-  <td class="column-1"><strong>9:00 AM</strong></td><td class="column-2">Schedule and logistics announcements, team rebalancing </td>
+  <td class="column-1"><strong>9:00 AM - 1:00 PM</strong></td><td class="column-2">Mentors Available</td>
 </tr>
 <tr class="row-5 odd">
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
 <tr class="row-6 even">
-  <td class="column-1"><strong>4:30 PM</strong></td><td class="column-2">Optional progress briefing, more developing </td>
+  <td class="column-1"><strong>4:00 PM</strong></td><td class="column-2">Raffles, Break, Activities (optional)</td>
 </tr>
 
 <tr class="row-7 odd">
   <td class="column-1"><strong>6:00 PM</strong></td><td class="column-2">Dinner</td>
 </tr>
 <tr class="row-8 even">
-  <td class="column-1"><strong>9:00 AM - 5:00 PM</strong></td><td class="column-2">Meet with Mentors and Subject Matter Experts</td>
+  <td class="column-1"><strong>7:00 PM</strong></td><td class="column-2">Keep on Creating!</td>
 </tr>
 </tbody>
 </table>
@@ -73,33 +62,27 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>12:00 AM - 2:15 PM</strong></td><td class="column-2">Creating</td>
-<tr class="row-3 even">
+  <td class="column-1"><strong>12:00 AM - 2:00 PM</strong></td><td class="column-2">Creating</td>
+<tr class="row-3 odd">
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
-<tr class="row-4 odd">
-  <td class="column-1"><strong>10:30 AM - 12:00 PM</strong></td><td class="column-2">Option to join with Sunday Service</td>
-</tr>
-<tr class="row-5 even">
+<tr class="row-4 even">
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
-<tr class="row-6 odd">
-  <td class="column-1"><strong>1:00 PM</strong></td><td class="column-2">Presentation Walk-thru &amp; Judges Make Rounds</td>
+<tr class="row-5 odd">
+  <td class="column-1"><strong>1:00 PM</strong></td><td class="column-2">Judges Make Rounds</td>
 </tr>
-<tr class="row-7 even">
-  <td class="column-1"><strong>2:30 PM</strong></td><td class="column-2">Submission deadline; Team Presentations Begin</td>
+<tr class="row-6 even">
+  <td class="column-1"><strong>2:00 PM</strong></td><td class="column-2">Submission Deadline</td>
 </tr>
-<tr class="row-8 odd">
-  <td class="column-1"><strong>4:30 PM </strong></td><td class="column-2">Judges adjourn</td>
+<tr class="row-7 odd">
+  <td class="column-1"><strong>4:00 PM</strong></td><td class="column-2">Judges Adjourn</td>
 </tr>
-<tr class="row-9 even">
-  <td class="column-1"><strong>4:50 PM</strong></td><td class="column-2">Call-back</td>
+<tr class="row-8 even">
+  <td class="column-1"><strong>4:00 PM</strong></td><td class="column-2">Worship</td>
 </tr>
-<tr class="row-10 odd">
-  <td class="column-1"><strong>5:00 PM</strong></td><td class="column-2">Awards Ceremony</td>
-</tr>
-<tr class="row-11 even">
-  <td class="column-1"><strong>5:30 PM</strong></td><td class="column-2">Closing</td>
+<tr class="row-9 odd">
+  <td class="column-1"><strong>4:45 PM</strong></td><td class="column-2">Awards Ceremony and Closing</td>
 </tr>
 </tbody>
 </table>

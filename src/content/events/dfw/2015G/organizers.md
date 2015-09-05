@@ -25,6 +25,5 @@ Meet your Local Organizers.
 {{/compose}}
 </div>
 
-<h3>Your Local Organizers' vision for the DFW hackathon </h3>
-<blockquote>"" - Your Local Organizers</blockquote>
+
 
