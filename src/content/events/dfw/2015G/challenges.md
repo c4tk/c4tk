@@ -63,7 +63,7 @@ In case you are already interested or working on a project, don’t change cours
 {{/compose}}
 <div>
   <div style="display:inline-block">
-  <a class="button special-alternate"  href="https://indigitous.org/c4tk-project/houston-tx/" target="_blank">
+  <a class="button special-alternate"  href="https://indigitous.org/c4tk-project/dallas/" target="_blank">
     SEE MORE LOCAL CHALLENGES AND PROJECTS ON INDIGITOUS
   </a>
   </div>
