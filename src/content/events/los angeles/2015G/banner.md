@@ -13,7 +13,7 @@
       <p>{{this.date}}</p>
        <p>{{this.location}}</p> 
         <ul class="buttons">
-          <li><a href="http://www.codeforthekingdomla.com" class="button fit scrolly">Tell Me More</a></li>
+          <li><a href="#about.md" class="button fit scrolly">Tell Me More</a></li>
                   </ul>                 
       <p>A Leadership Network Hackathon</p>
       <p>IN COLLABORATION WITH</p>
