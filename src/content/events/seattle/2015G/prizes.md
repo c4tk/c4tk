@@ -1,6 +1,6 @@
-﻿## <i class="icon fa-trophy"></i> Awards
+## <i class="icon fa-trophy"></i> Awards
 
-Participants will compete for non-cash Recognition Awards in four categories:
+Participants will compete for cash and non-cash awards in four categories:
 * <i class="icon fa-trophy"></i> Best Overall started at the hackathon
 * <i class="icon fa-trophy"></i> Best Overall started before the hackathon
 * <i class="icon fa-trophy"></i> Best ideation only project
