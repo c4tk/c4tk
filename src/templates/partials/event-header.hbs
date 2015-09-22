@@ -28,7 +28,11 @@ component: event-header
               {{#each pages}}
                 {{#is data.event "latest"}}
                 <li>
-                  <a href="{{relative dest this.dest}}">{{data.title}}</a>
+                  {{#is data.title "Jakarta 2015"}}
+                    <a href="http://codeforthekingdom.id">{{data.title}}</a>
+                  {{else}}
+                    <a href="{{relative dest this.dest}}">{{data.title}}</a>                    
+                  {{/is}}
                 </li>
                 {{/is}}
               {{/each}}
@@ -37,7 +41,7 @@ component: event-header
           {{#each pages}}
             {{#is data.main true}}
             <li>
-              <a href="{{relative dest this.dest}}">{{ data.title }}</a>
+                    <a href="{{relative dest this.dest}}">{{ data.title }}</a>
             </li>
             {{/is}}
           {{/each}}
