@@ -7,7 +7,7 @@
 
 * <i class="icon fa-money money"></i> $500 for the Best Use of the Digital Bible Platform API.
 
-* <i class="icon fa-money money"></i> $400 to People’s choice (voted by all participants across all submitted projects)
+* <i class="icon fa-money money"></i> $500 to People’s choice (voted by all participants across all submitted projects)
 
 
 {{> register-button}}
