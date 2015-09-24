@@ -43,12 +43,11 @@ questions:
 - question:
     Are there showers at the venue?
   answer:
-    No
+    YES!!!
 - question:
     Will I meet my team members before the event?   
   answer:
-    Possibly. You can use the platform Indigitious at anytime to meet other participants, propose ideas, and recruit or be recruited into a team. But you can also bring your own team, or come alone and become part of a team at the hackathon.
-- question:
+    Possibly. 
     Can I present a technology I already have?
   answer:
     You can build on top of something you have, but whatever you present must have new code developed for at least one of the challenges of the hackathon and you must do some of that coding at the hackathon venue during the hackathon hours.
