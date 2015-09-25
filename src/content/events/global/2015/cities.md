@@ -95,7 +95,7 @@ events:
   date:
     Oct 2-4, 2015 
   link:
-    losangeles2015G.html    
+    http://www.codeforthekingdomla.com   
 
 - name:
     Nairobi, Kenya

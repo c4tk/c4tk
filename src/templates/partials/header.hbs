@@ -22,13 +22,16 @@ component: header
               {{#each pages}}
                 {{#is data.event "latest"}}
                 <li>
-                 {{#is data.title "Jakarta 2015"}}
+                {{#is data.title "Jakarta 2015"}}
                     <a href="http://codeforthekingdom.id">{{data.title}}</a>
-                  {{else}}
-                    <a href="{{relative dest this.dest}}">{{data.title}}</a>                    
+            
+                  {{else }}
+                    {{#is data.title  "Los Angeles 2015"}} 
+                      <a href="http://www.codeforthekingdomla.com">{{data.title}}</a>
+                    {{else }}
+                      <a href="{{relative dest this.dest}}">{{data.title}}</a>                    
+                    {{/is}}
                   {{/is}}
-                
-                
 
                 </li>
                 {{/is}}
