@@ -1,7 +1,7 @@
-﻿---
+---
 title: Challenges
 cwd: src/content/events/global/2015/challenges
-cwd1: src/content/events/Seattle/2015g/challenges
+cwd1: src/content/events/seattle/2015G/challenges
 ---
 ## <i class="icon fa-flag"></i> Challenges
 
@@ -53,7 +53,7 @@ In case you are already interested or working on a project, don’t change cours
     <h3>Champion</h3>
     {{#each champions}}
       <a href="{{this.url}}">
-      <img src="{{../assets}}/images/sponsors/{{this.logo}}" alt="{{this.name}}"/></a>
+      <img style="max-width:320px" src="{{../assets}}/images/sponsors/{{this.logo}}" alt="{{this.name}}"/></a>
     {{/each}}
     </div>
   </div>
