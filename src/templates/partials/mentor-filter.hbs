@@ -1,0 +1,40 @@
+---
+component: mentor-filter
+mentorCategories:
+- title:
+    Marketing
+  category:
+    marketing
+- title:
+    Business 
+  category:
+    business
+- title:
+    Ideation
+  category:
+    ideation
+- title:
+    Strategy
+  category:
+    strategy
+- title:
+    Coding
+  category:
+    coding
+- title:
+    Entrepreneurship
+  category:
+    entrepreneurship
+
+
+---
+<div>
+  Show mentors who can help in: 
+  <select id="mentor-filter">
+    <option value="">Anything</option>
+    {{#each mentor-filter.mentorCategories}}
+      <option value="{{this.category}}">{{this.title}}</option>
+    {{/each}}
+  </select>
+</div>
+<br/>

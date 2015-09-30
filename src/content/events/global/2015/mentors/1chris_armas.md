@@ -1,7 +1,8 @@
 ---
 name: Chris Armas
-description: Founder/ Managing Director, Code for the Kingdom
+description: Founder/Managing Director, Code for the Kingdom
 picture: chrisarmas.jpg 
+categories: business ideation pitch
 ---
 <br>
 <b>Mentor hours</b>: Friday Oct 2, 8pm US PST unti Saturday Oct 3, 8am US PST 
