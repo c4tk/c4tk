@@ -197,5 +197,8 @@
 .talk-details {
   background: gray;
   color: white;
+}
+
+.talk-details .title {
   text-decoration: underline;
 }

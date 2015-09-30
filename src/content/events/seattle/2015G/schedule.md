@@ -53,7 +53,7 @@
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
 <tr>
-  <td><strong>12:15 PM</strong></td><td class="talk-details"><span class="expander"><strong>The 7 Things I Wished I Had Learned in College around Putting Your Faith in Action – Lessons for your Career Journey</strong> by Scott Chin (World Vision)</span><div class="content">In this session, we’ll spend time exploring practical insights on how we can bring together our faith journey with our career journey.  I’ll be drawing lessons learned from my time as a head recruiter at Microsoft, the current digital leader at World Vision US and over a decade of experience in mentoring and church leadership.  If you’ve ever wrestled with this topic, I hope to see you at this session.</div></td>
+  <td><strong>12:15 PM</strong></td><td class="talk-details"><span class="expander title"><strong>The 7 Things I Wished I Had Learned in College around Putting Your Faith in Action – Lessons for your Career Journey</strong> by Scott Chin (World Vision)</span><div class="content">In this session, we’ll spend time exploring practical insights on how we can bring together our faith journey with our career journey.  I’ll be drawing lessons learned from my time as a head recruiter at Microsoft, the current digital leader at World Vision US and over a decade of experience in mentoring and church leadership.  If you’ve ever wrestled with this topic, I hope to see you at this session.</div></td>
 </tr>
 <tr class="row-6 even">
   <td class="column-1"><strong>4:30 PM</strong></td><td class="column-2">Optional progress briefing, more developing </td>
