@@ -14,6 +14,8 @@
     <script src="assets/js/skel.min.js"></script>
     <script src="assets/js/skel-layers.min.js"></script>
     <script src="assets/js/contact-form.js"></script>
+    <script src="assets/js/select2.min.js"></script>
+    <script src="assets/js/mentor-filter.js"></script>
     <script src="assets/js/init.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -27,6 +29,7 @@
       <link rel="stylesheet" href="assets/css/style-noscript.css" />
     </noscript>
     <link rel="stylesheet" href="assets/css/simple-expand.css" />
+    <link rel="stylesheet" href="assets/css/select2.css" />
     <link rel="stylesheet" href="assets/css/c4tk.css" />
     <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie/v8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie/v9.css" /><![endif]-->
@@ -144,6 +147,8 @@
                     
                   
                 </li>
+                
+              
                 
               
                 
@@ -338,6 +343,8 @@
             <li>
                     <a href="contact.html">Contact Us</a>
             </li>
+            
+          
             
           
             
@@ -1213,15 +1220,36 @@ A pastor’s guide to accelerating generosity in churches</p>
 </div>
 
 <h3 id="virtual-mentors">Virtual Mentors</h3>
+<div>
+  Show mentors who can help in: 
+  <select id="mentor-filter">
+    <option value="">Anything</option>
+
+      <option value="marketing">Marketing</option>
+
+      <option value="business">Business</option>
+
+      <option value="ideation">Ideation</option>
+
+      <option value="strategy">Strategy</option>
+
+      <option value="coding">Coding</option>
+
+      <option value="entrepreneurship">Entrepreneurship</option>
+
+  </select>
+</div>
+<br/>
+
 <div class="row">
 
-<div class="6u">
+<div class="6u mentor-filterable business ideation pitch">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/chrisarmas.jpg" alt="Chris Armas" title="Chris Armas"><br>      </span>
       <p class="mentor-titles">
         Chris Armas<br/>
-        Founder/ Managing Director, Code for the Kingdom
+        Founder/Managing Director, Code for the Kingdom
       </p>
   </div>
   <div class="6u content mentor-description">
@@ -1234,10 +1262,11 @@ A pastor’s guide to accelerating generosity in churches</p>
 <p>
 Chris Armas leads the Code for the Kingdom Initiative globally. Chris is a consummate business and technology thought leader. Chris has been a global technology entrepreneur having launched two successful startups, as well as being CIO/CTO at Fortune 500 companies. Chris focus now is to help engage, challenge, release, and support the most brilliant minds of the entrepreneurial and tech sector to create technologies that would affect our communities and culture from a Christian perspective.
 </p>
+
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/aaron.jpg" alt="Aaron Ginn" title="Aaron Ginn"><br>      </span>
@@ -1264,7 +1293,7 @@ Currently the Head of Growth at Stumbleupon, Aaron is an expert on growth and ha
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/alain.jpg" alt="Alain Ayoub" title="Alain Ayoub"><br>      </span>
@@ -1280,7 +1309,7 @@ Currently the Head of Growth at Stumbleupon, Aaron is an expert on growth and ha
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/ali_llewellyn.jpg" alt="Ali Llewellyn" title="Ali Llewellyn"><br>      </span>
@@ -1296,7 +1325,7 @@ Currently the Head of Growth at Stumbleupon, Aaron is an expert on growth and ha
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/andrew.jpg" alt="Andrew Sears" title="Andrew Sears"><br>      </span>
@@ -1313,7 +1342,7 @@ Currently the Head of Growth at Stumbleupon, Aaron is an expert on growth and ha
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/anne-marie.jpg" alt="Anne Marie" title="Anne Marie"><br>      </span>
@@ -1331,7 +1360,7 @@ Anne-Marie has served as a mentor to high school entrepreneurs thru the BUILD pr
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/blake_burris.jpg" alt="Blake Burris" title="Blake Burris"><br>      </span>
@@ -1345,7 +1374,7 @@ Anne-Marie has served as a mentor to high school entrepreneurs thru the BUILD pr
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/brian_emerson.jpg" alt="Brian Emerson" title="Brian Emerson"><br>      </span>
@@ -1360,7 +1389,7 @@ Anne-Marie has served as a mentor to high school entrepreneurs thru the BUILD pr
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/casey_keith.jpg" alt="Keith Casey" title="Keith Casey"><br>      </span>
@@ -1375,7 +1404,7 @@ Anne-Marie has served as a mentor to high school entrepreneurs thru the BUILD pr
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/david_lin.jpg" alt="David W. Lin" title="David W. Lin"><br>      </span>
@@ -1389,7 +1418,7 @@ Anne-Marie has served as a mentor to high school entrepreneurs thru the BUILD pr
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/diane_hoeft.jpg" alt="Diane Hoeft" title="Diane Hoeft"><br>      </span>
@@ -1407,7 +1436,7 @@ Anne-Marie has served as a mentor to high school entrepreneurs thru the BUILD pr
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/drew_dickens.jpeg" alt="Drew Dickens" title="Drew Dickens"><br>      </span>
@@ -1425,7 +1454,7 @@ Drew’s passion is to identify and eliminate media and technology barriers for 
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/dusty_gulleson.jpg" alt="Dusty Gulleson" title="Dusty Gulleson"><br>      </span>
@@ -1440,7 +1469,7 @@ Drew’s passion is to identify and eliminate media and technology barriers for 
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/Jason-Illian.jpg" alt="Jason Illian" title="Jason Illian"><br>      </span>
@@ -1457,7 +1486,7 @@ Jason is also the former CEO of Big Jump Media (godtube.com and tangle.com), a C
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/jim.jpg" alt="Jim Straatman" title="Jim Straatman"><br>      </span>
@@ -1471,7 +1500,7 @@ Jason is also the former CEO of Big Jump Media (godtube.com and tangle.com), a C
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/jon.jpg" alt="Jon Johansson" title="Jon Johansson"><br>      </span>
@@ -1492,7 +1521,7 @@ Oh, and I fix things, all kinds of things. I am a fixer.
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/justin_miller.jpg" alt="Justin Miller" title="Justin Miller"><br>      </span>
@@ -1507,7 +1536,7 @@ Oh, and I fix things, all kinds of things. I am a fixer.
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/ken.jpg" alt="Ken Churchill" title="Ken Churchill"><br>      </span>
@@ -1522,7 +1551,7 @@ Oh, and I fix things, all kinds of things. I am a fixer.
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/kent_shaffer.jpg" alt="Kent Shaffer" title="Kent Shaffer"><br>      </span>
@@ -1540,7 +1569,7 @@ He writes at ChurchRelevance.com about the intersection of theology and methodol
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/louann-hunt.jpg" alt="LouAnn Hunt" title="LouAnn Hunt"><br>      </span>
@@ -1555,7 +1584,7 @@ He writes at ChurchRelevance.com about the intersection of theology and methodol
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/mark_stephan.png" alt="Mark S" title="Mark S"><br>      </span>
@@ -1570,7 +1599,7 @@ He writes at ChurchRelevance.com about the intersection of theology and methodol
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/neil-ahlsten.jpg" alt="Neil Ahlsten" title="Neil Ahlsten"><br>      </span>
@@ -1585,7 +1614,7 @@ He writes at ChurchRelevance.com about the intersection of theology and methodol
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/nicholas_skytland.jpg" alt="Nicholas Skytland" title="Nicholas Skytland"><br>      </span>
@@ -1600,7 +1629,7 @@ He writes at ChurchRelevance.com about the intersection of theology and methodol
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/roberto.jpg" alt="Roberto Ortiz" title="Roberto Ortiz"><br>      </span>
@@ -1615,7 +1644,7 @@ He writes at ChurchRelevance.com about the intersection of theology and methodol
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/shawn_ring.png" alt="Shawn Ring" title="Shawn Ring"><br>      </span>
@@ -1630,7 +1659,7 @@ He writes at ChurchRelevance.com about the intersection of theology and methodol
   </div>
 </div>
 <!-- section -->
-<div class="6u">
+<div class="6u mentor-filterable ">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        <img src="assets/images/mentors/troy-carl.png" alt="Troy Carl" title="Troy Carl"><br>      </span>
@@ -1739,6 +1768,20 @@ Become one of the few developers to provide Deaf Bible videos in your app. </p>
 <ul>
 <li>If you plan to use both APIs, you’ll have to register with each independently.</li>
 </ul>
+
+    </div>
+  </div>
+</div>
+<!-- section -->
+<div class="row">
+  <div class="4u">
+    <a href="https://developers.google.com/cardboard/" class="api-image">
+      <img src="assets/images/apis/google_cardboard.png" alt="Google Cardboard API" title="Google Cardboard API"><br>    </a>
+  </div>
+  <div class="8u api-description" style="vertical-align:baseline">
+    <span class="expander headline"><span class="toggle-switch"></span>Google Cardboard</span>
+    <div class="content">
+    <p>Google Cardboard enables to us to create virtual reality experiences for the masses. Check it the developer documentation here: <a href="https://developers.google.com/cardboard/"><a href="https://developers.google.com/cardboard/">https://developers.google.com/cardboard/</a></a></p>
 
     </div>
   </div>
