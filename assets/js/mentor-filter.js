@@ -13,8 +13,6 @@ function filterMentorsBy(evt) {
 }
 $(function () {
   $('#mentor-filter').change(filterMentorsBy);
-  $('#mentor-filter').select2({
-    minimumResultsForSearch: Infinity
-  });
+
 });
 
