@@ -185,3 +185,17 @@
       display: none;
     }
 
+.talk-details:hover {
+  background-color: #3fb1a3;
+  cursor: pointer;
+}
+
+.talk-details.expanded {
+  background-color: #3fb1a3;
+}
+
+.talk-details {
+  background: gray;
+  color: white;
+  text-decoration: underline;
+}
