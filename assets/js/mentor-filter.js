@@ -12,9 +12,10 @@ function filterMentorsBy(evt) {
     $('.mentor-card').show();
   }
 }
-
-$('#mentor-filter').change(filterMentorsBy);
-$('#mentor-filter').select2({
-  minimumResultsForSearch: Infinity
+$(function () {
+  $('#mentor-filter').change(filterMentorsBy);
+  $('#mentor-filter').select2({
+    minimumResultsForSearch: Infinity
+  });
 });
 
