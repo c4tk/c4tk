@@ -4,12 +4,11 @@
 // only supports one category at a time for now
 function filterMentorsBy(evt) {
   var category = evt.target.value;
-  $('.mentor-card').hide();
-  $('.mentor-description').hide();
+  $('.mentor-filterable').hide();
   if (category) {
     $('.' + category).show();
   } else {
-    $('.mentor-card').show();
+    $('.mentor-filterable').show();
   }
 }
 $(function () {

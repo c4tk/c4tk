@@ -28,9 +28,10 @@ Meet with Mentors is a great opportunity to connect with industry experts who ca
 </div>
 
 ### Virtual Mentors
+{{> mentor-filter}}
 <div class="row">
 {{#compose src='*.md' cwd=cwd1}}
-<div class="6u">
+<div class="6u mentor-filterable {{@categories}}">
   <div class="mentor-card expander">
       <span class="mentor-picture">
        ![{{@name}}]({{assets}}/images/mentors/{{@picture}} "{{@name}}")       
