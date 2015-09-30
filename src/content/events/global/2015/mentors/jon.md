@@ -3,6 +3,7 @@ name: Jon Johansson
 description: Manager of Business Technology, OneHope
 picture: jon.jpg 
 twitter: handle
+categories: business design ideation strategy ministry
 ---
 
 Geek over at OneHope.

@@ -2,7 +2,7 @@
 name: Justin Miller
 description: Director of Technology, Global Media Outreach
 picture: justin_miller.jpg
-
+categories: ideation design coding strategy ministry
 ---
 <br>
 <b>Mentor hours</b>: Friday Oct 2, 6am US PST until 8am US PST

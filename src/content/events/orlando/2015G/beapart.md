@@ -1,6 +1,0 @@
-﻿## Be a part of it
----
-
-<iframe src="https://docs.google.com/forms/d/13e3io5hVkj4z8c23LJAgDiTX8-uerHK9Zsj6jllXpKg/viewform?embedded=true" width="1000" height="2250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-

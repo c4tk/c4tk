@@ -2,7 +2,7 @@
 name: Andrew Sears
 description: Executive Director, TechMission
 picture: andrew.jpg
-
+categories: ideation ministry strategy
 ---
 
 <br>

@@ -2,7 +2,7 @@
 name: Aaron Ginn
 description: Head of Growth, StumbleUpon
 picture: aaron.jpg
-categories: 
+categories: ideation marketing strategy
 ---
 
 <br>

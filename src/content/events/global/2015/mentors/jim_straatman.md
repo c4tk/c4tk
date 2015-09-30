@@ -2,6 +2,7 @@
 name: Jim Straatman
 description: Technologist, Logos Bible Software
 picture: jim.jpg
+categories: business  design coding ideation strategy entrepreneurship
 ---
 
 <br>

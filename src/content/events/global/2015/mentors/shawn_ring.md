@@ -3,6 +3,7 @@ name: Shawn Ring
 description: Executive Pastor of Table/myGateway, Gateway Church
 picture: shawn_ring.png
 twitter: handle
+categories: ideation design strategy ministry entrepreneurship
 ---
 <br>
 <b>Mentor hours</b>: Friday Oct 2, 1pm US CST until 5pm US CST

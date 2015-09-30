@@ -3,6 +3,7 @@ name: Drew Dickens
 description: Director and Content Lead, Abide Prayer
 picture: drew_dickens.jpeg
 twitter: handle
+categories: business  ideation strategy  ministry entrepreneurship
 ---
 
 Drew is the Director and Content Lead of Abide Prayer (Abide.Is), an amazing new curation platform of voiced guided prayers from the world’s leading voices in prayer. Abide is being built by a dedicated 12-member technology and design team in Palo Alto, CA that moved over from Google, eBay, Tesla, and others.
