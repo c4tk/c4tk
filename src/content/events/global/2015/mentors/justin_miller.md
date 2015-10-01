@@ -5,7 +5,7 @@ picture: justin_miller.jpg
 categories: ideation design coding strategy ministry
 ---
 <br>
-<b>Mentor hours</b>: Friday Oct 2, 6am US PST until 8am US PST
+<b>Mentor hours</b>: Friday Oct 2, 9:30pm US PST until Saturday Oct 3, 1am US PST
 
 <a class="button small special"  href="https://justinmiller.youcanbook.me" target="_blank">SCHEDULE YOUR MENTORING TIME</a>
 </b>
