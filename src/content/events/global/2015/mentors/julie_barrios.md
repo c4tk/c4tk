@@ -1,7 +1,7 @@
 ﻿---
 name: Julie Barrios
 description: Director of Spiritual Formation, Reality SF
-picture: Julie.jpg
+picture: julie.jpg
 categories: ideation ministry
 ---
 <br>

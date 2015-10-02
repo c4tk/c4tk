@@ -1,7 +1,7 @@
 ---
 name: Brent Dusing
 description: Founder, Chairman and CEO, Lightside Games
-picture: Brent.jpg
+picture: brent.jpg
 categories: coding design ideation strategy ministry
 ---
 <br>
