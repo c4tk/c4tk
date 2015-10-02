@@ -2,10 +2,10 @@
 name: Julie Barrios
 description: Director of Spiritual Formation, Reality SF
 picture: Julie.jpg
-categories: ideation design coding strategy ministry
+categories: ideation ministry
 ---
 <br>
-<b>Mentor hours</b>: Friday Oct 2, 11am US PST until 1pm US PST
+<b>Mentor hours</b>: Friday Oct 2, 11am US PDT until 1pm US DT
 
 <a class="button small special"  href="https://juliebarrios.youcanbook.me" target="_blank">SCHEDULE YOUR MENTORING TIME</a>
 </b>

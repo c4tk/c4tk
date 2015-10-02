@@ -6,8 +6,7 @@ twitter: handle
 categories: business  design ideation strategy entrepreneurship
 ---
 <br>
-<b>Mentor hours</b>: Sunday Oct4, 8am US
-PST until 5pm US PST
+<b>Mentor hours</b>: Sunday Oct 4, 8am US PDT until 5pm US PDT
 
 <a class="button small special"
 href="https://dustygulleson.youcanbook.me"

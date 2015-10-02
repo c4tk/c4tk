@@ -5,8 +5,7 @@ picture: Jason-Illian.jpg
 categories: business design ideation strategy entrepreneurship
 ---
 <br>
-<b>Mentor hours</b>: Friday Oct2, 9:30pm US
-CST until Saturday, Oct3 1am US CST
+<b>Mentor hours</b>: Friday Oct 2, 7:30pm US PDT until Saturday, Oct 3 11pm US PDT
 
 <a class="button small special"
 href="https://jasonillian.youcanbook.me"

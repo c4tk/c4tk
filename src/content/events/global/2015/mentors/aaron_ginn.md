@@ -6,8 +6,7 @@ categories: ideation marketing strategy
 ---
 
 <br>
-<b>Mentor hours</b>: Friday Oct2, 10am US
-PST until 12pm US PST
+<b>Mentor hours</b>: Friday Oct 2, 10am US PDT until 12pm US PDT
 
 <a class="button small special"
 href="https://aaronginn.youcanbook.me"

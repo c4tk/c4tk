@@ -6,7 +6,7 @@ categories: ideation ministry strategy
 ---
 
 <br>
-<b>Mentor hours</b>: Friday Oct 2, 3pm US EST until 5pm US EST
+<b>Mentor hours</b>: Friday Oct 2, 12pm US PDT until 2pm US PDT
 
 <a class="button small special"  href="https://andrewsears1.youcanbook.me" target="_blank">SCHEDULE YOUR MENTORING TIME</a>
 </b>

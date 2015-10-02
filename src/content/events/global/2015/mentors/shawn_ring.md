@@ -6,8 +6,8 @@ twitter: handle
 categories: ideation design strategy ministry entrepreneurship
 ---
 <br>
-<b>Mentor hours</b>: Friday Oct 2, 1pm US CST until 5pm US CST
-Saturday Oct 3, 3pm US CST until 5pm US CST
+<b>Mentor hours</b>: Friday Oct 2, 11am US PDT until 3pm US PDT, 
+Saturday Oct 3, 1pm US PDT until 3pm US PDT
 
 <a class="button small special"  href="https://shawnring.youcanbook.me" target="_blank">SCHEDULE YOUR MENTORING TIME</a>
 </b>

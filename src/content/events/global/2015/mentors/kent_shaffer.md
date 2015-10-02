@@ -6,14 +6,14 @@ twitter: handle
 categories: ideation design strategy ministry entrepreneurship
 ---
 <br>
-<b>Mentor hours</b>: Saturday Oct3, 10am US
-PST until 5pm US PST
+<b>Mentor hours</b>: Saturday Oct 3, 10am US PDT until 5pm US PDT
 
 <a class="button small special"
 href="https://kentshaffer.youcanbook.me"
 target="_blank">SCHEDULE YOUR MENTORING
 TIME</a>
 </b>
+
 
 Kent Shaffer lives in an RV with his wife and 2 kids. It's part of his work with Open Church - an initiative to help disciples of Jesus collaborate, learn from each other, and share resources. At the core of this collaborative ecosystem is a free, global library of digital content and tools.
 

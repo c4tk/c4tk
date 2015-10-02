@@ -1,9 +1,19 @@
 ---
 name: Chris Chan
-description: Front-end Engineer, Yahoo!
+description:  Hacker, Yahoo
 picture: ChrisChan.jpg 
 categories: coding design ideation strategy 
 ---
-Chris is a leader in product innovation at Yahoo. He dominates Hack Days at Yahoo and has won the most number of Hack Days in the company’s history. In his day job, he works as an engineering lead at Yahoo Search, where he is currently bringing his inventions to market. He has 15+ years of experience in programming, and holds a Master’s Degree in computer science from the University of Victoria in Canada.
 
-Chris enjoys volunteering his time to a number of causes and ministries. He currently sits on the communications board at Bethel Church of San Jose, where he advises the church on how to effectively leverage technology for the ministry. He is particularly passionate in mentoring and coaching young adults and students about careers and personal finances.
+<br>
+<b>Mentor hours</b>: Friday Oct 2, 10am US PDT until 12pm US PDT and Saturday, Oct 3, 3pm US PDT until 6pm US PDT
+
+<a class="button small special"
+href="https://chrischan1.youcanbook.me"
+target="_blank">SCHEDULE YOUR MENTORING
+TIME</a>
+</b>
+
+<p>
+Chris is a leader in product innovation at Yahoo. He dominates Hackathons at Yahoo and has won the most number of Hackathons in the company’s history. He has a particular passion for mentoring new hackers at Hackathons. In his day job, he works as an engineering lead at Yahoo Search, where he is currently bringing his inventions to market. Chris also sits on the Yahoo For Good Council where he works on hacks focused on bringing positive social impact. He has 15+ years of experience in programming, and holds a Master’s Degree in computer science from the University of Victoria in Canada. 
+</p>
