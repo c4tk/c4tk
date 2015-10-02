@@ -6,7 +6,7 @@ categories: coding design ideation strategy
 ---
 
 <br>
-<b>Mentor hours</b>: Friday Oct 2, 10am US PDT until 12pm US PDT and Saturday, Oct 3, 3pm US PDT until 6pm US PDT
+<b>Mentor hours</b>: Friday Oct 2, 10pm US PDT until 12am (midnight) US PDT and Saturday, Oct 3, 3pm US PDT until 6pm US PDT
 
 <a class="button small special"
 href="https://chrischan1.youcanbook.me"
