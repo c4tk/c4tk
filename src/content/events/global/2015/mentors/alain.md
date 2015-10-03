@@ -6,7 +6,7 @@ categories: coding design ideation strategy
 ---
 
 <br>
-<b>Mentor hours</b>: Sunday Oct 4, 10am US PDT until 6pm US PDT
+<b>Mentor hours</b>: Sunday Oct 4, 830am US PDT until 930am and 1pm until 6pm US PDT
 
 <a class="button small special"
 href="https://alainayoub.youcanbook.me/"
