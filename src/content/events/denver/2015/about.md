@@ -3,17 +3,11 @@
 
 ###What is Code for the Kingdom?
 
-Are you an entrepreneur, technologist or innovator? Have you ever wanted to impact your cities, circles and communities and solve problems that you see around you? Have you ever wanted to be the change? If yes, join us on November 6-8, 2015 for the Rocky Mountain's first Code for the Kingdom Hackathon, hosted by WorldVenture. 
+Are you a coder, developer, designer, or technologist? Have you ever wanted to solve problems that you see in your own city or community, or around the world? If so, join us November 6-8, 2015 for Code for the Kingdom’s first hackathon in Colorado.
 
-Code for the Kingdom is a weekend Hackathon series and ongoing ecosystem where the challenges confronting our communities, our society, our families, and our spiritual lives are tackled from a Christian perspective. The movement hosts weekend gatherings in different cities where developers, designers, ideators and others collaborate to advance common good and serve God’s Kingdom.
+Code for the Kingdom is a weekend Hackathon series and ongoing ecosystem where the challenges confronting our communities, society, families, and spiritual lives are tackled from a Christian perspective. Simply put, a hackathon is a 48 hour “hacking” marathon where coders, developers, designers, ideators and others come together to collaborate and serve God’s Kingdom using technology.
 
-The expansion of Code for the Kingdom to the Rocky Mountain area builds upon the success of previous regional events, which have already gathered over 1000 technologists to create over 100 projects to do good. This first Rocky Mountain collaboration will leverage the skills and insights of our entrepreneurs, designers, and technologists to foster an entrepreneurial culture with Christian values and activate technologists to give their skills and some time as their contribution to the mission field.
-
-Join some of the most talented developers, designers, entrepreneurs, and creative people in the country as they collaborate with each other, investors, mentors, innovative non-profits and churches to create technology to help release the oppressed, teach God’s word, heal the sick, feed the hungry, clothe the naked and support the Church and the body of Christ. 
-Join us this November 6-8 and let’s create technology that matters. 
-
-
-
+Code for the Kingdom’s previous regional events have already gathered over 2000 technologists to design and create over 250 new projects and solutions to real world problems. And now is your chance to join the movement. Together, let’s create technology to help release the oppressed, teach God’s word, empower the global expansion of the church, and offer hope to those in need.
 
 <hr/>
 
