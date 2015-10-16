@@ -4,9 +4,10 @@ cwd: src/content/events/denver/2015/challenges
 ---
 ## <i class="icon fa-flag"></i> <b>Challenges</b>
 
-The challenges will be announced on Oct 6, 2015
 
-In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the spirit of the Hackathon: Catalyzing Movements for the Gospel. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
+Here are the challenges to get you started. Please remember that more challenges may be presented between now and the first day of the event. If you would like to discuss with potential team members, or even with the champions of these challenges, please join and leverage our Indigitous community.
+
+In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the Catalyzing Movements for the Gospel Theme of the event. Please come prepared to pitch your project at the event so that you can recruit teams to work on them.
 
 
 {{#compose src="*.md" cwd=cwd}}
