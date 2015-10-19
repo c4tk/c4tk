@@ -5,7 +5,7 @@ champions:
 - name:
     Lumi
   logo:
-   lumi.png
+   Lumi.png
   url:
     http://www.lumi.ug
 ---
