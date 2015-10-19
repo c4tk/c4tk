@@ -1,6 +1,6 @@
 ﻿---
-title: How can we create an app that mobilizes Christians to pray for their neighborhoods?
-intro:  Group Prayer Walk App
+title: Group Prayer Walk App
+intro: How can we create an app that mobilizes Christians to pray for their neighborhoods?
 champions:
 - name:
     World Venture
