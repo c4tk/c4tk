@@ -3,6 +3,7 @@ name: Kent Shaffer
 description: Founder, Open Church
 picture: kent_shaffer.jpg
 twitter: handle
+categories: ideation design strategy ministry entrepreneurship
 ---
 
 Kent Shaffer lives in an RV with his wife and 2 kids. It's part of his work with Open Church - an initiative to help disciples of Jesus collaborate, learn from each other, and share resources. At the core of this collaborative ecosystem is a free, global library of digital content and tools.
