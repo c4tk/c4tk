@@ -1,11 +1,11 @@
 ---
-name: Chris Chan
-description:  Hacker, Yahoo
-picture: ChrisChan.jpg 
-categories: coding design ideation strategy 
+name: Christopher Chiu
+description:  Senior developer, OpenGov
+picture: chris_chiu.jpg 
+categories: coding design ideation 
 ---
 
 
 <p>
-Chris is a leader in product innovation at Yahoo. He dominates Hackathons at Yahoo and has won the most number of Hackathons in the company’s history. He has a particular passion for mentoring new hackers at Hackathons. In his day job, he works as an engineering lead at Yahoo Search, where he is currently bringing his inventions to market. Chris also sits on the Yahoo For Good Council where he works on hacks focused on bringing positive social impact. He has 15+ years of experience in programming, and holds a Master’s Degree in computer science from the University of Victoria in Canada. 
+Chris was part of a winning team in the first ever Code for the Kingdom. That event opened opportunities for other contributions in kingdom related projects. He was the technical lead for the companion app to Francis Chan's "You and Me Forever" book. For his day job, Chris works as a developer at OpenGov, helping governments be more accountable and make better financial decisions.
 </p>
