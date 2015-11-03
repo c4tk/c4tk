@@ -14,6 +14,6 @@ During the event, this username and key will be active so developers can immedia
 * Username: c4tksanjose@bible.is
 * Password: sanjose2015
 * Login URL: https://www.digitalbibleplatform.com/site/wp-login.php
-* DBT Key: f241660c7e9b26ddf60d73b1d9fe5856
+* DBT Key: cc79c4b62ebfe6cf77f6d07c27d4949a
 
 

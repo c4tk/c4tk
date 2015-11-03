@@ -14,6 +14,5 @@ During the event, this username and key will be active so developers can immedia
 * Username: c4tkrockeymtn@bible.is
 * Password: denver2015
 * Login URL: https://www.digitalbibleplatform.com/site/wp-login.php
-* DBT Key: f241660c7e9b26ddf60d73b1d9fe5856
-
+* DBT Key: 7e5b66be51fc8427a0cccadd5f85ab1e
 
