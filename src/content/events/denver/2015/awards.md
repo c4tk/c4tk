@@ -1,11 +1,13 @@
 ﻿## <i class="icon fa-trophy"></i> <b>Awards</b>
 
-A panel of judges will select awards in multiple categories.
+
+Participants will compete for $2000 cash prizes and non-cash Recognition Awards in multiple categories:
+
 * <i class="icon fa-trophy"></i> Best Overall started at the hackathon
 * <i class="icon fa-trophy"></i> Best Overall started before the hackathon
 * <i class="icon fa-trophy"></i> People’s choice (voted by all participants across all submitted projects)
-* <i class="icon fa-trophy"></i> Plus, other awards for best use of sponsors’ platforms and judges’ special awards.
+* <i class="icon fa-trophy"></i> Best Use of the Church Community Builder API
+* <i class="icon fa-trophy"></i> Best Use of the Digital Bible Platform API
 
-After the hackathon, your solutions will be featured in a Leadership Network Advance edition reaching over 60,000 church leaders worldwide. 
 
 {{> register-button}}
