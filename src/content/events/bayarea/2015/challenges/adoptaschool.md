@@ -1,6 +1,6 @@
 ---
 title: Adopt a School with TBC
-intro: How can technology encourage intimacy with God?
+intro: How can technology encourage churches, non-profits, and businesses in the Bay Area to adopt schools and respond the community needs?
 champions:
 - name:
     Transforming the Bay with Christ

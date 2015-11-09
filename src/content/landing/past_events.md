@@ -2,6 +2,17 @@
 events:
 
 - name:
+    Rocky Mountain, CO Nov 6-8, 2015
+  photo:
+    denver.jpg
+  location:
+
+  date:
+    Nov 6-8, 2015 
+  link:
+    denver-hackathon-2015.html
+
+- name:
     Global Hackathon Oct 2-4, 2015 
   photo:
     global_weekend.jpg
