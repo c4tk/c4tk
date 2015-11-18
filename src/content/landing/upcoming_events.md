@@ -1,26 +1,6 @@
 ---
 events: 
-- name:
-    Best of Global Hackathon announcement Nov 12, 2015
-  photo:
-    global_weekend.jpg
-  location:
-    13 Cities around the world
-  date:
-    Best of Global announcement Nov 12, 2015 
-  link:
-   global2015.html   
-    
-- name:
-    Bay Area 2015, Nov 13-15, 2015
-  photo:
-    sf1.jpg  
-  location:
-    Cityteam San Jose
-  date:
-    Nov 13-15, 2015
-  link:
-    bay-area-hackathon-2015.html    
+ 
         
   
 ---

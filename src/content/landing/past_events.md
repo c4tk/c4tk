@@ -1,6 +1,18 @@
 ---
 events:
-
+    
+- name:
+    Bay Area 2015, Nov 13-15, 2015
+  photo:
+    sf1.jpg  
+  location:
+    Cityteam San Jose
+  date:
+    Nov 13-15, 2015
+  link:
+    bay-area-hackathon-2015.html   
+    
+    
 - name:
     Rocky Mountain, CO Nov 6-8, 2015
   photo:
