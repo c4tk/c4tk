@@ -1,0 +1,27 @@
+---
+title: Mentors
+cwd: src/content/events/nashville/2016/mentors
+---
+## <i class="icon fa-group"></i> Mentors
+
+Meet with Mentors is a great opportunity to connect with industry experts who can guide you and your concepts. 
+{{> mentor-filter}}
+<div class="row">
+{{#compose src='*.md' cwd=cwd}}
+<div class="6u mentor-filterable {{@categories}}">
+  <div class="mentor-card expander">
+      <span class="mentor-picture">
+       ![{{@name}}]({{assets}}/images/mentors/{{@picture}} "{{@name}}")       
+      </span>
+      <p class="mentor-titles">
+        {{@name}}<br/>
+        {{@description}}
+      </p>
+  </div>
+  <div class="6u content mentor-description">
+    {{{@content}}}
+  </div>
+</div>
+{{/compose}}
+</div>
+

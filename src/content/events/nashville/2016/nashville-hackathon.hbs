@@ -1,0 +1,58 @@
+---
+title: Nashville 2016
+location: at Lipscomb University - Swang Business Building, Nashville TN
+date: March 11-13, 2016
+logo:
+event: latest
+customBanner:
+cwd: src/content/events/nashville/2016/
+layout: src/templates/layouts/event.hbs
+registrationLink: https://nashville-hackathon.eventbrite.com
+sections:
+- path:
+    about.md
+  title:
+    About
+- path:
+    schedule.md
+  title:
+    Schedule
+- path:
+    challenges.md
+  title:
+    Challenges
+- path:
+    awards.md
+  title:
+- path:
+    sponsors.md
+  title:
+    Sponsors
+- path:
+    rules.md
+  title:
+    Rules
+- path:
+    faq.md
+  title:
+    FAQ
+- path:
+    map.md
+  title:
+    Map
+- path:
+    footer.md
+  title:
+    (hidden)
+---
+{{#each sections}}
+<section class="wrapper container style4" id="{{this.path}}">
+<div>
+{{#markdown}}
+{{#compose cwd=../../cwd src=../this.path}}
+{{{@content}}}
+{{/compose}}
+{{/markdown}}
+</div>
+</section>
+{{/each}}
