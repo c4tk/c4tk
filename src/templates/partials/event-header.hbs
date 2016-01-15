@@ -11,7 +11,7 @@ component: event-header
           <li class="current"><a href="index.html">{{ this.homealtLanguage}}</a></li>
       {{else}}
           <li class="current"><a href="index.html">Home</a></li>
-      {{/if}} 
+      {{/if}}
 
       <li class="submenu">
         <a href="">Menu</a>
@@ -30,14 +30,20 @@ component: event-header
                 <li>
                   {{#is data.title "Jakarta 2015"}}
                     <a href="http://codeforthekingdom.id">{{data.title}}</a>
-            
+
                   {{else }}
-                    {{#is data.title  "Los Angeles 2015"}} 
+                    {{#is data.title  "Los Angeles 2015"}}
                       <a href="http://www.codeforthekingdomla.com">{{data.title}}</a>
                     {{else }}
-                      <a href="{{relative dest this.dest}}">{{data.title}}</a>                    
+                       {{#is data.title  "Nashville 2016"}}
+                         <a href="http://codeforthekingdomnashville.org">{{data.title}}</a>
+                       {{else }}
+                         <a href="{{relative dest this.dest}}">{{data.title}}</a>
+                      {{/is}}
                     {{/is}}
                   {{/is}}
+
+
                 </li>
                 {{/is}}
               {{/each}}
@@ -60,7 +66,7 @@ component: event-header
       {{else}}
         <li><a href="{{registrationLink}}" class="button special">Sign Up</a></li>
 
-      {{/if}} 
+      {{/if}}
 
 
       {{#if altLanguage}}
