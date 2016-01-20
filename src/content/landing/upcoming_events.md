@@ -2,6 +2,18 @@
 events: 
 
 - name:
+    CBU Riverside, CA March 3-5, 2016
+  photo:
+    cbu.jpg  
+  location:
+     at California Baptist University
+  date:
+    March 3-5, 2016
+  link:
+   cbu2016.html     
+        
+        
+- name:
     Nashville, TN  March 11-13, 2016
   photo:
     nashville.jpg  
