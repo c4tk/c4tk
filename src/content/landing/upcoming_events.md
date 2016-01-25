@@ -23,6 +23,72 @@ events:
     March 11-13, 2016
   link:
     http://codeforthekingdomnashville.org   
+    
+- name:
+    Global Hackathon 2016 
+  photo:
+    global_weekend.jpg
+  location:
+    Cities all over the world
+  date:
+    Fall 2016 
+  link:
+   global-hackathon-2016.html  
+
+- name:
+    Poland 2016 
+  photo:
+    katowice.jpg
+  location:
+    Katowice, Poland
+  date:
+    2016 
+  link:
+   poland-hackathon-2016.html    
+   
+- name:
+    St. Louis 2016 
+  photo:
+    saint_louis.jpg
+  location:
+    St. Louis, MO
+  date:
+    2016 
+  link:
+   st-louis-hackathon-2016.html     
+   
+- name:
+    Rochester 2016 
+  photo:
+    rochester.jpg
+  location:
+    Rochester, NY
+  date:
+    2016 
+  link:
+   rochester-hackathon-2016.html        
+   
+- name:
+    Austin 2016 
+  photo:
+    austin2.jpg
+  location:
+    Austin, TX
+  date:
+    2016 
+  link:
+   austin-hackathon-2016.html     
+   
+- name:
+    Seattle 2016
+  photo:
+    seattle1.jpg
+  location:
+    Seattle, WA
+  date:
+    2016
+  link:  
+    seattle-hackathon-2016.html 
         
   
 ---
