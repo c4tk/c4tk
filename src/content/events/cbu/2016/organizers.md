@@ -5,7 +5,7 @@ cwd: src/content/events/cbu/2016/organizers
 
 ## <i class="icon fa-group"></i> <b>Local Organizers</b>
 
-Meet your Local Organizers.
+Meet your CBU Organizers.
 <div class="row">
 {{#compose src='*.md' cwd=cwd}}
 <div class="6u">

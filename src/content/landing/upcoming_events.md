@@ -66,7 +66,19 @@ events:
   date:
     2016 
   link:
-   rochester-hackathon-2016.html        
+   rochester-hackathon-2016.html      
+   
+   
+- name:
+    Atlanta 2016
+  photo:
+    atlanta.jpg
+  location:
+
+  date:
+    2016
+  link:
+   atlanta-hackathon-2016.html    
    
 - name:
     Austin 2016 
@@ -78,7 +90,30 @@ events:
     2016 
   link:
    austin-hackathon-2016.html     
-   
+
+- name:
+    Jakarta 2016
+  photo:
+    Jakarta.jpg
+  location:
+
+  date:
+    2016
+  link:
+    jakarta-hackathon-2016.html
+    
+    
+- name:
+    Rocky Mountain 2016
+  photo:
+    denver.jpg
+  location:
+
+  date:
+    2016 
+  link:
+    rocky-mountain-hackathon-2016.html
+    
 - name:
     Seattle 2016
   photo:
@@ -90,7 +125,9 @@ events:
   link:  
     seattle-hackathon-2016.html 
         
-  
+        
+     
+
 ---
 
 
