@@ -25,6 +25,17 @@ events:
     http://codeforthekingdomnashville.org   
     
 - name:
+    Katowice, Poland April 15-17, 2016 
+  photo:
+    katowice.jpg
+  location:
+    Katowice, Poland
+  date:
+    2016 
+  link:
+   poland-hackathon-2016.html    
+    
+- name:
     Global Hackathon 2016 
   photo:
     global_weekend.jpg
@@ -35,16 +46,6 @@ events:
   link:
    global-hackathon-2016.html  
 
-- name:
-    Poland 2016 
-  photo:
-    katowice.jpg
-  location:
-    Katowice, Poland
-  date:
-    2016 
-  link:
-   poland-hackathon-2016.html    
    
 - name:
     St. Louis 2016 
@@ -53,7 +54,7 @@ events:
   location:
     St. Louis, MO
   date:
-    2016 
+    Spring 2016 
   link:
    st-louis-hackathon-2016.html     
    
@@ -64,7 +65,7 @@ events:
   location:
     Rochester, NY
   date:
-    2016 
+    Spring 2016 
   link:
    rochester-hackathon-2016.html      
    
@@ -90,6 +91,28 @@ events:
     2016 
   link:
    austin-hackathon-2016.html     
+   
+- name:
+   San Francisco, Berkeley, Oakland, San Jose 2016
+  photo:
+    bayarea2016.jpg  
+  location:
+    San Francisco, Berkeley, Oakland, San Jose 
+  date:
+    Fall 2016
+  link:
+    bay-area-hackathon-2016.html     
+   
+- name:
+    Dallas/Fort Worth 2016
+  photo:
+    dallas.jpg
+  location:
+    Dallas/Fort Worth
+  date:
+    2016
+  link:
+   dfw-hackathon-2016.html      
 
 - name:
     Jakarta 2016
