@@ -1,6 +1,6 @@
 ---
 name: Dr. Mi Kyung Han
-description: 
+description: Assistant professor, CSDS department at California Baptist University
 picture: mikie_han.jpg 
 ---
 Dr. Mi Kyung Han is an assistant professor at CSDS department at California Baptist University. Previously she worked at Microsoft for 4 years as a software development engineer in Power BI (www.powerbi.com) team.

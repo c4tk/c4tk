@@ -1,11 +1,11 @@
 ---
-title: Local Organizers
+title: Local Organizer
 cwd: src/content/events/cbu/2016/organizers
 ---
 
-## <i class="icon fa-group"></i> <b>Local Organizers</b>
+## <i class="icon fa-group"></i> <b>Local Organizer</b>
 
-Meet your CBU Organizers.
+Meet your CBU Organizer.
 <div class="row">
 {{#compose src='*.md' cwd=cwd}}
 <div class="6u">
@@ -25,4 +25,5 @@ Meet your CBU Organizers.
 {{/compose}}
 </div>
 
-{{> register-button}}
+<a href="mailto:mhan@calbaptist.edu">For more information about this hackathon, please email Dr. Han</a>
+
