@@ -1,6 +1,6 @@
 ---
 name: Jack KN Tsai
-description: Investor, Serial-Entrepreneur, Innovation and Strategy Advisor
+description: Investor, Social-Entrepreneur, Innovation and Strategy Advisor
 picture: jacktsai.jpg 
 categories: business design ideation strategy entrepreneurship marketing 
 ---
