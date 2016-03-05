@@ -1,10 +1,10 @@
-## Be a Sponsor
+## Zostań sponsorem!
 ---
 
-Our community is committed to connecting incredible innovators with the Church, organizations, investors, and initiatives that need their talent. God has given us talents and gifts for the good of the larger Body - so together we can accomplish what He wants to do through us. You and your gifts are vital to help extend this ecosystem into your ministry, industry or community.
+Nasza wspólnota jest zaangażowana we współpracę między zaawansowanymi technologicznie nowatorami oraz Kościołem, organizacjami, inwestorami, a także inicjatywami, które potrzebują ich talentów. Bóg dał nam talenty i uzdolnienia dla dobra Ciała Chrystusa, więc razem możemy osiągnąć to, czego On chce dokonać przez nas. Ty i Twoje uzdolnienia przydadzą się, aby tę współpracę przenieść do Twoich duszpasterstw, przemysłu lub innych wspólnot.
 
-Code for the Kingdom is looking for sponsors at all levels to support the program financially and contribute company resources, mentorship, and expertise to ensure the success of the Poland Code for the Kingdom Global Hackathon.  We will work closely with major sponsors to ensure you receive sponsorship benefits that support your core objectives. 
+Hakaton "Code for the Kingdom" poszukuje sponsorów każdego rodzaju, zarówno finansowo, jak i rzeczowo, poprzez mentoring i ekspercką wiedzę, aby zakończyć sukcesem ten weekend. Będziemy ściśle współpracować z głównymi sponsorami, aby zapewnić dla nich korzyści ważne dla nich.
 
-If you are interested in exploring sponsorship opportunities for 2016 Poland Code for the Kingdom hackathon, contact us!
+Jeśli są Państwo zainteresowani w możliwościach sponsorowania tego hakatonu, prosimy o kontakt!
 
 {{> contact-button}}
