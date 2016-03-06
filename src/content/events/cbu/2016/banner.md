@@ -10,21 +10,15 @@
       <header>
         <h2>Code for the Kingdom<br/>&nbsp;{{this.title}}</h2>
       </header>
-      <p>{{this.date}}</p>
-       <p>{{this.location}}</p>
+
+      <p>{{this.location}}</p>
+      <p>{{this.date}}</p>       
       <p>A Leadership Network Hackathon</p>
       <br> </br>
-      <p>IN COLLABORATION WITH</p>
 
-<a href="http://venturechristian.org" target="_blank">
-<img style="max-width:100%"  src="{{assets}}/images/sponsors/{{this.logo}}"/>
-  </a>
-
-
-      <p></p>
       <footer>
         <ul class="buttons">
-          <li><a href="#about.md" class="button fit scrolly">Tell Me More</a></li>
+          <li><a href="http://www.instant.ly/s/4hjUq" class="button fit scrolly">CAST YOUR VOTE NOW FOR PEOPLE'S CHOICE AWARD</a></li>
                   </ul>
       </footer>
     </div>
