@@ -1,11 +1,12 @@
 ﻿---
 title: Winners
-cwd: src/content/events/cbu/2016/winners
+cwd: src/content/events/cbu/2016/projects
 ---
-## <i class="icon fa-flag"></i> WINNERS
+## <i class="icon fa-flag"></i> SUBMITTED PROJECTS
 
 
-The awards went to:
+Here are the projects presented at the end of the hackathon.
+Congratulations to all participants for your amazing work and passion. You created technology that matters!!! 
 
 {{#compose src="*.md" cwd=cwd}}
 <div class="row">

@@ -1,6 +1,16 @@
 ---
 events:
-    
+     
+- name:
+    CBU Riverside, CA March 3-5, 2016
+  photo:
+    cbu.jpg  
+  location:
+     at California Baptist University
+  date:
+    March 3-5, 2016
+  link:
+   cbu2016.html    
                  
 - name:
     Bay Area 2015, Nov 13-15, 2015
