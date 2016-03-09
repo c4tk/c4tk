@@ -3,20 +3,19 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Code for the Kingdom" />
+    <meta name="description" content="Code for the Kingdom Projects" />
     <meta name="keywords" content="" />
     <title>{{title}} | {{site.title}}</title>
 
     <!--[if lte IE 8]><script src="{{assets}}/css/ie/html5shiv.js"></script><![endif]-->
     <script src="{{assets}}/js/jquery.min.js"></script>
     <script src="{{assets}}/js/jquery.dropotron.min.js"></script>
-    <script src="{{assets}}/js/jquery.qs.js"></script>
     <script src="{{assets}}/js/simple-expand.min.js"></script>
     <script src="{{assets}}/js/skel.min.js"></script>
     <script src="{{assets}}/js/skel-layers.min.js"></script>
     <script src="{{assets}}/js/contact-form.js"></script>
     <script src="{{assets}}/js/select2.min.js"></script>
-    <script src="{{assets}}/js/mentor-filter.js"></script>
+    <script src="{{assets}}/js/project-filter.js"></script>
     <script src="{{assets}}/js/init.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -32,6 +31,72 @@
     <link rel="stylesheet" href="{{assets}}/css/simple-expand.css" />
     <link rel="stylesheet" href="{{assets}}/css/select2.css" />
     <link rel="stylesheet" href="{{assets}}/css/c4tk.css" />
+    <style>
+
+      /* Inspired by kickstarter's theming */
+      .project-card-wrapper {
+
+      }
+
+      .project-card {
+        background-color: #fff;
+        border: solid 1px #d9d9de;
+        border-radius: 6px;
+        line-height: 1.5;
+        margin-bottom: 10px;
+        position: relative;
+        font-size: 12px;
+        color: #828587;
+      }
+
+      .project-thumbnail {
+        border-radius: 6px 6px 0 0;
+        overflow: hidden;
+        position: relative;
+      }
+
+      .project-thumbnail img {
+        width:100%;
+      }
+
+      .project-card-content {
+        padding: 10px;
+      }
+
+      .project-title {
+        font-size: 12px;
+        font-weight: bold;
+        line-height: 1.25em;
+        margin-bottom: 0.25em;
+      }
+
+      .project-tagline {
+        margin-bottom: 10px;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+
+      .project-blurb {
+        margin-bottom: 0;
+        font-size:12px;
+      }
+
+      .project-card-footer {
+        background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, #fff 26%);
+        border-radius: 0 0 6px 6px;
+        bottom: 0;
+        width: 100%;
+        position: absolute;
+        padding: 45px 10px 10px 10px;
+      }
+
+      .project-location {
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+    </style>
 
     <!--[if lte IE 8]><link rel="stylesheet" href="{{assets}}/css/ie/v8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="{{assets}}/css/ie/v9.css" /><![endif]-->
@@ -46,19 +111,12 @@
     </script>
   </head>
   <body class="index loading">
-    <div style="background-image:url({{assets}}/images/slide-bg.jpg); background-size: cover">
-      <!--
-      -->
-      {{> header }}
 
-      <div class="container" role="main">
+    {{> header }}
 
-        {{> body }}
+      {{> body }}
 
-      </div>
-
-      {{> footer}}
-    </div>
+    {{> footer}}
     <script type="text/javascript">
       $('.expander').simpleexpand();
     </script>

@@ -1,0 +1,50 @@
+---
+component: project-filter
+projectCategories:
+- title:
+    Prayer
+  category:
+    prayer
+- title:
+    Generosity
+  category:
+    generosity
+- title:
+    Evangelism
+  category:
+    evangelism
+- title:
+    Discipleship
+  category:
+    discipleship
+- title:
+    Small groups
+  category:
+    small_groups
+- title:
+    Bible
+  category:
+    bible
+- title:
+    Games
+  category:
+    games
+- title:
+    Worship
+  category:
+    worship
+- title:
+    Translation
+  category:
+    translation
+---
+<div>
+  Show projects related to:
+  <select id="project-filter">
+    <option value="">Anything</option>
+    {{#each project-filter.projectCategories}}
+      <option value="{{this.category}}">{{this.title}}</option>
+    {{/each}}
+  </select>
+</div>
+<br/>

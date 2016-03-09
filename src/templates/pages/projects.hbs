@@ -1,0 +1,49 @@
+---
+title: Projects
+main: true
+layout: src/templates/layouts/project-gallery.hbs
+cwd: src/content/projects/
+---
+
+<section id="banner">
+  <header class="special container" style="color: white">
+    <span class="icon fa-desktop"></span>
+    <h2>{{title}}</h2>
+    <p>These are projects developed at Code for the Kingdom Hackathons</p>
+    {{> project-filter}}
+  </header>
+</section>
+<div class="container" role="main">
+  <section class="wrapper container style4" id="projects">
+    <div class="row">
+      {{#compose src='*.md' cwd=cwd}}
+        <div class="4u project-filterable {{@categories}}">
+          <div class="project-card">
+            <div class="project-thumbnail">
+              <img src="{{assets}}/images/projects/{{@picture}}" alt="{{@name}}" title="{{@name}}"/>
+            </div>
+            <div class="project-card-content">
+              <h6 class="project-title">{{@name}}</h6>
+              <p class="project-tagline">{{@tagline}}</p>
+              <p class="project-blurb">{{#markdown}}{{{@content}}}{{/markdown}}</p>
+            </div>
+            <div class="project-card-footer">
+              <div class="project-location">
+                <span class="icon fa-map-marker"></span>
+                {{@location}}
+              </div>
+              <div>
+                {{#if @link}}
+                <a class="project-link" href="{{@link}}">Learn More</a>
+                &nbsp;&middot;&nbsp;
+                {{/if}}
+                <a class="project-contact" href="contact.html?subject=Contact {{@name}}">Contact Project</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      {{/compose}}
+    </div>
+  </section>
+</div>
+

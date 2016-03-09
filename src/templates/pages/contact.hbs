@@ -27,7 +27,7 @@ layout: src/templates/layouts/single.hbs
             </div>
             <div class="row half">
               <div class="12u">
-                <input type="text" name="subject" placeholder="Subject" />
+                <input type="text" id="subject" name="subject" placeholder="Subject" />
               </div>
             </div>
             <div class="row half">
@@ -48,3 +48,8 @@ layout: src/templates/layouts/single.hbs
     </section>
 
 </article>
+<script>
+  if ($.QueryString['subject']) {
+    $('#subject').val($.QueryString['subject']);
+  }
+</script>
