@@ -1,6 +1,6 @@
 ---
 title: Projects
-main: true
+main: false
 layout: src/templates/layouts/project-gallery.hbs
 cwd: src/content/projects/
 ---
@@ -25,7 +25,10 @@ cwd: src/content/projects/
             <div class="project-card-content">
               <h6 class="project-title">{{@name}}</h6>
               <p class="project-tagline">{{@tagline}}</p>
-              <p class="project-blurb">{{#markdown}}{{{@content}}}{{/markdown}}</p>
+              <p class="project-blurb">
+                {{{@content}}}
+              </p>
+              <p style="margin-bottom:44px;">&nbsp;</p>
             </div>
             <div class="project-card-footer">
               <div class="project-location">
