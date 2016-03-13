@@ -2,6 +2,17 @@
 events:
      
 - name:
+    Nashville, TN  March 11-13, 2016
+  photo:
+    nashville.jpg  
+  location:
+     at Lipscomb University, Swang Business Building
+  date:
+    March 11-13, 2016
+  link:
+    http://codeforthekingdomnashville.org
+
+- name:
     CBU Riverside, CA March 3-5, 2016
   photo:
     cbu.jpg  
