@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Code for the Kingdom Projects" />
+    <meta name="keywords" content="" />
+    <title>Projects | Code for the Kingdom</title>
+
+    <!--[if lte IE 8]><script src="assets/css/ie/html5shiv.js"></script><![endif]-->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/simple-expand.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/skel-layers.min.js"></script>
+    <script src="assets/js/contact-form.js"></script>
+    <script src="assets/js/select2.min.js"></script>
+    <script src="assets/js/project-filter.js"></script>
+    <script src="assets/js/init.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <noscript>
+      <link rel="stylesheet" href="assets/css/skel.css" />
+      <link rel="stylesheet" href="assets/css/style.css" />
+      <link rel="stylesheet" href="assets/css/style-noscript.css" />
+    </noscript>
+    <link rel="stylesheet" href="assets/css/simple-expand.css" />
+    <link rel="stylesheet" href="assets/css/select2.css" />
+    <link rel="stylesheet" href="assets/css/c4tk.css" />
+    <style>
+
+      /* Inspired by kickstarter's theming */
+      .project-card-wrapper {
+
+      }
+
+      .project-card {
+        background-color: #fff;
+        border: solid 1px #d9d9de;
+        border-radius: 6px;
+        line-height: 1.5;
+        margin-bottom: 10px;
+        position: relative;
+        font-size: 12px;
+        color: #828587;
+      }
+
+      .project-thumbnail {
+        border-radius: 6px 6px 0 0;
+        overflow: hidden;
+        position: relative;
+      }
+
+      .project-thumbnail img {
+        width:100%;
+      }
+
+      .project-card-content {
+        padding: 10px;
+        overflow: hidden;
+      }
+
+      .project-title {
+        font-size: 12px;
+        font-weight: bold;
+        line-height: 1.25em;
+        margin-bottom: 0.25em;
+      }
+
+      .project-tagline {
+        margin-bottom: 10px;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+
+      .project-blurb {
+        margin-bottom: 0;
+        font-size: 12px;
+        height: 150px;
+        overflow: auto;
+      }
+
+      .project-card-footer {
+        background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, #fff 26%);
+        border-radius: 0 0 6px 6px;
+        bottom: 0;
+        width: 100%;
+        position: absolute;
+        padding: 45px 10px 10px 10px;
+      }
+
+      .project-location {
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+    </style>
+
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie/v8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie/v9.css" /><![endif]-->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-20022203-4', 'auto');
+        ga('send', 'pageview');
+    </script>
+  </head>
+  <body class="index loading">
+
+    
+<!-- Header -->
+<header id="header" class="alt">
+  <h1 id="logo"><a href="index.html">Code for the Kingdom</a></h1>
+  <nav id="nav">
+    <ul>
+      <li class="current"><a href="index.html">Home</a></li>
+      <li class="submenu">
+        <a href="">Menu</a>
+        <ul>
+          
+            
+          
+            
+            <li>
+              <a href="application.html">Be a hackathon organizer in your city</a>
+            </li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+            <li>
+              <a href="contact.html">Contact Us</a>
+            </li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+          <li class="submenu"><a href="#">Events</a>
+            <ul>
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="atlanta-hackathon-2016.html">Atlanta 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+              
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="austin-hackathon-2016.html">Austin 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="bay-area-hackathon-2016.html">San Francisco Bay Area 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="bolivia-hackathon.html">Bolivia 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+              
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="rocky-mountain-hackathon-2016.html">Rocky Mountain 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+              
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="dfw-hackathon-2016.html">Dallas/Fort Worth 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="global-hackathon-2016.html">Global Hackathon 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="jakarta-hackathon-2016.html">Jakarta 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                <li>
+                
+                    
+                      
+                         <a href="http://codeforthekingdomnashville.org">Nashville 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="poland-hackathon-2016.html">Polska 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="seattle-hackathon-2016.html">Seattle 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+                <li>
+                
+                    
+                      
+                        <a href="st-louis-hackathon-2016.html">St. Louis 2016</a>
+                      
+                    
+                  
+
+                </li>
+                
+              
+                
+              
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><a href="https://plus.google.com/communities/112803271040533425213" class="button special">Community</a></li>
+    </ul>
+  </nav>
+</header>
+
+
+      
+
+<section id="banner">
+  <header class="special container" style="color: white">
+    <span class="icon fa-desktop"></span>
+    <h2>Projects</h2>
+    <p>These are projects developed at Code for the Kingdom Hackathons</p>
+    
+<div>
+  Show projects related to:
+  <select id="project-filter">
+    <option value="">Anything</option>
+    
+      <option value="prayer">Prayer</option>
+    
+      <option value="generosity">Generosity</option>
+    
+      <option value="evangelism">Evangelism</option>
+    
+      <option value="discipleship">Discipleship</option>
+    
+      <option value="small_groups">Small groups</option>
+    
+      <option value="bible">Bible</option>
+    
+      <option value="games">Games</option>
+    
+      <option value="worship">Worship</option>
+    
+      <option value="translation">Translation</option>
+    
+  </select>
+</div>
+<br/>
+
+  </header>
+</section>
+<div class="container" role="main">
+  <section class="wrapper container style4" id="projects">
+    <div class="row">
+      
+        <div class="4u project-filterable prayer">
+          <div class="project-card">
+            <div class="project-thumbnail">
+              <img src="assets/images/projects/ceaseless-dove-icon.jpg" alt="Ceaseless Prayer" title="Ceaseless Prayer"/>
+            </div>
+            <div class="project-card-content">
+              <h6 class="project-title">Ceaseless Prayer</h6>
+              <p class="project-tagline">Personal Prayer for Everyone on Earth</p>
+              <p class="project-blurb">
+                Prayer shouldn't feel like a to-do list. Ceaseless is an app that shows you three contacts each day to pray for. You can add notes, send them a message or favorite the people most important to you. If 1% of the world's population had 130 unique friends and prayed for 3 people each day, we could personally pray for everyone on earth.
+
+              </p>
+              <p style="margin-bottom:44px;">&nbsp;</p>
+            </div>
+            <div class="project-card-footer">
+              <div class="project-location">
+                <span class="icon fa-map-marker"></span>
+                Seattle, WA
+              </div>
+              <div>
+                
+                <a class="project-link" href="http://www.ceaselessprayer.com">Learn More</a>
+                &nbsp;&middot;&nbsp;
+                
+                <a class="project-contact" href="contact.html?subject=Contact Ceaseless Prayer">Contact Project</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      <!-- section -->
+        <div class="4u project-filterable prayer discipleship">
+          <div class="project-card">
+            <div class="project-thumbnail">
+              <img src="assets/images/projects/ceaseless-dove-icon.jpg" alt="Ceaseless Prayer 2 (no-link)" title="Ceaseless Prayer 2 (no-link)"/>
+            </div>
+            <div class="project-card-content">
+              <h6 class="project-title">Ceaseless Prayer 2 (no-link)</h6>
+              <p class="project-tagline">Personal Prayer for Everyone on Earth</p>
+              <p class="project-blurb">
+                Prayer shouldn't feel like a to-do list. Ceaseless is an app that shows you three contacts each day to pray for. You can add notes, send them a message or favorite the people most important to you. If 1% of the world's population had 130 unique friends and prayed for 3 people each day, we could personally pray for everyone on earth.
+
+Let's make this description longer and see how it impacts the layout. It may make it uglier...
+
+              </p>
+              <p style="margin-bottom:44px;">&nbsp;</p>
+            </div>
+            <div class="project-card-footer">
+              <div class="project-location">
+                <span class="icon fa-map-marker"></span>
+                Redwood City, CA
+              </div>
+              <div>
+                
+                <a class="project-link" href="http://www.ceaselessprayer.com">Learn More</a>
+                &nbsp;&middot;&nbsp;
+                
+                <a class="project-contact" href="contact.html?subject=Contact Ceaseless Prayer 2 (no-link)">Contact Project</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      <!-- section -->
+        <div class="4u project-filterable prayer discipleship">
+          <div class="project-card">
+            <div class="project-thumbnail">
+              <img src="assets/images/projects/ceaseless-dove-icon.jpg" alt="Ceaseless Prayer 3 (no-link)" title="Ceaseless Prayer 3 (no-link)"/>
+            </div>
+            <div class="project-card-content">
+              <h6 class="project-title">Ceaseless Prayer 3 (no-link)</h6>
+              <p class="project-tagline">Personal Prayer for Everyone on Earth</p>
+              <p class="project-blurb">
+                Prayer shouldn't feel like a to-do list. Ceaseless is an app that shows you three contacts each day to pray for. You can add notes, send them a message or favorite the people most important to you. If 1% of the world's population had 130 unique friends and prayed for 3 people each day, we could personally pray for everyone on earth.
+
+              </p>
+              <p style="margin-bottom:44px;">&nbsp;</p>
+            </div>
+            <div class="project-card-footer">
+              <div class="project-location">
+                <span class="icon fa-map-marker"></span>
+                Redwood City, CA
+              </div>
+              <div>
+                
+                <a class="project-link" href="http://www.ceaselessprayer.com">Learn More</a>
+                &nbsp;&middot;&nbsp;
+                
+                <a class="project-contact" href="contact.html?subject=Contact Ceaseless Prayer 3 (no-link)">Contact Project</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      <!-- section -->
+        <div class="4u project-filterable prayer discipleship">
+          <div class="project-card">
+            <div class="project-thumbnail">
+              <img src="assets/images/projects/ceaseless-dove-icon.jpg" alt="Ceaseless Prayer 4 (no-link)" title="Ceaseless Prayer 4 (no-link)"/>
+            </div>
+            <div class="project-card-content">
+              <h6 class="project-title">Ceaseless Prayer 4 (no-link)</h6>
+              <p class="project-tagline">Personal Prayer for Everyone on Earth</p>
+              <p class="project-blurb">
+                Prayer shouldn't feel like a to-do list. Ceaseless is an app that shows you three contacts each day to pray for. You can add notes, send them a message or favorite the people most important to you. If 1% of the world's population had 130 unique friends and prayed for 3 people each day, we could personally pray for everyone on earth.
+
+              </p>
+              <p style="margin-bottom:44px;">&nbsp;</p>
+            </div>
+            <div class="project-card-footer">
+              <div class="project-location">
+                <span class="icon fa-map-marker"></span>
+                Redwood City, CA
+              </div>
+              <div>
+                
+                <a class="project-link" href="http://www.ceaselessprayer.com">Learn More</a>
+                &nbsp;&middot;&nbsp;
+                
+                <a class="project-contact" href="contact.html?subject=Contact Ceaseless Prayer 4 (no-link)">Contact Project</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      <!-- section -->
+        <div class="4u project-filterable discipleship">
+          <div class="project-card">
+            <div class="project-thumbnail">
+              <img src="assets/images/projects/ceaseless-dove-icon.jpg" alt="Ceaseless Prayer 5" title="Ceaseless Prayer 5"/>
+            </div>
+            <div class="project-card-content">
+              <h6 class="project-title">Ceaseless Prayer 5</h6>
+              <p class="project-tagline">Personal Prayer for Everyone on Earth</p>
+              <p class="project-blurb">
+                Prayer shouldn't feel like a to-do list. Ceaseless is an app that shows you three contacts each day to pray for. You can add notes, send them a message or favorite the people most important to you. If 1% of the world's population had 130 unique friends and prayed for 3 people each day, we could personally pray for everyone on earth.
+
+              </p>
+              <p style="margin-bottom:44px;">&nbsp;</p>
+            </div>
+            <div class="project-card-footer">
+              <div class="project-location">
+                <span class="icon fa-map-marker"></span>
+                Seattle, WA
+              </div>
+              <div>
+                
+                <a class="project-link" href="http://www.ceaselessprayer.com">Learn More</a>
+                &nbsp;&middot;&nbsp;
+                
+                <a class="project-contact" href="contact.html?subject=Contact Ceaseless Prayer 5">Contact Project</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      <!-- section -->
+        <div class="4u project-filterable discipleship">
+          <div class="project-card">
+            <div class="project-thumbnail">
+              <img src="assets/images/projects/ceaseless-dove-icon.jpg" alt="Ceaseless Prayer 6" title="Ceaseless Prayer 6"/>
+            </div>
+            <div class="project-card-content">
+              <h6 class="project-title">Ceaseless Prayer 6</h6>
+              <p class="project-tagline">Personal Prayer for Everyone on Earth</p>
+              <p class="project-blurb">
+                Prayer shouldn't feel like a to-do list. Ceaseless is an app that shows you three contacts each day to pray for. You can add notes, send them a message or favorite the people most important to you. If 1% of the world's population had 130 unique friends and prayed for 3 people each day, we could personally pray for everyone on earth.
+
+This is a longer description, just to see how it handles it. Does it overflow? Does it make the different boxes different in height? You get the idea.
+
+              </p>
+              <p style="margin-bottom:44px;">&nbsp;</p>
+            </div>
+            <div class="project-card-footer">
+              <div class="project-location">
+                <span class="icon fa-map-marker"></span>
+                Seattle, WA
+              </div>
+              <div>
+                
+                <a class="project-link" href="http://www.ceaselessprayer.com">Learn More</a>
+                &nbsp;&middot;&nbsp;
+                
+                <a class="project-contact" href="contact.html?subject=Contact Ceaseless Prayer 6">Contact Project</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  </section>
+</div>
+
+
+
+    <!-- Footer -->
+<footer id="footer">
+
+  <ul class="icons">
+    <li><a target="_blank" href="https://twitter.com/code4thekingdom" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+   
+ <li><a href="https://www.facebook.com/pages/Code-for-the-Kingdom/345488018911337" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+
+ <li><a href="https://www.linkedin.com/grp/home?gid=8358423" class="icon circle fa-linkedin"><span class="label">LinkedIn</span></a></li>
+
+    <li><a target="_blank" href="https://plus.google.com/communities/112803271040533425213" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
+    <!--<li><a href="#" class="icon circle fa-github"><span class="label">Github</span></a></li>-->
+    <!--<li><a href="#" class="icon circle fa-dribbble"><span class="label">Dribbble</span></a></li>-->
+  </ul>
+
+  <span class="copyright">&copy; 2016 Code for the Kingdom. All rights reserved.</span>
+  <br/>
+  <span class="copyright"> Design by: <a href="http://html5up.net">HTML5 UP</a>. Created by: <a href="http://www.twitter.com/meritandgrace">@meritandgrace</a></span>
+
+</footer>
+
+    <script type="text/javascript">
+      $('.expander').simpleexpand();
+    </script>
+   </body>
+</html>
