@@ -31,7 +31,7 @@ questions:
 - question:
     Czy mogę zaprezentować projekty, które już zrobiłem?
   answer:
-    Możesz budować w oparciu o projekty i technologie, które już masz, alecokolwiek zaprezentujesz, musi zawierać nowy kod, napisany dla przynajmniej jednego z wyzwań hakatonu i musisz przynajmniej część kodu napisać w czasie trwania hakatonu, w miejscu, gdzie hakaton się odbywa.
+    Możesz budować w oparciu o projekty i technologie, które już masz, ale cokolwiek zaprezentujesz, musi zawierać nowy kod, napisany dla przynajmniej jednego z wyzwań hakatonu i musisz przynajmniej część kodu napisać w czasie trwania hakatonu, w miejscu, gdzie hakaton się odbywa.
 - question:
     Czy zespoły, które budują w oparciu o już posiadane technologie, nie mają nieuczciwej przewagi nade mną, jeśli ja planuję rozpocząć pisanie programu podczas samego hakatonu?
   answer:
