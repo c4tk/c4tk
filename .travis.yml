@@ -4,6 +4,9 @@ node_js:
 before_script:
   - npm install -g grunt-cli
 script: bash ./deploy.sh
+branches:
+  only:
+    - master
 env:
   global:
   - GH_REF: github.com/c4tk/c4tk.git
