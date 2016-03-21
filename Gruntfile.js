@@ -103,8 +103,12 @@ module.exports = function(grunt) {
 
     // Before generating any new files,
     // remove any previously-created files.
-    clean: ['<%= config.dist %>/**/*.{html,xml}']
-
+    clean: {
+      build: ['<%= config.dist %>/**/*.{html,xml}'],
+      options: {
+        'force': true
+      },
+    }
   });
 
   grunt.loadNpmTasks('assemble');
