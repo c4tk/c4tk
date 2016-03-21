@@ -3,7 +3,8 @@ node_js:
 - "5.1"
 before_script:
   - npm install -g grunt
-script: deploy.sh
+script: ./deploy.sh
 env:
   global:
   - GH_REF: github.com/c4tk/c4tk.git
+  - secure: "KW4+jxetUp6ce8oIF6MQEaut8KjlvSfhbKr0qMOsWLev1MR3O+JhlDjozZk6ui1W1OFhSm+fx6WfKcWyNN1lZ8h0FcpOQR/fNssvfqF9qeGDXyeF4PFw7EVlQxzNyGfijdwxFWfTKETx9Wx8EoWEplobVH3PeB1b/udSbMH+40v74b790yKMk/iLBeUc+shB6yqKJ11auF6gnHwWqs6LjFr3kvBvaqvjj7VmWF4kl4XjhUqPyHEVgbEX7bro+T3GD2ZKzFTSc3h6nBGhVP3pYwFIz3gnB6GLlGrlgrjzgaNig1znyS4OR6zUplZsHNpfXQdNoCXAKWZmcLTFw2nYmDfuHJKv5el8rtuV66J0qGHLWIV5Ud3wwKBDha7IphKQA5Qjxl4F0gUAyzvhRd4SyXu/kAtxpL3GRZmU4Yf1IhooktvU15UcCyC3rostrH1n/pZmppgQNBawCklWTL49f1/uDVpKSupf0QC8CXCwJUOpw7z4Pjywh37ayucAbD75PDXHL+GETrYTD0eea+J2/IRD8UO6XxBdvM7SUonLZcDkThPvoIV2oBfnA2V1hy9pJabf7eDj2XtSMSxYGwRy8T4Lr1WyXNDrhnQYUkWKP0lVG1BK6udS9z8yu/76qmGgtf8BxTtC4VYqkTDabJb0VZUMkiWTgrWcAN0sPWzCyIU="
