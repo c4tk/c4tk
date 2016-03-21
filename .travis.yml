@@ -2,8 +2,8 @@ language: node_js
 node_js:
 - "5.1"
 before_script:
-  - npm install -g grunt
-script: ./deploy.sh
+  - npm install -g grunt-cli
+script: bash ./deploy.sh
 env:
   global:
   - GH_REF: github.com/c4tk/c4tk.git
