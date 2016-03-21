@@ -2,11 +2,14 @@
 set -e # exit with nonzero exit code if anything fails
 
 # clear and re-create the out directory
-rm -rf out || exit 0;
-mkdir out;
+rm -rf dist || exit 0;
+mkdir dist;
 
 # run our compile script, discussed above
 grunt build
+
+# copy travis for whitelisting only master branch
+cp .travis.yml dist
 
 # go to the out directory and create a *new* Git repo
 cd dist
