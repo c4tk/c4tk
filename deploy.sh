@@ -14,6 +14,8 @@ cp .travis.yml dist
 # go to the out directory and create a *new* Git repo
 cd dist
 
+echo 'codeforthekingdom.org' > CNAME
+
 git init
 
 # inside this git repo we'll pretend to be a new user
