@@ -1,19 +1,6 @@
 ---
 events: 
 
-
-   
-    
-- name:
-    Katowice, Poland April 15-17, 2016 
-  photo:
-    katowice.jpg
-  location:
-    Katowice, Poland
-  date:
-    2016 
-  link:
-   poland-hackathon-2016.html    
    
 - name:
     La Paz, Bolivia April 22-24, 2016  
@@ -25,6 +12,17 @@ events:
     April 22-24, 2016 
   link:
    bolivia-hackathon.html   
+    
+- name:
+    Katowice, Poland May 20-22, 2016 
+  photo:
+    katowice.jpg
+  location:
+    Katowice, Poland
+  date:
+    2016 
+  link:
+   poland-hackathon-2016.html      
     
 - name:
     Global Hackathon 2016 
