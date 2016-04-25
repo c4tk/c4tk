@@ -1,17 +1,6 @@
 ---
 events: 
 
-   
-- name:
-    La Paz, Bolivia April 22-24, 2016  
-  photo:
-    bolivia.jpg
-  location:
-    La Paz, Bolivia
-  date:
-    April 22-24, 2016 
-  link:
-   bolivia-hackathon.html   
     
 - name:
     Katowice, Poland May 20-22, 2016 
@@ -36,17 +25,6 @@ events:
    global-hackathon-2016.html  
 
    
-- name:
-    St. Louis 2016 
-  photo:
-    saint_louis.jpg
-  location:
-    St. Louis, MO
-  date:
-    Spring 2016 
-  link:
-   st-louis-hackathon-2016.html     
-  
 - name:
     Atlanta 2016
   photo:

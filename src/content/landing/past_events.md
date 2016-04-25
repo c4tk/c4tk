@@ -1,5 +1,16 @@
 ---
 events:
+    
+- name:
+    La Paz, Bolivia April 22-24, 2016  
+  photo:
+    bolivia.jpg
+  location:
+    La Paz, Bolivia
+  date:
+    April 22-24, 2016 
+  link:
+   bolivia-hackathon.html       
      
 - name:
     Nashville, TN  March 11-13, 2016
