@@ -35,6 +35,18 @@ events:
     2016
   link:
    atlanta-hackathon-2016.html    
+
+
+- name:
+    Auckland, New Zealand 2016 
+  photo:
+    auckland.jpg
+  location:
+    Auckland, New Zealand
+  date:
+    Fall 2016 
+  link:
+   auckland-hackathon-2016.html
    
 - name:
     Austin 2016 
