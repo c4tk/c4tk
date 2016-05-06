@@ -48,7 +48,7 @@ events:
    austin-hackathon-2016.html     
    
 - name:
-   San Francisco, Berkeley, Palo Alto, San Jose 2016
+   San Francisco, Berkeley, Palo Alto, San Jose September 23-25, 2016
   photo:
     bayarea2016.jpg  
   location:
