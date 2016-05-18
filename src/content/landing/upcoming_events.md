@@ -12,52 +12,6 @@ events:
     2016 
   link:
    poland-hackathon-2016.html      
-    
-- name:
-    Global Hackathon 2016 
-  photo:
-    global_weekend.jpg
-  location:
-    Cities all over the world
-  date:
-    Fall 2016 
-  link:
-   global-hackathon-2016.html  
-
-   
-- name:
-    Atlanta 2016
-  photo:
-    atlanta.jpg
-  location:
-
-  date:
-    2016
-  link:
-   atlanta-hackathon-2016.html    
-
-
-- name:
-    Auckland, New Zealand 2016 
-  photo:
-    auckland.jpg
-  location:
-    Auckland, New Zealand
-  date:
-    Fall 2016 
-  link:
-   auckland-hackathon-2016.html
-   
-- name:
-    Austin 2016 
-  photo:
-    austin2.jpg
-  location:
-    Austin, TX
-  date:
-    2016 
-  link:
-   austin-hackathon-2016.html     
    
 - name:
    San Francisco, Berkeley, Palo Alto, San Jose September 23-25, 2016
@@ -68,10 +22,67 @@ events:
   date:
     September 23-25, 2016
   link:
-    bay-area-hackathon-2016.html     
+    bay-area-hackathon-2016.html        
+    
+- name:
+    Global Hackathon Oct 21-23, 2016 
+  photo:
+    global_weekend.jpg
+  location:
+    Cities all over the world
+  date:
+    Oct 21-23, 2016 
+  link:
+   global-hackathon-2016.html  
+
    
 - name:
-    Dallas/Fort Worth 2016
+    Atlanta Oct 21-23, 2016
+  photo:
+    atlanta.jpg
+  location:
+
+  date:
+    Oct 21-23, 2016
+  link:
+   atlanta-hackathon-2016.html    
+
+
+- name:
+    Auckland, New Zealand Oct 21-23, 2016 
+  photo:
+    auckland.jpg
+  location:
+    Auckland, New Zealand
+  date:
+    Oct 21-23, 2016 
+  link:
+   auckland-hackathon-2016.html
+   
+- name:
+    Austin Oct 21-23, 2016 
+  photo:
+    austin2.jpg
+  location:
+    Austin, TX
+  date:
+    Oct 21-23, 2016 
+  link:
+   austin-hackathon-2016.html  
+   
+- name:
+    Bengaluru, India Oct 21-23, 2016
+  photo:
+    bangalore.jpg
+  location:
+
+  date:
+    Oct 21-23, 2016
+  link:
+   bangalore-hackathon-2016.html      
+       
+- name:
+    Dallas/Fort Worth Oct 21-23, 2016
   photo:
     dallas.jpg
   location:
@@ -79,39 +90,62 @@ events:
   date:
     2016
   link:
-   dfw-hackathon-2016.html      
+   dfw-hackathon-2016.html   
+   
+- name:
+    Guatemala city, Guatemala Oct 21-23, 2016
+  photo:
+    guatemala.jpg
+  location:
+
+  date:
+    Oct 21-23, 2016
+  link:
+   guatemala-hackathon-2016.html 
+      
 
 - name:
-    Jakarta 2016
+    Jakarta Oct 21-23, 2016
   photo:
     Jakarta.jpg
   location:
 
   date:
-    2016
+    Oct 21-23, 2016
   link:
     jakarta-hackathon-2016.html
     
+- name:
+    London Oct 21-23, 2016
+  photo:
+    london.jpg
+  location:
+
+  date:
+    Oct 21-23, 2016
+  link:
+    london-hackathon-2016.html
+    
     
 - name:
-    Rocky Mountain 2016
+    Rocky Mountain Oct 21-23, 2016
   photo:
     denver.jpg
   location:
 
   date:
-    2016 
+    Oct 21-23, 2016 
   link:
     rocky-mountain-hackathon-2016.html
     
 - name:
-    Seattle 2016
+    Seattle Oct 21-23, 2016
   photo:
     seattle1.jpg
   location:
     Seattle, WA
   date:
-    2016
+    Oct 21-23, 2016
   link:  
     seattle-hackathon-2016.html 
         
