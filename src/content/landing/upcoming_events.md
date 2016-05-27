@@ -1,17 +1,5 @@
 ---
 events: 
-
-    
-- name:
-    Katowice, Poland May 20-22, 2016 
-  photo:
-    katowice.jpg
-  location:
-    Katowice, Poland
-  date:
-    2016 
-  link:
-   poland-hackathon-2016.html      
    
 - name:
    San Francisco, Berkeley, Palo Alto, San Jose September 23-25, 2016
