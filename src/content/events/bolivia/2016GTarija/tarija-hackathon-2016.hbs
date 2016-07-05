@@ -1,25 +1,18 @@
 ---
-title: Global Hackathon 2016
-location: Cities all around the world
-date: October 21 - October 23, 2016
+title: Tarija, Bolivia 2016
+location: Tarija, Bolivia
+date: Oct 21-23, 2016
 logo:
 event: latest
 customBanner:
-cwd: src/content/events/global/2016/
-layout: src/templates/layouts/global.hbs
+cwd: src/content/events/bolivia/2016Tarija/
+layout: src/templates/layouts/event.hbs
+registrationLink:
 sections:
 - path:
     about.md
   title:
     About
-- path:
-    cities.md
-  title:
-    Participating Cities
-- path:
-    host.md
-  title:
-    Organize in your city
 - path:
     sponsor.md
   title:
@@ -28,9 +21,10 @@ sections:
     faq.md
   title:
     FAQ
-
-
-
+- path:
+    footer.md
+  title:
+    (hidden)
 ---
 {{#each sections}}
 <section class="wrapper container style4" id="{{this.path}}">
