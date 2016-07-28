@@ -2,11 +2,11 @@
 events: 
    
 - name:
-   San Francisco, Berkeley, Palo Alto, San Jose September 23-25, 2016
+   San Francisco, Fremont, Palo Alto September 23-25, 2016
   photo:
     bayarea2016.jpg  
   location:
-    San Francisco, Berkeley, Palo Alto, San Jose 
+    San Francisco, Fremont, Palo Alto 
   date:
     September 23-25, 2016
   link:
