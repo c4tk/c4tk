@@ -11,9 +11,3 @@ Come, participate and address a number of challenges aimed at helping release th
 Join us and let’s together create technology that matters.
 
 {{> register-button}} 
-
-## Want to volunteer?
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfEP7jpRrm585q4Fs3Cd_TsSskRJXahMMH-xH5sHCzjKCwgEw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="760" marginwidth="500">Loading...</iframe>
-
-{{> contact-button}}
