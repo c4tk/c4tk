@@ -1,0 +1,43 @@
+---
+title: San Francisco Bay Area 2016
+location: San Francisco, Fremont, and Palo Alto, CA
+date: September 23-25, 2016
+logo:
+event: latest
+customBanner:
+cwd: src/content/events/bayarea/2016/
+layout: src/templates/layouts/event.hbs
+registrationLink: https://www.eventbrite.com/e/2016-bay-area-code-for-the-kingdom-hackathon-registration-25961049197
+sections:
+- path:
+    about.md
+  title:
+    About
+- path:
+    sponsor.md
+  title:
+    Be a Sponsor
+- path:
+    currentsponsors.md
+  title:
+     Thanks to Our Sponsors
+- path:
+    faq.md
+  title:
+    FAQ
+- path:
+    footer.md
+  title:
+    (hidden)
+---
+{{#each sections}}
+<section class="wrapper container style4" id="{{this.path}}">
+<div>
+{{#markdown}}
+{{#compose cwd=../../cwd src=../this.path}}
+{{{@content}}}
+{{/compose}}
+{{/markdown}}
+</div>
+</section>
+{{/each}}
