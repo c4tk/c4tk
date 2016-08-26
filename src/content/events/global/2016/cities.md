@@ -51,6 +51,16 @@ events:
   link:
    dfw-hackathon-2016.html      
 - name:
+    Denver Oct 21-23, 2016
+  photo:
+    denver.jpg
+  location:
+    Denver
+  date:
+    Oct 21-23, 2016 
+  link:
+    rocky-mountain-hackathon-2016.html
+- name:
     Guatemala city, Guatemala Oct 21-23, 2016
   photo:
     guatemala.jpg
@@ -99,17 +109,7 @@ events:
   date:
     Oct 21-23, 2016
   link:
-    manila-hackathon-2016.html        
-- name:
-    Rocky Mountain Oct 21-23, 2016
-  photo:
-    denver.jpg
-  location:
-
-  date:
-    Oct 21-23, 2016 
-  link:
-    rocky-mountain-hackathon-2016.html    
+    manila-hackathon-2016.html         
 - name:
     Seattle Oct 21-23, 2016
   photo:
