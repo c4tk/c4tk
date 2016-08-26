@@ -6,7 +6,6 @@ events:
   photo:
     atlanta.jpg
   location:
-
   date:
     Oct 21-23, 2016
   link:
@@ -90,7 +89,7 @@ events:
   date:
     Oct 21-23, 2016
   link:
-    london-hackathon-2016.html    
+    kingdomcode.uk    
 - name:
     Manila Oct 21-23, 2016
   photo:
