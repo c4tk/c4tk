@@ -2,18 +2,13 @@
 ---
 <img src="{{assets}}/images/earth.jpg" style="float:right"/>
 
-Join us for the 2016 Rocky Mountain Code for the Kingdom hackathon. Together with local organizers and partner organizations we share a common vision to provide more opportunities for communities around the world to participate and showcase innovation and entrepreneurship in their communities in creating technologies addressing significant issues confronting society, community, families, and spiritual life.
+Join us for the 2nd annual Rocky Mountain Hackathon. This time we’re going global! In partnership with Code for the Kingdom, Denver will be joining 13 other cities around the globe to rapidly create technology that will address real world problems.
 
-The second Rocky Mountain Code for the Kingdom hackahton builds upon the success of the 2015 Rocky Mountain hackathon, as well as the 2015 Global hackathon and previous regional hackathons, which have already gathered over 3300 technologists to create over 330 projects to do good. This largest ever global faith-inspired tech collaboration will continue to activate technologists and other creative people to give their skills and some time as their contribution to the mission field, and it will also leverage the skills and in- sights of entrepreneurs, designers, and technologists to foster an entrepreneurial culture with Christian values.
+As designers, developers, and technologists, we are uniquely gifted to contribute to the world around us through our digital talent. As followers of Jesus, we are compelled to love and live for others like He did. And at the Rocky Mountain Hackathon, we bring
+ these two things together. Join us!
 
-Come, participate and address a number of challenges aimed at helping release the oppressed, teaching God’s Word, healing the sick, feeding the hungry, clothing the naked, and supporting the church and the body of Christ. 
+All food and drink will be provided. Lodging will also be available, if needed (beds are limited and first come, first serve). Whether you’re right up the road, or coming from Colorado Springs or Boulder, we’ll take care of you for the whole weekend!
 
-Join us and let’s together create technology that matters.
+Sponsors, challenges, prizes, and speakers will be announced soon. Check back on this page or the Eventbrite page for updated information
 
-### Details to be announced soon. 
-
-## Be a part of it.
-
-<iframe src="https://docs.google.com/forms/d/1KzlW_jEUH2sFiHiJpJAMhxWxiLd_3Fp2lWN-nLNXBe8/viewform?embedded=true" width="1000" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-{{> contact-button}}
+### More details soon! 
