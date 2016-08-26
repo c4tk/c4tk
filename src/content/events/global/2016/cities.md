@@ -89,7 +89,7 @@ events:
   date:
     Oct 21-23, 2016
   link:
-    kingdomcode.uk    
+    http://kingdomcode.uk/    
 - name:
     Manila Oct 21-23, 2016
   photo:
