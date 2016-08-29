@@ -1,6 +1,6 @@
 ﻿---
 title: Global Challenges
-cwd: src/content/events/global/2015/challenges
+cwd: src/content/events/global/2016/challenges
 ---
 ## <i class="icon fa-flag"></i> Global Challenges
 

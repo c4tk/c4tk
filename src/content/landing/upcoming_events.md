@@ -21,7 +21,7 @@ events:
   date:
     Oct 21-23, 2016 
   link:
-   global-hackathon-2016.html  
+   global.html  
 
    
 - name:

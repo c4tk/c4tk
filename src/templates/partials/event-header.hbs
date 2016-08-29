@@ -38,8 +38,16 @@ component: event-header
                        {{#is data.title  "Nashville 2016"}}
                          <a href="http://codeforthekingdomnashville.org">{{data.title}}</a>
                        {{else }}
-                         <a href="{{relative dest this.dest}}">{{data.title}}</a>
+
+                          {{#is data.title  "London 2016"}}
+                            <a href="http://kingdomcode.uk">{{data.title}}</a>
+                          {{else }}
+
+
+                            <a href="{{relative dest this.dest}}">{{data.title}}</a>
+                          {{/is}}
                       {{/is}}
+
                     {{/is}}
                   {{/is}}
 
