@@ -17,12 +17,10 @@
 
 
       <p></p>
- <div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/ZMslhITXiNI?rel=0" frameborder="0" allowfullscreen></iframe></div>
-
      
       <footer>
         <ul class="buttons">
-          <li><a href="#about.md" class="button fit scrolly">Tell Me More</a></li>
+          <li><a href="#cities.md" class="button fit scrolly">Participating Cities</a></li>
                   </ul>
       </footer>
     </div>
