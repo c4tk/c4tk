@@ -1,7 +1,7 @@
 ---
 name: Marc Krejci
 description: Pastor of Innovation, Venture Christian Church
-picture: marckrejci.png
+picture: marckrejci.jpg
 ---
 Marc Krejci came up through the music industry, tripped over entrepreneurship, and became a pastor after establishing himself in the world of technology.
 
