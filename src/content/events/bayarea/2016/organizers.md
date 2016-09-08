@@ -1,6 +1,6 @@
 ---
 title: Local Organizers
-cwd: src/content/events/bayarea/2015/organizers
+cwd: src/content/events/bayarea/2016/organizers
 ---
 
 ## <i class="icon fa-group"></i> <b>Local Organizers</b>
