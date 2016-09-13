@@ -1,4 +1,4 @@
-## Be a Sponsor
+## Zostań sponsorem
 ---
 
 Nasza wspólnota jest zaangażowana we współpracę między kreatywnymi, innowacyjnymi ludźmi, sprawnie posługującymi się zaawansowaną technologią. Łączy i wspiera inicjatywy, które potrzebują ich talentów. Inspiruje nas posłanie, które odczytujemy w znakach czasu; Bóg dał nam talenty i uzdolnienia dla dobra Ciała Chrystusa, więc razem możemy osiągnąć to, czego On chce dokonać przez nas. Ty i Twoje uzdolnienia są niezbędne, aby efekty współpracy kilkuosobowych zespołów zaistniały w rzeczywistości duszpasterskiej, społecznej, przemysłowej lub w innych wspólnotach. Tam mogą stać się zalążkiem nowych inicjatyw i projektów.
