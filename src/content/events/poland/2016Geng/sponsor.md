@@ -1,10 +1,10 @@
 ## Be a Sponsor
 ---
 
-Our community is committed to connecting incredible innovators with the Church, organizations, investors, and initiatives that need their talent. God has given us talents and gifts for the good of the larger Body - so together we can accomplish what He wants to do through us. You and your gifts are vital to help extend this ecosystem into your ministry, industry or community.
+Nasza wspólnota jest zaangażowana we współpracę między kreatywnymi, innowacyjnymi ludźmi, sprawnie posługującymi się zaawansowaną technologią. Łączy i wspiera inicjatywy, które potrzebują ich talentów. Inspiruje nas posłanie, które odczytujemy w znakach czasu; Bóg dał nam talenty i uzdolnienia dla dobra Ciała Chrystusa, więc razem możemy osiągnąć to, czego On chce dokonać przez nas. Ty i Twoje uzdolnienia są niezbędne, aby efekty współpracy kilkuosobowych zespołów zaistniały w rzeczywistości duszpasterskiej, społecznej, przemysłowej lub w innych wspólnotach. Tam mogą stać się zalążkiem nowych inicjatyw i projektów.
 
-Code for the Kingdom is looking for sponsors at all levels to support the program financially and contribute company resources, mentorship, and expertise to ensure the success of the Warsaw Code for the Kingdom Global Hackathon Weekend.  We will work closely with major sponsors to ensure you receive sponsorship benefits that support your core objectives. 
+Hakaton Code for the Kingdom poszukuje sponsorów każdego rodzaju, gotowych wpierać wydarzenie zarówno finansowo, jak i rzeczowo, poprzez mentoring i ekspercką wiedzę. To pozwoli zakończyć sukcesem nasz weekendowy maraton kodowania. Będziemy ściśle współpracować z głównymi sponsorami, gwarantując ważne dla nich korzyści.
 
-If you are interested in exploring sponsorship opportunities for 2016 Warsaw Code for the Kingdom hackathon, contact us!
+Jeśli jesteście Państwo zainteresowani możliwościami sponsorowania tego hakatonu, chcecie podzielić się z nami swoimi oczekiwaniami, co do zakresu wparcia i promocji sponsora, prosimy o kontakt!
 
 {{> contact-button}}

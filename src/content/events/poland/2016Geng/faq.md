@@ -1,65 +1,65 @@
 ﻿---
 questions:
 - question:
-    What's a hackathon?
+    Czym jest hakaton?
   answer:
-    A hackathon is an event where people get together and develop some awesome technologies in a short time span. Think of it as a creative marathon where at the end you have some product to show for.
+    Hakaton to „maraton dla hakerów”. Najczęściej weekend, podczas którego ludzie spotykają się i rozwijają swoje pomysły, oparte o najnowocześniejsze technologie, a wszystko w stosunkowo krótkim czasie. Można o nim myśleć jako o twórczym maratonie, prowadzącym do powstania działającego produktu (programu, aplikacji, strony www itp.), którym możesz się pochwalić.
 - question:
-    Who is organizing the 2016 Warsaw Code for the Kingdom Hackathon?
+    Kto organizuje polski hakaton Code for the Kingdom w roku 2016?
   answer:
-    It is being organized by Leadership Network in collaboration with an amazing group of local organizers.
+    Ten hakaton jest tworzony przez amerykańską, chrześcijańską organizację Leadership Network, we współpracy z grupą miejscowych organizatorów.
 - question:
-    What is this hackathon trying to accomplish?
+    W jakim celu jest organizowany ten hakaton?
   answer:
-    This Hackathon is a non-profit event to encourage the activation and on-going collaboration of a larger ecosystem of all sort of creative individuals ( including programmers, designers, creatives, entrepreneurs, and leaders of churches, non-profits, and the marketplace) who are passionate about creating technologies to tackle from a Christian perspective the challenges confronting our society, our communities, our churches, and our spiritual lives.
+    Hackathon jest wydarzeniem nonprofit, zachęcającym do rozpoczęcia i kontynuowania współpracy, w ramach większego ekosystemu osób twórczych. Współpraca toczy się w różnorodnych dziedzinach, z udziałem różnych specjalistów, takich jak programiści, projektanci, twórcy, przedsiębiorcy oraz liderzy kościołów, organizacje nonprofit, przy uwzględnieniu wymagań rynku. Nasi uczestnicy pasjonują się tworzeniem i wykorzystaniem technologii, z chrześcijańskiej perspektywy podejmują wyzwania pojawiające się w społeczeństwie, we wspólnotach, kościołach oraz w życiu duchowym.
 - question:
-    I'm not Christian. Can I still participate?
+    Nie jestem chrześcijaninem. Czy mimo to mogę wziąć udział w tym hakatonie?
   answer:
-    Yes, absolutely. 
+    Tak.
 - question:
-    What if I don’t know how to program?
+    A co, jeśli nie potrafię programować (pisać programów komputerowych)?
   answer:
-    Everyone has something to offer to help transform lives. If you come full of ideas there will be technologists eager to be in a team with you.
+    Każda osoba ma do zaoferowania coś, co może pomóc zmieniać życie ludzi. Jeśli przyjdziesz ze swoimi pomysłami, spotkasz się z osobami biegłymi w nowoczesnych technologiach, którzy chętnie widzieliby Cię w swoim zespole.
 - question:
-    Do I have to bring my own laptop?   
+    Czy mam przynieść mój własny komputer (np. laptop, notebook)?
   answer:
-    Yes; we do not provide computers. Please bring anything you’ll need to code.  
+    Tak. My nie mamy na wyposażeniu komputerów. Proszę, przynieś wszystko, co jest Ci potrzebne do pisania programów lub do innej pracy, którą chcesz nam zaoferować.
 - question:
-    I can’t stay the entire time, can I still participate?   
+    Nie mogę zostać przez cały czas hakatonu, czy w takim razie mogę wziąć udział w części wydarzenia?
   answer:
-    Yes. We realize that 47 hours is a long time, and that some people might have other commitments, or might prefer to work remotely, or need to go home/hotel to rest and shower. Yet, you need to be present for the initial few hours during the startup demos, and at some point you need be at the venue and do some work onsite. You will also need to be present for the final few hours for the presentations and judging.   
+    Tak. Zdajemy sobie sprawę, że 47 godzin to długi czas i są ludzie, którzy mają inne zobowiązania lub wolą pracować zdalnie. Inni chcą pójść do domu czy hotelu, aby odpocząć lub wziąć prysznic. Jednak powinieneś być obecny na początkowych kilku godzinach "startup demos". Powinieneś jednak także być z nami i wykonać na miejscu prowadzenia hakatonu tyle pracy, ile tylko możesz. Niezbędna jest Twoja obecność w czasie kilku godzin w ostatnim dniu, kiedy będą odbywać się prezentacje oraz oceny projektów przez jury.
 - question:
-    Can I present a technology I already have?
+    Czy mogę zaprezentować projekty, które już zrobiłem?
   answer:
-    You can build on top of something you have, but whatever you present must have new code developed for at least one of the challenges of the hackathon and you must do some of that coding at the hackathon venue during the hackathon hours.
+    Możesz budować w oparciu o projekty i technologie, które już masz, ale cokolwiek zaprezentujesz, musi zawierać nowy kod, napisany dla przynajmniej jednego z wyzwań hakatonu i musisz przynajmniej część kodu napisać w czasie trwania hakatonu, w miejscu, gdzie hakaton się odbywa.
 - question:
-    Won’t other teams who are building on top of technologies they already developed, not have an unfair advantage over me who plans to start coding during the actual hackathon hours?   
+    Czy zespoły, które budują w oparciu o już posiadane technologie, nie mają nieuczciwej przewagi nade mną, jeśli ja planuję rozpocząć pisanie programu podczas samego hakatonu?
   answer:
-    We don’t think so. There will be separate awards for teams that present solutions built on their existing technologies, and for teams that start fresh at the hackathon. We want to honor all of you, regardless of whether you have been working for a while on something you are passionate about, or whether you decide on something brand new.
+    Jesteśmy odmiennego zdania. Planowane są osobne nagrody dla zespołów, które prezentują rozwiązania oparte o już posiadane technologie oraz osobne dla zespołów, które planują rozpocząć pracę na hakatonie. Chcemy wyróżnić wszystkich, niezależnie od tego, czy pracujesz już nad czymś, co Cię pasjonuje, czy zdecydowałeś się zająć zupełnie nowym projektem.
 - question:
-    Do I have to work non-stop?
+    Czy muszę pracować cały czas, bez przerwy?
   answer:
-    No. The work space will be available non-stop entire durantion of the hackathon but it is up to you and your team to decide on your work schedule.
+    Nie. Miejsce hakatonu będzie dostępne cały czas, bez przerwy, ale to zależy od Ciebie oraz Twojego zespołu, kiedy będziecie pracować.
 - question:
-    Will I be able to test my presentation before the final presentation?   
+    Czy będę mogła testowo pokazać swoją prezentację przed końcową prezentacją?
   answer:
-    Yes!
+    Tak!
 - question:
-    Who will be in attendance at the final presentations?   
+    Kto będzie obecny na końcowych prezentacjach?
   answer:
-    The final screening is public, although space is limited. Expect a mixture of participants, hi-tech executives, venture capitalists and angels, ministry and non-profit leaders, press, and observers.
+    Końcowe prezentacje są publiczne, aczkolwiek przestrzeń jest ograniczona. Spodziewaj się obecności innych uczestników hakatonu, osób zarządzających z firm IT, inwestorów, „aniołów biznesu", liderów wspólnot i organizacji non-profit, prasy oraz innych zainteresowanych osób.
 - question:
-    What's the hashtag?   
+    Jakiego oznaczenia (ang. hashtag) hakaton używa w ramach serwisu Twitter?
   answer:
-    \#C4TK 
+    \#C4TK
 - question:
-    Who is on the Jury?   
+    Kto będzie oceniał projekty?
   answer:
-    The jury’s composition will be announced closer to the date of the hackathon.
+    Skład jury będzie podany w późniejszym czasie, bliżej terminu rozpoczęcia hakatonu.
 - question:
-    What are the judging criteria?   
+    Jakie będą kryteria oceny projektów?
   answer:
-    The judges will consider Kingdom impact, viability, innovativeness / originality, and completeness.   
+    Jury będzie oceniać wpływ prezentowanego projektu na budowanie Królestwa Bożego, jego opłacalność, innowacyjność, oryginalność oraz kompletność.
 ---
 ## <i class="icon fa-question-circle"></i> FAQ
 {{#each questions}}

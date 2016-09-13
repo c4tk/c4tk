@@ -2,17 +2,12 @@
 ---
 <img src="{{assets}}/images/earth.jpg" style="float:right"/>
 
-Join us for the 2016 Warsaw Code for the Kingdom hackathon. Together with local organizers and partner organizations we share a common vision to provide more opportunities for communities around the world to participate and showcase innovation and entrepreneurship in their communities in creating technologies addressing significant issues confronting society, community, families, and spiritual life.
+W 2015 roku Code for the Kingdom zorganizowało pierwszy weekendowy Globalny Hackaton w 13 miastach na całym świecie równolegle. Wydarzenie odniosło wielki sukces i zgromadziło setki uczestników, którzy stworzyli ponad 100 nowych aplikacji podejmujących tematy społeczeństwa, lokalnych społeczności, rodzin i życia duchowego.
+  
+W 2016 roku Code for the Kingdom rozszerza inicjatywę weekendowego Globalnego Hackatonu o więcej miast. Razem z lokalnymi ogranizatorami i partnerami współdzielimy wizję dostarczenia możliwości uczestnictwa w wydarzeniu na całym świecie, aby poprzez postawę przedsiębiorczości i innowacji służyć społecznościom.
 
-The second Poland Code for the Kingdom hackahton builds upon the success of the 2016 Katowice hackathon, as well as the 2015 Global hackathon and previous regional hackathons, which have already gathered over 3300 technologists to create over 330 projects to do good. This largest ever global faith-inspired tech collaboration will continue to activate technologists and other creative people to give their skills and some time as their contribution to the mission field, and it will also leverage the skills and in- sights of entrepreneurs, designers, and technologists to foster an entrepreneurial culture with Christian values.
+Drugi globalny hackaton Code for the Kingdom został zbudowany na sukcesie wydarzenia z 2015 roku i poprzednich regionalnych hackatonów, które do tej pory zgromadziły ponad 3300 uczestników i stworzyły ponad 330 aplikacji szerzących dobro. Ta największa inspirowana wiarą współpraca będzie kontynuowana, aby aktywować progrmistów, grafików, przedsiębiorców i inne osoby kreatywne, aby dzieliły się swoimi umiejętnościami i czasem w działalności misyjnej, aby promować kulturę przedsiębiorczości opartą o wartości chrześcijańskie.
+ 
+Oczekujemy ponad 1000 uczestników, który podejmą się wielu wyzwań aby uwolnić uciśnionych, nauczać Słowa Bożego, uzdrawiać chorych, karmić głodnych, przyodziać nagich i wspierać Kościół - ciało Chrystusa.
 
-Come, participate and address a number of challenges aimed at helping release the oppressed, teaching God’s Word, healing the sick, feeding the hungry, clothing the naked, and supporting the church and the body of Christ. 
-
-Join us and let’s together create technology that matters.
-
-### Details to be announced soon. 
-
-## Be a part of it.
-
-<iframe src="https://docs.google.com/forms/d/18t5tzaJsapBrFR7fDc_0S0TbPL584G4DF8Su8fL08WM/viewform?embedded=true" width="1000" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-{{> contact-button}}
+Przyjdź i dołącz! Stwórzmy aplikacje, które mają znaczenie!
