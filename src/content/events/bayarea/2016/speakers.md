@@ -1,11 +1,11 @@
 ---
-title: Local Organizers
-cwd: src/content/events/bayarea/2016/organizers
+title: Speakers
+cwd: src/content/events/bayarea/2016/speakers
 ---
 
-## <i class="icon fa-group"></i> <b>Local Organizers</b>
+## <i class="icon fa-group"></i> <b>Speakers</b>
 
-Meet your Local Organizers.
+Meet the Speakers.
 <div class="row">
 {{#compose src='*.md' cwd=cwd}}
 <div class="6u">
