@@ -1,4 +1,4 @@
-﻿## O wydarzeniu
+﻿## About
 ---
 <img src="{{assets}}/images/earth.jpg" style="float:right"/>
 

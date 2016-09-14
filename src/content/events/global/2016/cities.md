@@ -2,7 +2,7 @@
 events:
 
 - name:
-    Atlanta Oct 21-23, 2016
+    Atlanta 2016
   photo:
     atlanta.jpg
   location:
@@ -11,7 +11,7 @@ events:
   link:
    atlanta-hackathon-2016.html       
 - name:
-    Austin Oct 21-23, 2016 
+    Austin 2016 
   photo:
     austin2.jpg
   location:
@@ -19,9 +19,10 @@ events:
   date:
     Oct 21-23, 2016 
   link:
-   austin-hackathon-2016.html     
+   austin-hackathon-2016.html   
+     
 - name:
-    Bengaluru, India Oct 21-23, 2016
+    Bengaluru 2016
   photo:
     bangalore.jpg
   location:
@@ -31,7 +32,7 @@ events:
   link:
    bangalore-hackathon-2016.html        
 - name:
-    Chicago Oct 21-23, 2016
+    Chicago 2016
   photo:
     chicago.jpg
   location:
@@ -41,7 +42,7 @@ events:
   link:
    chicago-hackathon-2016.html             
 - name:
-    Dallas/Fort Worth Oct 21-23, 2016
+    Dallas/Fort Worth 2016
   photo:
     dallas.jpg
   location:
@@ -51,7 +52,7 @@ events:
   link:
    dfw-hackathon-2016.html      
 - name:
-    Denver Oct 21-23, 2016
+    Denver 2016
   photo:
     denver.jpg
   location:
@@ -61,7 +62,7 @@ events:
   link:
     rocky-mountain-hackathon-2016.html
 - name:
-    Guatemala city, Guatemala Oct 21-23, 2016
+    Guatemala city 2016
   photo:
     guatemala.jpg
   location:
@@ -71,7 +72,7 @@ events:
   link:
    guatemala-hackathon-2016.html 
 - name:
-    Jakarta Oct 21-23, 2016
+    Jakarta 2016
   photo:
     Jakarta.jpg
   location:
@@ -79,9 +80,9 @@ events:
   date:
     Oct 21-23, 2016
   link:
-    jakarta-hackathon-2016.html    
+    http://codeforthekingdom.id/    
 - name:
-    La Paz, Bolivia Oct 21-23, 2016  
+    La Paz 2016  
   photo:
     bolivia.jpg
   location:
@@ -91,7 +92,7 @@ events:
   link:
    la-paz-hackathon-2016.html          
 - name:
-    London Oct 21-23, 2016
+    London 2016
   photo:
     london.jpg
   location:
@@ -102,7 +103,7 @@ events:
     http://kingdomcode.uk/    
     
 - name:
-    Manila Oct 21-23, 2016
+    Manila 2016
   photo:
     manila.jpg
   location:
@@ -112,7 +113,7 @@ events:
   link:
     manila-hackathon-2016.html         
 - name:
-    Seattle Oct 21-23, 2016
+    Seattle 2016
   photo:
     seattle1.jpg
   location:
@@ -122,7 +123,7 @@ events:
   link:  
     seattle-hackathon-2016.html     
 - name:
-    Tarija, Bolivia Oct 21-23, 2016  
+    Tarija 2016  
   photo:
     tarija.jpg
   location:
@@ -132,7 +133,7 @@ events:
   link:
    tarija-hackathon-2016.html          
 - name:
-    Warsaw, Poland Oct 21-23, 2016 
+    Warsaw 2016 
   photo:
     warsaw.jpg
   location:

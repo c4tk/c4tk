@@ -9,11 +9,11 @@ Become one of the few developers to provide Deaf Bible videos in your app.
 
 Help Faith Comes By Hearing enhance the Digital Bible Platform for the developer community. Provide your feedback and in turn support enhancements for your apps.
 
-During the event, this username and key will be active so developers can immediately use the API. If you want to continue using the API after the event you can sign up for your own key.
+During the hackathon, this username and key will be active so developers can immediately use the API. If you want to continue using the API after the event you can sign up for your own key.
 
-* Username: c4tksanjose@bible.is
-* Password: sanjose2015
+* Username: c4tk2016@digitalbibleplatform.com
+* Password: kg4Al!4Hn0
 * Login URL: https://www.digitalbibleplatform.com/site/wp-login.php
-* DBT Key: cc79c4b62ebfe6cf77f6d07c27d4949a
+* DBT Key: 606e196e1e72786b3f54eb4c71fcb321
 
 

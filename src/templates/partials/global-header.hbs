@@ -22,7 +22,31 @@ component: event-header
               {{#each pages}}
                 {{#is data.event "latest"}}
                 <li>
-                  <a href="{{relative dest this.dest}}">{{data.title}}</a>
+
+                  {{#is data.title "Jakarta 2016"}}
+                    <a href="http://codeforthekingdom.id">{{data.title}}</a>
+
+                  {{else }}
+                    {{#is data.title  "Jakarta 2015"}}
+                      <a href="http://codeforthekingdom.id">{{data.title}}</a>
+                    {{else }}
+                       {{#is data.title  "Nashville 2016"}}
+                         <a href="http://codeforthekingdomnashville.org">{{data.title}}</a>
+                       {{else }}
+
+                          {{#is data.title  "London 2016"}}
+                            <a href="http://kingdomcode.uk">{{data.title}}</a>
+                          {{else }}
+
+
+                            <a href="{{relative dest this.dest}}">{{data.title}}</a>
+                          {{/is}}
+                      {{/is}}
+
+                    {{/is}}
+                  {{/is}}
+
+
                 </li>
                 {{/is}}
               {{/each}}

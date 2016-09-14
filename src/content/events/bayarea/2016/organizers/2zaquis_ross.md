@@ -1,5 +1,5 @@
 ---
 name: Zaquis Ross
 description: Digital Project Coordinator, Venture Christian Church
-picture: zaquis-ross
+picture: zaquis_ross.jpg
 ---
