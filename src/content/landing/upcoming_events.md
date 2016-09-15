@@ -1,29 +1,29 @@
 ---
-events: 
-   
+events:
+
 - name:
    San Francisco, Fremont, Palo Alto September 23-25, 2016
   photo:
     bayarea2016.jpg  
   location:
-    San Francisco, Fremont, Palo Alto 
+    San Francisco, Fremont, Palo Alto
   date:
     September 23-25, 2016
   link:
     bay-area-hackathon-2016.html        
-    
+
 - name:
-    Global Hackathon Oct 21-23, 2016 
+    Global Hackathon Oct 21-23, 2016
   photo:
     global_weekend.jpg
   location:
     Cities all over the world
   date:
-    Oct 21-23, 2016 
+    Oct 21-23, 2016
   link:
-   global.html  
+    global.html  
 
-   
+
 - name:
     Cape Town Dec 2016
   photo:
@@ -33,12 +33,12 @@ events:
   date:
     December, 2016
   link:
-   cape-town-hackathon-2016.html    
+    cape-town-hackathon-2016.html    
 
 
 
-        
-     
+
+
 
 ---
 

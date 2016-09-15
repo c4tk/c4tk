@@ -9,18 +9,18 @@ events:
   date:
     Oct 21-23, 2016
   link:
-   atlanta-hackathon-2016.html       
+    atlanta-hackathon-2016.html       
 - name:
-    Austin 2016 
+    Austin 2016
   photo:
     austin2.jpg
   location:
     Austin, TX
   date:
-    Oct 21-23, 2016 
+    Oct 21-23, 2016
   link:
-   austin-hackathon-2016.html   
-     
+    austin-hackathon-2016.html   
+
 - name:
     Bengaluru 2016
   photo:
@@ -30,7 +30,7 @@ events:
   date:
     Oct 21-23, 2016
   link:
-   bangalore-hackathon-2016.html        
+    bangalore-hackathon-2016.html        
 - name:
     Chicago 2016
   photo:
@@ -40,7 +40,7 @@ events:
   date:
     Oct 21-23, 2016
   link:
-   chicago-hackathon-2016.html             
+    chicago-hackathon-2016.html             
 - name:
     Dallas/Fort Worth 2016
   photo:
@@ -50,7 +50,7 @@ events:
   date:
     Oct 21-23, 2016
   link:
-   dfw-hackathon-2016.html      
+    dfw-hackathon-2016.html      
 - name:
     Denver 2016
   photo:
@@ -58,7 +58,7 @@ events:
   location:
     Denver
   date:
-    Oct 21-23, 2016 
+    Oct 21-23, 2016
   link:
     rocky-mountain-hackathon-2016.html
 - name:
@@ -70,7 +70,7 @@ events:
   date:
     Oct 21-23, 2016
   link:
-   guatemala-hackathon-2016.html 
+    guatemala-hackathon-2016.html
 - name:
     Jakarta 2016
   photo:
@@ -90,7 +90,7 @@ events:
   date:
     Oct 21-23, 2016
   link:
-   la-paz-hackathon-2016.html          
+    la-paz-hackathon-2016.html          
 - name:
     London 2016
   photo:
@@ -101,7 +101,7 @@ events:
     Oct 21-23, 2016
   link:
     http://kingdomcode.uk/    
-    
+
 - name:
     Manila 2016
   photo:
@@ -131,9 +131,9 @@ events:
   date:
     Oct 21-23, 2016
   link:
-   tarija-hackathon-2016.html          
+    tarija-hackathon-2016.html          
 - name:
-    Warsaw 2016 
+    Warsaw 2016
   photo:
     warsaw.jpg
   location:
@@ -141,10 +141,10 @@ events:
   date:
     Oct 21-23, 2016
   link:
-   warsaw-hackathon-2016.html      
-    
-                      
-    
+    warsaw-hackathon-2016.html      
+
+
+
 ---
 
 
