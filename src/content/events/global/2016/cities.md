@@ -10,16 +10,7 @@ events:
     Oct 21-23, 2016
   link:
     atlanta-hackathon-2016.html       
-- name:
-    Austin 2016
-  photo:
-    austin2.jpg
-  location:
-    Austin, TX
-  date:
-    Oct 21-23, 2016
-  link:
-    austin-hackathon-2016.html   
+
 
 - name:
     Bengaluru 2016

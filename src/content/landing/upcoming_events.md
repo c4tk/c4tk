@@ -35,8 +35,16 @@ events:
   link:
     cape-town-hackathon-2016.html    
 
-
-
+- name:
+    Austin 2017
+  photo:
+    austin2.jpg
+  location:
+    Austin, TX
+  date:
+    Spring 2017
+  link:
+    austin-hackathon-2016.html   
 
 
 

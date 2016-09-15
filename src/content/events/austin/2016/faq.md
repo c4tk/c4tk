@@ -5,7 +5,7 @@ questions:
   answer:
     A hackathon is an event where people get together and develop some awesome technologies in a short time span. Think of it as a creative marathon where at the end you have some product to show for.
 - question:
-    Who is organizing the 2016 Austin Code for the Kingdom Hackathon?
+    Who is organizing the 2017 Austin Code for the Kingdom Hackathon?
   answer:
     It is being organized by Leadership Network in collaboration with an amazing group of local organizers.
 - question:
