@@ -6,7 +6,7 @@ cwd: src/content/events/bayarea/2016/challenges
 
 Here are the challenges to get you started. Please remember that more challenges may be presented on the first day of the Hackathon.
 
-In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the spirit of the Hackathon: Transforming the Bay and Beyond. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
+In case you are already interested or working on a project, don’t change course. But please keep in mind that your project must be aligned with the spirit of the Hackathon. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
 
 
 {{#compose src="*.md" cwd=cwd}}

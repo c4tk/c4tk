@@ -10,10 +10,5 @@ Come, participate and address a number of challenges aimed at helping release th
 
 Join us and let’s together create technology that matters.
 
-### Details to be announced soon. 
-
-## Be a part of it.
-
-<iframe src="https://docs.google.com/forms/d/193-0l6fbRLKmvzBHNEnhIQs2kBFaOL91MMN2jq8sdhg/viewform?embedded=true" width="1000" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 {{> contact-button}}

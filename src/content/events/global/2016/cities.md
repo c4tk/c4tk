@@ -21,7 +21,19 @@ events:
   date:
     Oct 21-23, 2016
   link:
-    bangalore-hackathon-2016.html        
+    bangalore-hackathon-2016.html  
+          
+- name:
+    Cali 2016
+  photo:
+    cali.jpg
+  location:
+    Cali, Colombia
+  date:
+    Oct 21-23, 2016
+  link:
+    cali-hackathon-2016.html   
+    
 - name:
     Chicago 2016
   photo:
@@ -31,7 +43,9 @@ events:
   date:
     Oct 21-23, 2016
   link:
-    chicago-hackathon-2016.html             
+    chicago-hackathon-2016.html       
+     
+             
 - name:
     Dallas/Fort Worth 2016
   photo:
