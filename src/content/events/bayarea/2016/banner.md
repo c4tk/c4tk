@@ -13,7 +13,7 @@
       </header>
       <p>{{this.date}}</p>
       <p>Three Cities, one simultaneous hackathon</p>
-      <p>San Francisco, Palo Also, and Fremont</p>
+      <p>San Francisco, Palo Alto, and Fremont</p>
       
       <img style="max-width:50%" src="{{assets}}/images/banners/{{this.logo}}"/>
 
