@@ -6,37 +6,26 @@
     automatically wrap lines, so be sure to use line breaks where
     appropriate (<br />).
   -->
-    <div class="inner">
+      <div class="inner">
       <header>
+        <h2>Transforming the Bay and Beyond Hackathon</h2>
         <h2>Code for the Kingdom<br/>&nbsp;{{this.title}}</h2>
       </header>
       <p>{{this.date}}</p>
-      <p>&nbsp;</p>
-       <p><b>{{this.location1}}:</b> {{this.Address1}}</p>
-       <p>&nbsp;</p>
-       <p><b>{{this.location2}}:</b> {{this.Address2}}</p>
-       <p>&nbsp;</p>
-       <p><b>{{this.location3}}:</b> {{this.Address3}}</p>
-       <p>&nbsp;</p>
+      <p>Three Cities, one simultaneous hackathon</p>
+      <p>San Francisco, Palo Also, and Fremont</p>
+      
+      <img style="max-width:50%" src="{{assets}}/images/banners/{{this.logo}}"/>
 
-     
-             
-      <p>A Leadership Network Hackathon</p>
-      <br> </br>
-      <p>IN COLLABORATION WITH</p>
-
-<a href="http://venturechristian.org" target="_blank">
-<img style="max-width:100%"  src="{{assets}}/images/sponsors/{{this.logo}}"/>
-  </a>
-
-
-      <p></p>
       <footer>
         <ul class="buttons">
           <li><a href="#about.md" class="button fit scrolly">Tell Me More</a></li>
           <li>{{> register-button}}</li>
-          </ul>
+        </ul>
       </footer>
     </div>
+  
+  
+   
 
 </section>
