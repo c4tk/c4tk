@@ -10,7 +10,7 @@
 9. Visit http://localhost:9000 to view the site on your local machine.
 
 # How to view the site locally on your machine
-In the repository you should see Gruntfile.js which makes available two tasks: `server` and `build`.
+In the repository's master branch you should see Gruntfile.js which makes available two tasks: `server` and `build`.
 server is used to run the site locally so you can play with it while making your changes.
 build is used to compile the site into the `dist/` directory. When the site is built, the contents of the `dist/` folder can be copied to any server and you can start using the site.
 
