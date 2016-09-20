@@ -10,7 +10,7 @@ champions:
 
 Transforming the Bay with Christ (TBC) is leading a coalition of business leaders, venture capitalists, pastors, and non-profit leaders, to activate a grass roots movement that will transform the Bay Area through social compassion and service. 
 
-As Peter Drucker wisely wrote: “If you can't measure it, you can't manage it”, how can we meet the needs of the Bay Area if we do not clearly, what ministries are doing, where they are doing itand what the gaps are? TBC wants to help solve that issue with your help.
+As Peter Drucker wisely wrote: “If you can't measure it, you can't manage it”, how can we meet the needs of the Bay Area if we do not clearly understand what ministries are doing, where they are doing it and what the gaps are? TBC wants to help solve that issue with your help.
 
 At the 2015 Bay Area Code for the Kingdom hackathon, TBC challenged participants to help create technology by which to map and track the needs of schools in the Bay Area and the opportunity for Bay Area churches and non-profits to help meet those needs.  A team came together at the hackathon to work on this challenge, and the team has continued since then to work with TBC.
 
