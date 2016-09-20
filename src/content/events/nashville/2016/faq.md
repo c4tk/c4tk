@@ -65,7 +65,7 @@ questions:
   answer:
     \#C4TK and \#c4tknashville
 - question:
-    Is there a skack channel?   
+    Is there a slack channel?
   answer:
     Yes, c4tk.slack.com
 
