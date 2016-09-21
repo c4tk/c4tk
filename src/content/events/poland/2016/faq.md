@@ -41,7 +41,7 @@ questions:
   answer:
     Nie. Miejsce hakatonu będzie dostępne cały czas, bez przerwy, ale to zależy od Ciebie oraz Twojego zespołu, kiedy będziecie pracować.
 - question:
-    Czy będę mogła testowo pokazać swoją prezentację przed końcową prezentacją?
+    Czy będę mógł testowo pokazać swoją prezentację przed końcową prezentacją?
   answer:
     Tak!
 - question:
