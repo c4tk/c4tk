@@ -1,6 +1,7 @@
 ---
 name: Yu-kai Chou
-description: Gamification Author & International Keynote Speaker 
+time: Sat Oct 24th 11:00 am
+description: Gamification Pioneer & Serial Entrepreneur 
 picture: yu-kai-chou.jpg
 ---
 Yu-kai Chou is the Original Creator of the gamification framework: Octalysis, and the author of Actionable Gamification: Beyond Points, Badges, and Leaderboards. He is the Founder of The Octalysis Group and has been a regular speaker/lecturer on gamification worldwide, including at organizations like Google, Stanford University, LEGO, TEDx, SxSW, Gamified India, Huawei, the Innovation Center in Denmark, Kingdom of Bahrain, and many more.

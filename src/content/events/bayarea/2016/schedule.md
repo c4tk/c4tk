@@ -18,19 +18,16 @@
 </tr>
 
 <tr class="row-5">
-  <td class="column-1"><strong>8:15 PM - 8:30 PM</strong></td><td class="column-2">Keynote by Henry Kaestner, Managing Partner at Sovereign's Capital</td>
+  <td class="column-1"><strong>8:15 PM </strong></td><td class="column-2">Keynote by [Henry Kaestner](#Speakers.md), Managing Partner at Sovereign's Capital</td>
 </tr>
 
 <tr class="row-6">
-  <td class="column-1"><strong>8:31 PM - 8:34 PM</strong></td><td class="column-2">API Presentations</td>
+  <td class="column-1"><strong>8:50 PM - 9:10 PM</strong></td><td class="column-2">Review - Official Challenges </td>
 </tr>
 <tr class="row-7">
-  <td class="column-1"><strong>8:35 PM - 9:10 PM</strong></td><td class="column-2">Review - Official Challenges </td>
-</tr>
-<tr class="row-8">
   <td class="column-1"><strong>9:10 PM - 9:40 PM</strong></td><td class="column-2">Open Floor - pitch your own project</td>
 </tr>
-<tr class="row-9">
+<tr class="row-8">
   <td class="column-1"><strong>9:40 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Create Away</td>
 </tr>
 </tbody>
@@ -53,7 +50,7 @@
 <tr class="row-4 even">
   <td class="column-1"><strong>10:00 AM</strong></td><td class="column-2">Reboot and Rally</td>
 <tr class="row-5">
-  <td class="column-1"><strong>8:15 PM - 8:35 PM</strong></td><td class="column-2">Keynote by Yu-kai Chou, Gamification Pioneer</td>
+  <td class="column-1"><strong>11 AM</strong></td><td class="column-2">Keynote by [Yu-kai Chou](#Speakers.md), Gamification Pioneer</td>
 </tr>
   
   

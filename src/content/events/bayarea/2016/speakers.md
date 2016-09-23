@@ -15,7 +15,8 @@ Meet the Speakers.
       </span>
       <p class="mentor-titles">
         {{@name}}<br/>
-        {{@description}}
+        {{@description}}<br/> 
+        {{@time}}<br/>        
       </p>
   </div>
   <div class="6u content mentor-description">

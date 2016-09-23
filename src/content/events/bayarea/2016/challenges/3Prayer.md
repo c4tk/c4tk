@@ -20,4 +20,5 @@ Build technologies that activate, inform, and grow the 24/7 prayer community.
 
 Create solutions to mobilize 24/7 prayer and worship for ministries, schools, neighborhoods, friends, families.
 
-Leverage technology to discover and respond to how God is moving in the 24/7 prayer community in the Bay Area, the nation and across the globe
+Leverage technology to discover and respond to how God is moving in the 24/7 prayer community in the Bay Area, the nation and across the globe. <div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/98s9eMzLL_Q?rel=0" frameborder="0" allowfullscreen></iframe></div> 
+

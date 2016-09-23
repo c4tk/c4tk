@@ -1,5 +1,6 @@
 ---
 name: Henry Kaestner
+time: Fri Oct 23rd 8:15 pm
 description: Managing Partner, Sovereign's Capital
 picture: henry_kaestner.jpg
 twitter: handle
