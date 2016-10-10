@@ -11,4 +11,4 @@ All food and drink will be provided. Lodging will also be available, if needed (
 
 Sponsors, challenges, prizes, and speakers will be announced soon. Check back on this page or the Eventbrite page for updated information
 
-### More details soon! 
+
