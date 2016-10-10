@@ -1,5 +1,16 @@
 ---
 events:
+
+- name:
+   San Francisco, Fremont, Palo Alto September 23-25, 2016
+  photo:
+    bayarea2016.jpg  
+  location:
+    San Francisco, Fremont, Palo Alto
+  date:
+    September 23-25, 2016
+  link:
+    bay-area-hackathon-2016.html  
     
 - name:
     Katowice, Poland May 20-22, 2016 
