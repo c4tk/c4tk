@@ -1,16 +1,6 @@
 ---
 events:
 
-- name:
-    Atlanta 2016
-  photo:
-    atlanta.jpg
-  location:
-  date:
-    Oct 21-23, 2016
-  link:
-    atlanta-hackathon-2016.html       
-
 
 - name:
     Bengaluru 2016
@@ -66,16 +56,7 @@ events:
     Oct 21-23, 2016
   link:
     rocky-mountain-hackathon-2016.html
-- name:
-    Guatemala city 2016
-  photo:
-    guatemala.jpg
-  location:
 
-  date:
-    Oct 21-23, 2016
-  link:
-    guatemala-hackathon-2016.html
 - name:
     Jakarta 2016
   photo:
