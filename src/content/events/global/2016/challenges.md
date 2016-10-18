@@ -6,7 +6,7 @@ cwd: src/content/events/global/2016/challenges
 
 Here are the global challenges to get you started. Please remember that more challenges may be presented between now and the first day of the Hackathon.
 
-In case you are already interested or working on a project, don’t change course. Make sure you submit your project on [Indigitous.org](https://indigitous.org), and check the projects others are submitting there. Keep in mind that your project must be aligned with the spirit of the Code for the Kingdom. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
+In case you are already interested or working on a project, don’t change course. Make sure you submit your project on [DevPost](http://c4tkglobal2016.devpost.com/), and check the projects others are submitting there. Keep in mind that your project must be aligned with the spirit of the Code for the Kingdom. Please come prepared to pitch your project at the Hackathon so that you can recruit teams to work on them.
 
 {{#compose src="*.md" cwd=cwd}}
 <div class="row">
@@ -33,7 +33,7 @@ In case you are already interested or working on a project, don’t change cours
 <br/>
 <div>
   <div style="display:inline-block">
-  <a class="button special-alternate"  href="https://indigitous.org/c4tk-project/" target="_blank">
-    SEE MORE LOCAL CHALLENGES AND PROJECTS ON INDIGITOUS
+  <a class="button special-alternate"  href="http://c4tkglobal2016.devpost.com/" target="_blank">
+    SEE MORE LOCAL CHALLENGES AND PROJECTS ON DEVPOST
   </a>
   </div>
