@@ -1,16 +1,11 @@
 ---
-name: Kamil Gałuszka
+name: Kamil Galuszka
 description: Co-founder of Solution4Future
 picture: kamil.jpg 
-categories: ideation design business entrepreneurship development marketing coding
+categories: ideation design business entrepreneurship  marketing coding
 ---
 
 
 <p>
-
-
-Kamil is the Co-founder of Solution4Future and a Member of the Board at Hackerspace Silesia. He is responsible for developing mainly web and mobile applications. 
-
-With expertise in Python and JavaScript he has deep understand of design patterns in creating good software code.  Developing mobile apps is his passion
-
+Kamil 4 years ago started software house Solution4Future with his friends  He has broad knowledge as a Python and JavaScript/TypeScript developer and software architect. His field of expertise can help developers to find solutions that are suitable for MVP
 </p>
