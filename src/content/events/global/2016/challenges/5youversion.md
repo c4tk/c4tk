@@ -13,6 +13,5 @@ What would it look like if you would talk to the bible? How would someone who do
 
 How would AI interface with the Bible and deliver the search with my innermost need?
 
-What would the Bible look like in a chat box environment?<div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/EBGGWbEoxH0?rel=0" frameborder="0" allowfullscreen></iframe></div> 
-
+What would the Bible look like in a chat box environment?<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/uCiDk7m5QZI?rel=0" frameborder="0" allowfullscreen></iframe></div> 
 

@@ -2,7 +2,7 @@
 name: Kenneth Finsaas
 description: Strategic Development, Thrivent Financial
 picture: kenneth_finsaas.jpg
-categories: business  design coding ideation strategy entrepreneurship
+categories: business  design ideation strategy entrepreneurship
 ---
 
 <p>
