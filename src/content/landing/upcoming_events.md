@@ -2,156 +2,18 @@
 events:
 
 - name:
-    Global Hackathon Oct 21-23, 2016
-  photo:
-    global_weekend.jpg
-  location:
-    Cities all over the world
-  date:
-    Oct 21-23, 2016
-  link:
-    global.html  
-   
-
-- name:
-    Bengaluru 2016
-  photo:
-    bangalore.jpg
-  location:
-
-  date:
-    Oct 21-23, 2016
-  link:
-    bangalore-hackathon-2016.html  
-          
-- name:
-    Cali 2016
+    Cali, Colombia Oct 28-30, 2016
   photo:
     cali.jpg
   location:
     Cali, Colombia
   date:
-    Oct 21-23, 2016
+    Oct 28-30, 2016
   link:
     cali-hackathon-2016.html    
-    
+ 
 - name:
-    Chicago 2016
-  photo:
-    chicago.jpg
-  location:
-    Chicago, IL
-  date:
-    Oct 21-23, 2016
-  link:
-    chicago-hackathon-2016.html      
-             
-- name:
-    Dallas/Fort Worth 2016
-  photo:
-    dallas.jpg
-  location:
-    Dallas/Fort Worth
-  date:
-    Oct 21-23, 2016
-  link:
-    dfw-hackathon-2016.html      
-- name:
-    Denver 2016
-  photo:
-    denver.jpg
-  location:
-    Denver
-  date:
-    Oct 21-23, 2016
-  link:
-    rocky-mountain-hackathon-2016.html
-
-- name:
-    Jakarta 2016
-  photo:
-    Jakarta.jpg
-  location:
-
-  date:
-    Oct 21-23, 2016
-  link:
-    http://codeforthekingdom.id/    
-- name:
-    La Paz 2016  
-  photo:
-    bolivia.jpg
-  location:
-    La Paz, Bolivia
-  date:
-    Oct 21-23, 2016
-  link:
-    la-paz-hackathon-2016.html          
-- name:
-    London 2016
-  photo:
-    london.jpg
-  location:
-
-  date:
-    Oct 21-23, 2016
-  link:
-    http://kingdomcode.uk/    
-
-- name:
-    Manila 2016
-  photo:
-    manila.jpg
-  location:
-
-  date:
-    Oct 21-23, 2016
-  link:
-    manila-hackathon-2016.html         
-- name:
-    Seattle 2016
-  photo:
-    seattle1.jpg
-  location:
-    Seattle, WA
-  date:
-    Oct 21-23, 2016
-  link:  
-    seattle-hackathon-2016.html     
-- name:
-    Tarija 2016  
-  photo:
-    tarija.jpg
-  location:
-    tarija, Bolivia
-  date:
-    Oct 21-23, 2016
-  link:
-    tarija-hackathon-2016.html          
-- name:
-    Warsaw 2016
-  photo:
-    warsaw.jpg
-  location:
-    Warsaw, Poland
-  date:
-    Oct 21-23, 2016
-  link:
-    warsaw-hackathon-2016.html      
-
-- name:
-    Cape Town Dec 2016
-  photo:
-    capetown.jpg
-  location:
-
-  date:
-    December, 2016
-  link:
-    cape-town-hackathon-2016.html    
-
-- name:
-    Austin 2017
+    Austin Spring 2017
   photo:
     austin2.jpg
   location:
@@ -160,6 +22,17 @@ events:
     Spring 2017
   link:
     austin-hackathon-2016.html   
+    
+- name:
+    Nashville, TN  March 10-12, 2017
+  photo:
+    nashville.jpg  
+  location:
+     at Lipscomb University, Swang Business Building
+  date:
+    March 10-12, 2016
+  link:
+    http://codeforthekingdomnashville.org    
 
 
 
