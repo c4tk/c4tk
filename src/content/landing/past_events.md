@@ -2,6 +2,17 @@
 events:
 
 - name:
+    Cali, Colombia Oct 28-30, 2016
+  photo:
+    cali.jpg
+  location:
+    Cali, Colombia
+  date:
+    Oct 28-30, 2016
+  link:
+    cali-hackathon-2016.html    
+
+- name:
     Global Hackathon Oct 21-23, 2016
   photo:
     global_weekend.jpg

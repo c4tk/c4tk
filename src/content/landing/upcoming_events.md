@@ -1,19 +1,10 @@
 ---
 events:
 
-- name:
-    Cali, Colombia Oct 28-30, 2016
-  photo:
-    cali.jpg
-  location:
-    Cali, Colombia
-  date:
-    Oct 28-30, 2016
-  link:
-    cali-hackathon-2016.html    
+
  
 - name:
-    Austin Spring 2017
+    Austin, TX Spring 2017
   photo:
     austin2.jpg
   location:
@@ -21,7 +12,7 @@ events:
   date:
     Spring 2017
   link:
-    austin-hackathon-2016.html   
+    austin-hackathon-2017.html   
     
 - name:
     Nashville, TN  March 10-12, 2017
