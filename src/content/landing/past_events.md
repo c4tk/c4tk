@@ -1,6 +1,19 @@
 ---
 events:
 
+    
+- name:
+    Nashville, TN  March 10-12, 2017
+  photo:
+    nashville.jpg  
+  location:
+     at Lipscomb University, Swang Business Building
+  date:
+    March 10-12, 2016
+  link:
+    http://codeforthekingdomnashville.org    
+
+
 - name:
     Cali, Colombia Oct 28-30, 2016
   photo:

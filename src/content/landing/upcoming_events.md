@@ -2,28 +2,20 @@
 events:
 
 
+- name:
+    Chicago 2017
+  photo:
+    chicago.jpg
+  location:
+    Chicago, IL
+  date:
+    July 28-30, 2017
+  link:
+    chicago-hackathon-2017.html   
  
-- name:
-    Austin, TX Spring 2017
-  photo:
-    austin2.jpg
-  location:
-    Austin, TX
-  date:
-    Spring 2017
-  link:
-    austin-hackathon-2017.html   
+  
     
-- name:
-    Nashville, TN  March 10-12, 2017
-  photo:
-    nashville.jpg  
-  location:
-     at Lipscomb University, Swang Business Building
-  date:
-    March 10-12, 2016
-  link:
-    http://codeforthekingdomnashville.org    
+  
 
 
 
