@@ -9,7 +9,7 @@
     <section class="contact-form wrapper style4 special container">
       <!-- Content -->
         <div class="content">
-          <form class="contact-form" data-action-path="http://formspree.io/chris.armas@leadnet.org" method="post">
+          <form class="contact-form" data-action-path="http://formspree.io/chrisarmas2@gmail.com" method="post">
             <div class="row half no-collapse-1">
               <div class="6u">
                 <input type="text" name="name" placeholder="Name" />

@@ -11,7 +11,7 @@ events:
   date:
     July 28-30, 2017
   link:
-    chicago-hackathon-2017.html   
+    https://www.chic4tk.tech  
  
   
     
