@@ -41,13 +41,17 @@ component: event-header
                            {{#is data.title  "Chicago 2017"}}
                              <a href="https://www.chic4tk.tech">{{data.title}}</a>
                          {{else }}
-                             {{#is data.title  "London 2016"}}
+                            {{#is data.title  "London 2017"}}
+                               <a href="http://kingdomcode.uk/build/">{{data.title}}</a>
+                            {{else }}
+                             {{#is data.title  "London"}}
                                <a href="http://kingdomcode.uk">{{data.title}}</a>
                               {{else }}
 
 
-                            <a href="{{relative dest this.dest}}">{{data.title}}</a>
-                          {{/is}}
+                               <a href="{{relative dest this.dest}}">{{data.title}}</a>
+                             {{/is}}
+                           {{/is}}
                        {{/is}}
                       {{/is}}
 
