@@ -1,18 +1,6 @@
 ---
 events:
 
-
-- name:
-    Chicago 2017
-  photo:
-    chicago.jpg
-  location:
-    Chicago, IL
-  date:
-    July 28-30, 2017
-  link:
-    https://www.chic4tk.tech  
-
 - name:
     London 2017
   photo:
