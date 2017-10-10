@@ -1,6 +1,18 @@
 ---
 events:
    
+   - name:
+    Bogota 2017
+  photo:
+    bogota.jpg
+  location:
+   Bogota, Colombia   
+  date:
+    Sep 15-17, 2017
+  link:
+    https://www.facebook.com/c4tkco/
+   
+   
 - name:
     Chicago 2017
   photo:

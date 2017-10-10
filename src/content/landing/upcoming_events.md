@@ -1,17 +1,7 @@
 ---
 events:
 
-- name:
-    Bogota 2017
-  photo:
-    bogota.jpg
-  location:
-   Bogota, Colombia
-  event: latest   
-  date:
-    Sep 15-17, 2017
-  link:
-    https://www.facebook.com/c4tkco/
+
  
 - name:
     Jakarta 2017
