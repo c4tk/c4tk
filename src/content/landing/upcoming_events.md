@@ -2,34 +2,6 @@
 events:
 
 
- 
-- name:
-    Jakarta 2017
-  photo:
-    Jakarta.jpg
-  location:
-     Jakarta, Indonesia
-  event: latest    
-  date:
-    Oct 20-22, 2017
-  link:
-    http://codeforthekingdom.id/  
-
-
-- name:
-    London 2017
-  photo:
-    london.jpg
-  location:
-    London, England
-  event: latest   
-  date:
-    Oct 20-22, 2017
-  link:
-    http://kingdomcode.uk/build/ 
- 
-
-
 
 ---
 
