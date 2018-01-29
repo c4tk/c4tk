@@ -1,6 +1,136 @@
 ---
 events:
 
+- name:
+    Nashville 2018, Feb 9-11
+  photo:
+    nashville.jpg  
+  location:
+     at LifeWay Headquarters
+  date:
+    February 9-11, 2018
+  link:
+    http://codeforthekingdomnashville.org  
+
+    
+ 
+
+ 
+    
+- name:
+    Bogota 2018 - Details soon
+  photo:
+    bogota.jpg
+  location:
+   Bogota, Colombia   
+  date:
+    Details soom
+  link:
+    https://www.facebook.com/c4tkco/
+   
+   
+- name:
+    Chicago 2018 - Details soon
+  photo:
+    chicago.jpg
+  location:
+    Chicago, IL
+  date:
+    Details soon
+  link:
+    https://www.chic4tk.tech  
+    
+- name:
+    Dallas/Fort Worth 2018 - Details soon
+  photo:
+    dallas.jpg
+  location:
+    Dallas/Fort Worth
+  date:
+    Details soon
+     
+- name:
+    Denver 2018 - Details soon
+  photo:
+    denver.jpg
+  location:
+    Denver
+  date:
+    Details soon
+    
+
+- name:
+    Jakarta 2018 - Details soon
+  photo:
+    Jakarta.jpg
+  location:
+    Jakarta
+  date:
+    Details soon
+  link:
+    http://codeforthekingdom.id/        
+
+- name:
+    La Paz 2018 - Details soon  
+  photo:
+    bolivia.jpg
+  location:
+    La Paz, Bolivia
+  date:
+    Details soon
+    
+- name:
+    London 2018 - Details soon
+  photo:
+    london.jpg
+  location:
+    London, England 
+  date:
+    Details soon
+  link:
+    http://kingdomcode.uk   
+
+- name:
+    Manila 2018 - Details soon
+  photo:
+    manila.jpg
+  location:
+    Manila
+  date:
+    Details soon
+
+
+- name:
+    San Francisco Bay Area 2018 - Details soon
+  photo:  
+    bayarea.jpg 
+  location:
+    Bay Area
+  date:
+    Details soon
+  link:
+    
+        
+- name:
+    Seattle 2018 - Details soon
+  photo:
+    seattle1.jpg
+  location:
+    Seattle, WA
+  date:
+    Details soon
+   
+        
+- name:
+    Warsaw 2018 - Details soon
+  photo:
+    warsaw.jpg
+  location:
+    Warsaw, Poland
+  date:
+    Details soon
+   
+
 
 
 ---
