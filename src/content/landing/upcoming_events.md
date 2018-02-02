@@ -11,7 +11,18 @@ events:
     February 9-11, 2018
   link:
     http://codeforthekingdomnashville.org  
-
+    
+        
+- name:
+    Seattle 2018, Mar 9-10
+  photo:
+    seattle1.jpg
+  location:
+    Seattle, WA
+  date:
+    March 9-10, 2018
+  link:
+    seattle-hackathon-2018.html
     
  
 
@@ -109,16 +120,6 @@ events:
   date:
     Details soon
   link:
-    
-        
-- name:
-    Seattle 2018 - Details soon
-  photo:
-    seattle1.jpg
-  location:
-    Seattle, WA
-  date:
-    Details soon
    
         
 - name:
