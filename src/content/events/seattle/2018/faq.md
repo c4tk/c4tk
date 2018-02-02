@@ -5,10 +5,6 @@ questions:
   answer:
     A hackathon is an event where people get together and develop some awesome technologies in a short time span. Think of it as a creative marathon where at the end you have some product to show for.
 - question:
-    Who is organizing the 2018 Seattle Code for the Kingdom Hackathon?
-  answer:
-    It is being organized by Leadership Network in collaboration with an amazing group of local organizers.
-- question:
     What is this hackathon trying to accomplish?
   answer:
     This Hackathon is a non-profit event to encourage the activation and on-going collaboration of a larger ecosystem of all sort of creative individuals ( including programmers, designers, creatives, entrepreneurs, and leaders of churches, non-profits, and the marketplace) who are passionate about creating technologies to tackle from a Christian perspective the challenges confronting our society, our communities, our churches, and our spiritual lives.
