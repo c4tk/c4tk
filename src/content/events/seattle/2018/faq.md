@@ -27,7 +27,7 @@ questions:
 - question:
     I can’t stay the entire time, can I still participate?   
   answer:
-    Yes. We realize that 47 hours is a long time, and that some people might have other commitments, or might prefer to work remotely, or need to go home/hotel to rest and shower. Yet, you need to be present for the initial few hours during the startup demos, and at some point you need be at the venue and do some work onsite. You will also need to be present for the final few hours for the presentations and judging.   
+    Yes. We realize that 24 hours is a long time, and that some people might have other commitments, or might prefer to work remotely, or need to go home/hotel to rest and shower. Yet, you need to be present for the initial few hours during the startup demos, and at some point you need be at the venue and do some work onsite. You will also need to be present for the final few hours for the presentations and judging.   
 - question:
     Can I present a technology I already have?
   answer:
