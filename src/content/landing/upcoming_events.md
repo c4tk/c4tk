@@ -1,18 +1,7 @@
 ---
 events:
 
-- name:
-    Nashville 2018, Feb 9-11
-  photo:
-    nashville.jpg  
-  location:
-     at LifeWay Headquarters
-  date:
-    February 9-11, 2018
-  link:
-    http://codeforthekingdomnashville.org  
-    
-        
+       
 - name:
     Seattle 2018, Mar 9-10
   photo:
