@@ -1,6 +1,6 @@
 ---
 title: Mentors and Judges
-cwd: src/content/events/Seattle/2018/mentors
+cwd: src/content/events/seattle/2018/mentors
 ---
 ## <i class="icon fa-group"></i> Mentors and Judges
 
