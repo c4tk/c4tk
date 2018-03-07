@@ -35,7 +35,7 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
-  <td class="column-1"><strong>12:00 AM - 2:00 PM</strong></td><td class="column-2">Creating</td>
+  <td class="column-1"><strong>12:00 AM - 3:00 PM</strong></td><td class="column-2">Creating</td>
 </tr>
 <tr class="row-3 odd">
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
