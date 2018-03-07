@@ -11,17 +11,17 @@
   <td class="column-1"><strong>5:00 PM</strong></td><td class="column-2">Doors Open </td>
 </tr>
 <tr class="row-3 odd">
-  <td class="column-1"><strong>5:00 PM - 6:00 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
+  <td class="column-1"><strong>6:00 PM - 6:45 PM</strong></td><td class="column-2">Dinner &amp; Networking</td>
 </tr>
 <tr class="row-4 even">
-  <td class="column-1"><strong>5:30 PM - 6:30 PM</strong></td><td class="column-2">Welcome, Announcements, API presentations, Official Challenges </td>
+  <td class="column-1"><strong>6:45 PM - 7:30 PM</strong></td><td class="column-2">Welcome, Announcements, API presentations, Official Challenges </td>
 </tr>
 
 <tr class="row-5 odd">
-  <td class="column-1"><strong>6:30 PM - 7:30 PM</strong></td><td class="column-2">Optional - Pitch your own project/Team-finding</td>
+  <td class="column-1"><strong>7:30 PM - 8:00 PM</strong></td><td class="column-2">Open Floor - Pitch your own project/Team-finding</td>
 </tr>
 <tr class="row-6 even">
-  <td class="column-1"><strong>7:30 PM - 11:59 PM</strong></td><td class="column-2">Hack!</td>
+  <td class="column-1"><strong>8:00 PM - 11:59 PM</strong></td><td class="column-2">Team Formation/Create Away!</td>
 </tr>
 </tbody>
 </table>
@@ -35,6 +35,9 @@
 </thead>
 <tbody class="row-hover">
 <tr class="row-2 even">
+  <td class="column-1"><strong>12:00 AM - 2:00 PM</strong></td><td class="column-2">Creating</td>
+</tr>
+<tr class="row-3 odd">
   <td class="column-1"><strong>8:30 AM</strong></td><td class="column-2">Breakfast</td>
 </tr>
 <tr class="row-4 even">
@@ -44,15 +47,12 @@
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
 <tr class="row-6 even">
-  <td class="column-1"><strong>3:00 PM</strong></td><td class="column-2">Submission Deadline</td>
+  <td class="column-1"><strong>3:00 PM</strong></td><td class="column-2">Submission Deadline; Team Presentations Begin</td>
 </tr>
 <tr class="row-7 odd">
-  <td class="column-1"><strong>4:00 PM</strong></td><td class="column-2">Team Presentations Begin</td>
-</tr>
-<tr class="row-8 even">
   <td class="column-1"><strong>5:00 PM</strong></td><td class="column-2">Awards Ceremony</td>
 </tr>
-<tr class="row-9 odd">
+<tr class="row-8 even">
   <td class="column-1"><strong>5:30 PM</strong></td><td class="column-2">Closing</td>
 </tr>
 </tbody>
