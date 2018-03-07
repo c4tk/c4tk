@@ -47,12 +47,15 @@
   <td class="column-1"><strong>12:00 PM</strong></td><td class="column-2">Lunch</td>
 </tr>
 <tr class="row-6 even">
-  <td class="column-1"><strong>3:00 PM</strong></td><td class="column-2">Submission Deadline; Team Presentations Begin</td>
+  <td class="column-1"><strong>3:00 PM</strong></td><td class="column-2">Submission Deadline</td>
 </tr>
 <tr class="row-7 odd">
-  <td class="column-1"><strong>5:00 PM</strong></td><td class="column-2">Awards Ceremony</td>
+  <td class="column-1"><strong>4:00 PM</strong></td><td class="column-2">Team Presentations Begin</td>
 </tr>
 <tr class="row-8 even">
+  <td class="column-1"><strong>5:00 PM</strong></td><td class="column-2">Awards Ceremony</td>
+</tr>
+<tr class="row-9 odd">
   <td class="column-1"><strong>5:30 PM</strong></td><td class="column-2">Closing</td>
 </tr>
 </tbody>
