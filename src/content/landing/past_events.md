@@ -1,6 +1,17 @@
 ---
 events:
-   
+
+- name:
+    Seattle 2018, Mar 9-10
+  photo:
+    seattle1.jpg
+  location:
+    Seattle, WA
+  date:
+    March 9-10, 2018
+  link:
+    seattle-hackathon-2018.html  
+
 - name:
     Nashville 2018, Feb 9-11
   photo:
