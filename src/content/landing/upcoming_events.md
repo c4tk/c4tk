@@ -2,7 +2,7 @@
 events:
 
 - name:
-    Seattle 2018, May 3-4
+    Seattle 2019, May 3-4
   photo:
     seattle1.jpg
   location:

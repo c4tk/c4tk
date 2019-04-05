@@ -1,7 +1,5 @@
 ---
 title: Challenges
-cwd: src/content/events/global/2019/challenges
-cwd1: src/content/events/seattle/2019/challenges
 ---
 ## <i class="icon fa-flag"></i> Challenges
 
