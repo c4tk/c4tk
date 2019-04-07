@@ -1,7 +1,7 @@
 ﻿---
 name: Sang Tian
 description: 
-picture: sang_tian.jpg
+picture: sang_tian.png
 
 ---
 
