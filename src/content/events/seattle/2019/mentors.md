@@ -1,7 +1,6 @@
 ---
 title: Mentors and Judges
-cwd: src/content/events/seattle/2019/mentors
-cwd1: src/content/events/seattle/2019/judges
+cwd1: src/content/events/seattle/2019/judges-mentors
 ---
 ## <i class="icon fa-group"></i> Mentors and Judges
 
@@ -26,3 +25,4 @@ Meet with Mentors is a great opportunity to connect with industry experts who ca
 </div>
 {{/compose}}
 </div>
+
