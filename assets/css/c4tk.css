@@ -108,6 +108,10 @@
   overflow: auto;
 }
 
+.mentor-description a {
+  color: #a9d6d1;
+}
+
 .sponsor-image img {
   width: 300px;
   height: 110px;
