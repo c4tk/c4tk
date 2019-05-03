@@ -3,7 +3,7 @@
 <table class="default">
 <thead>
 <tr class="row-1 odd">
-  <th colspan="2" class="column-1"><div>Friday, March 9th</div></th>
+  <th colspan="2" class="column-1"><div>Friday, May 3</div></th>
 </tr>
 </thead>
 <tbody class="row-hover" role="alert" aria-live="polite" aria-relevant="all">
