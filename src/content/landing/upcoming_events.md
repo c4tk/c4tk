@@ -2,15 +2,15 @@
 events:
 
 - name:
-    Seattle 2019, May 3-4
+    Virtual 2021, March 19-20
   photo:
     seattle1.jpg
   location:
-    Seattle, WA
+    Virtual
   date:
-    May 3-4, 2019
+    March 19-20, 2021
   link:
-    seattle-hackathon-2019.html   
+    seattle-hackathon-2021.html   
  
 ---
 

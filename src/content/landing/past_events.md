@@ -2,6 +2,17 @@
 events:
 
 - name:
+    Seattle 2019, May 3-4
+  photo:
+    seattle1.jpg
+  location:
+    Seattle, WA
+  date:
+    May 3-4, 2019
+  link:
+    seattle-hackathon-2019.html  
+
+- name:
     Seattle 2018, Mar 9-10
   photo:
     seattle1.jpg
