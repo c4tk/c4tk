@@ -2,6 +2,18 @@
 events:
 
 - name:
+    Virtual 2021, March 19-20
+  photo:
+    seattle1.jpg
+  location:
+    Virtual
+  date:
+    March 19-20, 2021
+  link:
+    seattle-hackathon-2021.html  
+
+
+- name:
     Seattle 2019, May 3-4
   photo:
     seattle1.jpg
@@ -33,7 +45,7 @@ events:
     February 9-11, 2018
   link:
     http://codeforthekingdomnashville.org     
- 
+
 - name:
     Jakarta 2017
   photo:
@@ -51,13 +63,13 @@ events:
   photo:
     london.jpg
   location:
-    London, England 
+    London, England
   date:
     Oct 20-22, 2017
   link:
-    http://kingdomcode.uk/build/ 
- 
-    
+    http://kingdomcode.uk/build/
+
+
 - name:
     Bogota 2017
   photo:
@@ -68,8 +80,8 @@ events:
     Sep 15-17, 2017
   link:
     https://www.facebook.com/c4tkco/
-   
-   
+
+
 - name:
     Chicago 2017
   photo:
@@ -80,7 +92,7 @@ events:
     July 28-30, 2017
   link:
     https://www.chic4tk.tech  
-    
+
 - name:
     Nashville, TN  March 10-12, 2017
   photo:
@@ -114,7 +126,7 @@ events:
     Oct 21-23, 2016
   link:
     global.html  
-   
+
 
 - name:
     Bengaluru 2016
@@ -126,7 +138,7 @@ events:
     Oct 21-23, 2016
   link:
     bangalore-hackathon-2016.html  
-              
+
 - name:
     Chicago 2016
   photo:
@@ -137,7 +149,7 @@ events:
     Oct 21-23, 2016
   link:
     chicago-hackathon-2016.html      
-             
+
 - name:
     Dallas/Fort Worth 2016
   photo:
@@ -243,18 +255,18 @@ events:
     September 23-25, 2016
   link:
     bay-area-hackathon-2016.html  
-    
+
 - name:
-    Katowice, Poland May 20-22, 2016 
+    Katowice, Poland May 20-22, 2016
   photo:
     katowice.jpg
   location:
     Katowice, Poland
   date:
-    2016 
+    2016
   link:
    poland-hackathon-2016.html      
-    
+
 - name:
     La Paz, Bolivia April 22-24, 2016  
   photo:
@@ -262,10 +274,10 @@ events:
   location:
     La Paz, Bolivia
   date:
-    April 22-24, 2016 
+    April 22-24, 2016
   link:
    bolivia-hackathon.html       
-     
+
 - name:
     Nashville, TN  March 11-13, 2016
   photo:
@@ -287,7 +299,7 @@ events:
     March 3-5, 2016
   link:
    cbu2016.html    
-                 
+
 - name:
     Bay Area 2015, Nov 13-15, 2015
   photo:
@@ -298,8 +310,8 @@ events:
     Nov 13-15, 2015
   link:
     bay-area-hackathon-2015.html   
-    
-    
+
+
 - name:
     Rocky Mountain, CO Nov 6-8, 2015
   photo:
@@ -307,27 +319,27 @@ events:
   location:
 
   date:
-    Nov 6-8, 2015 
+    Nov 6-8, 2015
   link:
     denver-hackathon-2015.html
 
 - name:
-    Global Hackathon Oct 2-4, 2015 
+    Global Hackathon Oct 2-4, 2015
   photo:
     global_weekend.jpg
   location:
     13 Cities around the world
   date:
-    Oct 2-4, 2015 
+    Oct 2-4, 2015
   link:
    global2015.html  
-   
+
 - name:
     Addis Ababa, Ethiopia   Oct 2-4, 2015
   photo:
     addis_ababa.jpg
   location:
-    
+
   date:
     Oct 2-4, 2015
   link:
@@ -362,7 +374,7 @@ events:
     Oct 2-4, 2015
   link:
    bangalore-hackathon-2015.html
-   
+
 - name:
     Dallas/Fort Worth, TX   Oct 2-4, 2015
   photo:
@@ -386,7 +398,7 @@ events:
   link:
    guatemala2015GEsp.html
 
-   
+
 - name:
     Jakarta, Indonesia   Oct 2-4, 2015
   photo:
@@ -405,7 +417,7 @@ events:
   location:
 
   date:
-    Oct 2-4, 2015 
+    Oct 2-4, 2015
   link:
     london2015G.html
 
@@ -416,7 +428,7 @@ events:
   location:
 
   date:
-    Oct 2-4, 2015 
+    Oct 2-4, 2015
   link:
     http://www.codeforthekingdomla.com   
 
@@ -448,7 +460,7 @@ events:
   location:
 
   date:
-    Oct 2-4, 2015 
+    Oct 2-4, 2015
   link:
     seattle2015G.html
 - name:
@@ -458,7 +470,7 @@ events:
   location:
 
   date:
-    Oct 2-4, 2015 
+    Oct 2-4, 2015
   link:
     waterloo2015G.html   
 
@@ -471,7 +483,7 @@ events:
   date:
     July 10-11, 2015
   link:
-    microsoft2015.html 
+    microsoft2015.html
 - name:
     Orlando May 22-24, 2015
   photo:
@@ -479,7 +491,7 @@ events:
   location:
     Wycliffe Associates, 11450 Translation Way, Orlando, FL
   date:
-    May 22-24, 2015 
+    May 22-24, 2015
   link:
     orlando2015.html
 - name:
@@ -489,7 +501,7 @@ events:
   location:
     The Addison TreeHouse, Addison TX
   date:
-    March 20-22, 2015 
+    March 20-22, 2015
   link:
     dfw2015.html
 - name:
@@ -499,7 +511,7 @@ events:
   location:
     TBD
   date:
-    Oct 31- Nov 2 
+    Oct 31- Nov 2
   link:
     bangalore2014.html
 - name:

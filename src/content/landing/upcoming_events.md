@@ -1,17 +1,8 @@
 ---
 events:
 
-- name:
-    Virtual 2021, March 19-20
-  photo:
-    seattle1.jpg
-  location:
-    Virtual
-  date:
-    March 19-20, 2021
-  link:
-    seattle-hackathon-2021.html   
  
+
 ---
 
 
