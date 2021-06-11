@@ -1,4 +1,4 @@
-﻿<section id="banner">
+<section id="banner">
 
   <!--
     ".inner" is set up as an inline-block so it automatically expands
@@ -14,11 +14,7 @@
        <p>{{this.location}}</p>
       <p>Un Hackathon de Leadership Network</p>
       <br> </br>
-      <p>EN COLABORACIÓN CON</p>
 
-<a href="https://indigitous.org/c4tk-project/" target="_blank">
-<img style="max-width:100%"  src="{{assets}}/images/sponsors/{{this.logo}}"/>
-  </a>
 
 
       <p></p>

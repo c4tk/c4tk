@@ -1,4 +1,4 @@
-﻿---
+---
 questions:
 - question:
     What's a hackathon?
@@ -7,7 +7,7 @@ questions:
 - question:
     Who is organizing the Global 2015 Code for the Kingdom Hackathon?
   answer:
-    It is being organized by Leadership Network in collaboration with Indigitous, and local organizers in every participating city.
+    It is being organized by Leadership Network and local organizers in every participating city.
 - question:
     What is this hackathon trying to accomplish?
   answer:
