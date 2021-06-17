@@ -364,16 +364,7 @@ events:
     Oct 2-4, 2015
   link:
    Atlanta2015G.html
-- name:
-    Bengaluru, India   Oct 2-4, 2015
-  photo:
-    bangalore.jpg
-  location:
 
-  date:
-    Oct 2-4, 2015
-  link:
-   bangalore-hackathon-2015.html
 
 - name:
     Dallas/Fort Worth, TX   Oct 2-4, 2015
