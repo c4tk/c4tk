@@ -14,12 +14,6 @@
        <p>{{this.location}}</p>
       <p>A Leadership Network Hackathon</p>
       <br> </br>
-      <p>IN COLLABORATION WITH</p>
-
-<a href="https://indigitous.org/c4tk-project/" target="_blank">
-<img style="max-width:100%"  src="{{assets}}/images/sponsors/{{this.logo}}"/>
-  </a>
-
 
       <p></p>
       <footer>

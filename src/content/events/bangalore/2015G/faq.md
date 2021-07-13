@@ -1,4 +1,4 @@
-﻿---
+---
 # HACKATHON FAQs
 questions:
 - question:
@@ -24,7 +24,7 @@ questions:
 - question:
     Sounds interesting; by the way, who is organizing \#C4TK Bengaluru 2015?
   answer:
-    \#C4TK or Code For the Kingdom is a global Christian Hackathon movement facilitated by Leadership Network. The 2015 Indian edition in Bengaluru is organized by Indigitous (www.indigitous.org) and YCL (www.youngcreativeleaders.com).
+    \#C4TK or Code For the Kingdom is a global Christian Hackathon movement facilitated by Leadership Network. The 2015 Indian edition in Bengaluru is organized by YCL (www.youngcreativeleaders.com).
 - question:
     What is \#C4TK Bengaluru’s objective?
   answer:
@@ -291,7 +291,7 @@ questions:
 - question:
     Whaaaa??? That’s awesome. How will prizes be shared among team members?
   answer:
-    We know you’re big boys and can figure this on your own. Code For The Kingdom, YCL and Indigitous are here only to facilitate this digital commission and will not interfere in how each team decides to share the spoils. When the winners are announced on Sunday at 4pm, they will be asked to confirm how to divide the cash and other prizes amongst the team members.
+    We know you’re big boys and can figure this on your own. Code For The Kingdom and YCL are here only to facilitate this digital commission and will not interfere in how each team decides to share the spoils. When the winners are announced on Sunday at 4pm, they will be asked to confirm how to divide the cash and other prizes amongst the team members.
 - question:
     Cool! Who will be on the jury?
   answer:
